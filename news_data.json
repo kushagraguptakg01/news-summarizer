@@ -3,6 +3,46 @@
     "theme_name": "Latest MEA briefing Details",
     "specific_points": [
       {
+        "point_summary": "An Indian military press briefing is scheduled shortly, to be addressed by Wg Cdr Vyomika Singh, Cmde Raghu R Nair (NM), and Col Sofiya Qureshi. This follows an earlier announcement by Foreign Secretary Vikram Misri about an upcoming joint press briefing by the Indian Army, Air Force, and Navy. MoD also announced a special briefing on Operation Sindoor. Sidhant reported journalists were entering the foreign ministry for this briefing as news of a potential ceasefire broke.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 06:08 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921183130674745846",
+            "tweet_content": "Shortly, A Press Briefing by Indian Military -Wg Cdr Vyomika Singh  -Cmde Raghu R Nair, NM -Col Sofiya Qureshi @WIONews"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:58 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921180658107404333",
+            "tweet_content": "Up next: Indian Army, Indian Air Force, Indian Navy Press briefing shortly"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:56 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921180102483706365",
+            "tweet_content": "Foreign secretary Vikram Misri briefing starts"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:55 PM IST",
+            "tweet_link": "https://x.com/SpokespersonMoD/status/1921179831766839638",
+            "tweet_content": "Special briefing on Operation Sindoor (May 10, 2025)"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:55 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921179788162498702",
+            "tweet_content": "Shortly:"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:40 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921176050370740599",
+            "tweet_content": "Journalists entering into India's foreign ministry for the briefing, all glued into mobile, as Trump says India, Pakistan have agreed for ceasefire"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:15 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921169846366085354",
+            "tweet_content": "Now entering India's foreign ministry headquarters for the India Press briefing on operation Sindoor"
+          }
+        ]
+      },
+      {
         "point_summary": "Announcements were made for an MEA and MoD press briefing scheduled for 6 PM IST, reportedly the second of the day, to provide updates. An earlier tweet mentioned a 5:30 PM IST start time. One report suggested an earlier briefing involved Col. Sofiya Qureshi and Wg Cdr Vyomika Singh, and a subsequent briefing was expected to update on PAF airbases struck by the IAF.",
         "contributing_tweets": [
           {
@@ -35,15 +75,762 @@
     ]
   },
   {
+    "theme_name": "International Diplomacy & Reactions to Tensions",
+    "specific_points": [
+      {
+        "point_summary": "A ceasefire agreement between India and Pakistan has been announced, reportedly effective from 5:00 PM IST on May 10, 2025, covering land, air, and sea. The agreement was reached after Pakistan's DGMO called the Indian DGMO at 3:35 PM IST. Foreign Secretary Vikram Misri confirmed the ceasefire. The DGMOs are scheduled to hold further talks on May 12 at 12:00 PM IST. Former J&K DGP SP Vaid commented positively on the development, suggesting US mediation and India's condition of Pakistan stopping terrorism. This was also reported by multiple sources as a direct understanding between the two countries, with Pakistan initiating the call. US President Donald Trump also announced the ceasefire on social media, stating it was reached after a 'long night of talks mediated by the United States'. US Secretary of State Marco Rubio (likely referring to Senator Marco Rubio) and VP Vance engaged with senior Indian and Pakistani officials over the past 48 hours. Pakistan's Foreign Minister Ishaq Dar also confirmed the ceasefire.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 06:09 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921183412162793733",
+            "tweet_content": "#WATCH | Jammu: On India- Pakistan ceasefire agreement, former J&K DGP SP Vaid says, \" It is a good development...I feel that India has kept a condition that Pakistan needs to stop its acts of terrorism...US was doing the mediation...therefore, this agreement happened. Ceasefire"
+          },
+          {
+            "posted_ist": "May 10, 2025, 06:03 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921181759561183318",
+            "tweet_content": "\"Pakistan's DGMO called Indian DGMO at 15:35 hours earlier this afternoon. It was agreed between them that both sides would stop all firing and military action on land, in the air & sea with effect from 1700 hours IST. Instructions have been given on both sides to give effect to"
+          },
+          {
+            "posted_ist": "May 10, 2025, 06:01 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921181296090304702",
+            "tweet_content": "On 12 May at 1200 hrs will hold next round of talks about further decisions."
+          },
+          {
+            "posted_ist": "May 10, 2025, 06:00 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921180990568829388",
+            "tweet_content": "Breaking: The Director General of Military Operations of Pakistan called DGMO of India at 15:35 hrs earlier this afternoon. It was agreed that both sides will stop firing in land, air and sea from 17.00 hours IST. DGMO will talk on 12 May"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:59 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921180677606699353",
+            "tweet_content": "Foreign Secretary Vikram Misri: India, Pakistan have agreed to a ceasefire"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:58 PM IST",
+            "tweet_link": "https://x.com/ShivAroor/status/1921180636376953016",
+            "tweet_content": "How India-Pak Ceasefire Happened  12 hours after Indian strikes on 8 Pak air bases, Pak DGMO called Indian DGMO at 3.35PM today, requesting an understanding to enter a full ceasefire from 5pm. India agreed after discussions. The two DGMOs will speak again on May 12 at 12pm."
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:58 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921180539832156529",
+            "tweet_content": "#WATCH | Delhi: Foreign Secretary Vikram Misri says, \"Pakistan's Directors General of Military Operations (DGMO) called Indian DGMO at 15:35 hours earlier this afternoon. It was agreed between them that both sides would stop all firing and military action on land and in the air"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:54 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921179583375614315",
+            "tweet_content": "Trump says, India and Pakistan have agreed to a FULL AND IMMEDIATE CEASEFIRE."
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:52 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921179100158312734",
+            "tweet_content": "India Pakistan Conflict  Pakistan and India have agreed to a ceasefire with immediate effect: Pakistan Foreign Minister Dar"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:52 PM IST",
+            "tweet_link": "https://x.com/ShivAroor/status/1921178975013138861",
+            "tweet_content": "BREAKING: Pakistan\u2019s DG Military Operations (DGMO) initiated a call today to his Indian counterpart, leading to a direct understanding with India to halt firing and military action. No talks planned on any other issue or location."
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:51 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921178846847496638",
+            "tweet_content": "Sources: There is no decision to hold talks on any other issue at any other place."
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:50 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921178585739497725",
+            "tweet_content": "Breaking: Sources: Stoppage of firing & military action between India & Pakistan was worked out directly between the two countries. Pak DGMO initiated the call this afternoon after which discussions took place & understanding reached."
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:50 PM IST",
+            "tweet_link": "https://x.com/ndtv/status/1921178512406573432",
+            "tweet_content": "#BREAKING | US President Donald Trump says \"full, immediate\" India-Pakistan ceasefire after \"long night of talks\" NDTV's  @ShivAroor  reports @VishnuNDTV  |  @GaurieD  | #India | #Pakistan | #IndiaPakistanCeasefire"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:49 PM IST",
+            "tweet_link": "https://x.com/ShivAroor/status/1921178303521538088",
+            "tweet_content": "BREAKING: Pak Foreign Minister announces ceasefire with India with immediate effect."
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:49 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921178227508117785",
+            "tweet_content": "'Pleased to announce the Govts of India, Pakistan have agreed to an immediate ceasefire,' US Secretary of India Marco Rubio"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:48 PM IST",
+            "tweet_link": "https://x.com/ani_digital/status/1921178067436753168",
+            "tweet_content": "US President Donald Trump announces, \"India-Pakistan have agreed to full and immediate ceasefire\" Read  @ANI  Story | https://aninews.in/news/world/us/us-president-donald-trump-announces-india-pakistan-have-agreed-to-full-and-immediate-ceasefire20250510174627/\u2026 #DonaldTrump #India #Pakistan",
+            "associated_embedded_links": [
+              "https://aninews.in/news/world/us/us-president-donald-trump-announces-india-pakistan-have-agreed-to-full-and-immediate-ceasefire20250510174627/"
+            ]
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:48 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921177981751366090",
+            "tweet_content": "The stoppage of firing and military action between India and Pakistan was worked out directly between the two countries. The Pak DGMO initiated the call this afternoon after which discussions took place and understanding reached. There is no decision to hold talks on any other"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:47 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921177808342045171",
+            "tweet_content": "Pakistan Dy PM and foreign Minister Ishaq Dar tweets, \"Pakistan and India  have agreed to a ceasefire with immediate effect...\""
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:45 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921177150759063923",
+            "tweet_content": "US Secretary of State Marco Rubio tweets \"Over the past 48 hours, VP Vance and I have engaged with senior Indian and Pakistani officials, including Prime Ministers Narendra Modi and Shehbaz Sharif, External Affairs Minister Subrahmanyam Jaishankar, Chief of Army Staff Asim Munir,"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:37 PM IST",
+            "tweet_link": "https://x.com/SecRubio/status/1921175185836708140",
+            "tweet_content": "Over the past 48 hours,  @VP  Vance and I have engaged with senior Indian and Pakistani officials, including Prime Ministers Narendra Modi and Shehbaz Sharif, External Affairs Minister Subrahmanyam Jaishankar, Chief of Army Staff Asim Munir, and National Security Advisors Ajit"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:37 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921175257383158180",
+            "tweet_content": "Big Breaking: India, Pakistan de-escalate"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:34 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921174591038202184",
+            "tweet_content": "Trump makes an announcement on the social media platform 'truth social'"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:34 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921174485731860577",
+            "tweet_content": "US President Donald Trump says, \"After a long night of talks mediated by the United States, I am pleased to announce that India and Pakistan have agreed to a full and immediate ceasefire...\""
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:33 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921174309420020027",
+            "tweet_content": "Breaking: Donald Trump says India, Pakistan have agreed to 'full & immediate ceasefire'"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:33 PM IST",
+            "tweet_link": "https://x.com/ShivAroor/status/1921174220593107173",
+            "tweet_content": "BREAKING  Trump announces India & Pakistan have agreed to a full and immediate ceasefire. (Not fake: https://truthsocial.com/@realDonaldTrump/114483405683675564\u2026)",
+            "associated_embedded_links": [
+              "https://truthsocial.com/@realDonaldTrump/114483405683675564"
+            ]
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:31 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921173641011528110",
+            "tweet_content": "I am pleased to announce that India and Pakistan have agreed to a full and immediate ceasefire, said US President Donald Trump: Reuters reported"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:20 PM IST",
+            "tweet_link": "https://x.com/ani_digital/status/1921170999006884046",
+            "tweet_content": "Saudi Foreign Minister calls EAM Jaishankar, Pak FM Dar to de-escalate tensions Read  @ANI  Story | https://aninews.in/news/world/middle-east/saudi-foreign-minister-holds-calls-eam-jaishankar-pak-fm-dar-to-de-escalate-tensions20250510145955/\u2026 #India #SaudiArabia #Pakistan",
+            "associated_embedded_links": [
+              "https://aninews.in/news/world/middle-east/saudi-foreign-minister-holds-calls-eam-jaishankar-pak-fm-dar-to-de-escalate-tensions20250510145955/"
+            ]
+          }
+        ]
+      },
+      {
+        "point_summary": "India rubbished Pakistan's claim of an Indian missile attack on Afghanistan, with Foreign Secretary Vikram Misri stating 'Afghans don't need a reminder' of Pakistan's terrorism. Afghanistan also denied any such claims.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 04:29 PM IST",
+            "tweet_link": "https://x.com/WIONews/status/1921158230925078931",
+            "tweet_content": "India rubbishes Pakistan's claim of Indian missile attack on Afghanistan, says 'Afghans don't need a reminder' of Pakistan's terrorism No truth to such claims: Afghanistan  @sidhant  gets you more details"
+          }
+        ]
+      },
+      {
+        "point_summary": "Foreign Secretary Vikram Misri slammed Pakistani propaganda that India was planning to target Nankana Sahib as a 'blatant lie'.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:32 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921174021866914031",
+            "tweet_content": "'Blatant lie', India's Foreign secretary Vikram Misri slams Pakistani propaganda that India was planning to target Nankana Sahib"
+          }
+        ]
+      },
+      {
+        "point_summary": "Amidst the India-Pakistan conflict, American and Saudi officials have reportedly contacted both Islamabad and Delhi, aiming to de-escalate the crisis that arose from the Pahalgam terror attack by Pakistani terrorists.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:09 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921137948713423022",
+            "tweet_content": "India Pakistan Conflict  Since morning, Americans & Saudis have dialed Islamabad, Delhi both hoping to reduce the ongoing crisis that emerged after the Pahalgam terror attack by Pakistani terrorists."
+          }
+        ]
+      },
+      {
+        "point_summary": "Saudi Arabia's Foreign Minister Faisal bin Farhan has spoken with both Indian and Pakistani foreign ministers, urging de-escalation and an end to the military confrontation.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:01 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921135944213688354",
+            "tweet_content": "Breaking: Saudi Arabia says FM Farhan spoke to Indian, Pakistani foreign ministers; called for de-escalation, end to military confrontation  Readout"
+          }
+        ]
+      },
+      {
+        "point_summary": "Aravind speculates that the US, despite providing credit to Pakistan for F-16 repairs, might be covertly assisting India with intelligence for targeting, aiming to weaken China's proxy (Pakistan).",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:58 PM IST",
+            "tweet_link": "https://x.com/aravind/status/1921135209371586749",
+            "tweet_content": "The US gave Pak $400m credit line to repair its F-16s, make them all fine. But now there will be no F-16s to repair. What despair. Situation for Pak looks dire. I say the US already knew. And is giving India all the info. Where to hit, what to hit. To make the China proxy split."
+          }
+        ]
+      },
+      {
+        "point_summary": "Afghanistan's Ministry of Defense spokesperson, Enayatullah Khwarazmi, and the Taliban government have strongly denied Pakistan's claims that Indian missiles landed in Afghanistan or that Afghan territory was used in any Indian attack on Pakistan. India, through Foreign Secretary Vikram Misri, also rejected these claims as 'frivolous and false,' accusing Pakistan of spreading disinformation and being unfamiliar with democracy.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:51 PM IST",
+            "tweet_link": "https://x.com/AdityaRajKaul/status/1921133429921325328",
+            "tweet_content": "#BREAKING: Afghan Defense Ministry spokesperson Enayatullah Khwarazmi has denied Pakistan's claim that Afghanistan's territory was used or had faced any attack by India's missile attack on Pakistan. (Afghans have always trusted Indians any day more than any Pakistani)"
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:47 PM IST",
+            "tweet_link": "https://x.com/AdityaRajKaul/status/1921132599277224257",
+            "tweet_content": "#BREAKING: Afghanistan has rubbished Pakistan DG ISPR\u2019s wild claim that Indian missiles landed in Afghanistan. Taliban Spokesperson has rejected the propaganda theory. Pakistan desperate to divide India-Afghan ties after debacle in ties between Pakistan and Taliban."
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:34 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921129318366728306",
+            "tweet_content": "India Pakistan conflict Breaking: India, Afghanistan reject & slam Pakistani claims of Indian missile attack on Afghanistan earlier today"
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:32 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921128625652257110",
+            "tweet_content": "Spokesman for the Afghan Ministry of Defense Inayatullah Khawarizmi to Hurriyat Radio: We strongly rejected Pakistan's claim about India's missile attack on Afghan territory. No truth to such claims"
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:31 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921128482739781891",
+            "tweet_content": "BREAKING: AFGHANISTAN'S TALIBAN GOVT REJECTS PAKISTANI CLAIMS OF INDIAN MISSILE ATTACK ON AFGHAN TERRITORY Spokesman for the Afghan Ministry of Defense Inayatullah Khawarizmi says no truth to Pakistani claims"
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:15 PM IST",
+            "tweet_link": "https://x.com/ani_digital/status/1921116835497361895",
+            "tweet_content": "Pakistan's actions being seen as escalatory, provocative in nature, says Foreign Secretary Misri Read  @ANI  Story | https://aninews.in/news/world/asia/pakistans-actions-being-seen-as-escalatory-provocative-in-nature-says-foreign-secretary-misri20250510132856/\u2026 #India #Pakistan #OperationSindoor #VikramMisri",
+            "associated_embedded_links": [
+              "https://aninews.in/news/world/asia/pakistans-actions-being-seen-as-escalatory-provocative-in-nature-says-foreign-secretary-misri20250510132856/"
+            ]
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:14 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921124398834102342",
+            "tweet_content": "\"Afghan people don't need to be reminded about which country targeted civilian populations & civilian infrastructure in Afghanistan\", FS Vikram Misri  @VikramMisri  slams Pakistan's claims of India launching missile on Afghanistan"
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:14 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921124181468483692",
+            "tweet_content": "Foreign secretary Vikram Misri  @VikramMisri  slams Pakistani Army Spokesman. Says Pakistan is \"unfamiliar with open & functioning democracy\""
+          },
+          {
+            "posted_ist": "May 10, 2025, 01:56 PM IST",
+            "tweet_link": "https://x.com/AdityaRajKaul/status/1921119545814868174",
+            "tweet_content": "India\u2019s Foreign Secretary Vikram Misri blasts Pakistan claim of India firing missiles toward Afghanistan. Pakistan trying to mislead the world by spreading disinformation.   Terming Pakistan\u2019s claim about India firing missiles towards Afghanistan as \u201cfrivolous and false\u201d Foreign"
+          }
+        ]
+      },
+      {
+        "point_summary": "Vinay Mohan Kwatra, India's Ambassador to the U.S., stated on CBS that Pakistan's actions demonstrate its support for terrorists rather than the civilized world. Indian envoys to the US (Kwatra) and UK (Vikram Doraiswami) also corrected CNN and BBC respectively on their Kashmir terminology.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:35 PM IST",
+            "tweet_link": "https://x.com/AdityaRajKaul/status/1921129407051087913",
+            "tweet_content": "Yesterday what Pakistan did actually conveys a very clear signal to all of us and to the rest of the world that they actually stand with the terrorist, not with the rest of the civilized world  - Ambassador of India to U.S.A, Vinay Mohan Kwatra on CBS."
+          },
+          {
+            "posted_ist": "May 10, 2025, 03:51 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921148689948549204",
+            "tweet_content": "India Pakistan Conflict  Indian Envoy to US Vinay Mohan Kwatra  @AmbVMKwatra  corrects CNN, & Indian envoy to UK Vikram Doraiswami  @VDoraiswami  corrects BBC on Kashmir terminology."
+          }
+        ]
+      },
+      {
+        "point_summary": "Indian Envoy to Spain, Dinesh K. Patnaik, commented on 'Operation Sindoor,' stating India attacked terror camps and highlighted Pakistan's Defence Minister admitting support to terrorism, emphasizing India's efforts to stop terror infrastructure and protect civilians.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 04:18 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921155329338880360",
+            "tweet_content": "Indian Envoy to Spain  @DineshKPatnaik  on Op Sindoor  'We attacked the terror camps' 'Osama Bin Laden was found near Army HQ' 'Pakistani Defence minister admitted support to terrorism' 'We are trying to stop the terror infrastructure' 'we are protecting our civilians'"
+          }
+        ]
+      },
+      {
+        "point_summary": "Indian High Commissioner to the UK, Vikram Doraiswami, stated that India had restrained for 30 years, accused the Pakistani state of using nuclear rhetoric, affirmed India's lack of desire for larger conflict, and noted that funds for Pakistan often go to its military. He also corrected BBC on Kashmir terminology and emphasized that India has taken out terror infrastructure that Pakistan has harbored for 30 years, with Pakistani leadership acknowledging support for terrorism.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:46 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921147278867284439",
+            "tweet_content": "Indian Envoy to UK  @HCI_London   @VDoraiswami  to BBC 'We have taken out terror infrastructure' 'Pakistan has terrorist infrastructure for last 30 years' 'Pakistan's leadership have acknowledged support to terrorism' Corrects BBC on Kashmir terminology"
+          },
+          {
+            "posted_ist": "May 10, 2025, 03:26 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921142299762774067",
+            "tweet_content": "Indian HC to UK  @HCI_London   @VDoraiswami  on India Pakistan conflict  'We had restrained for 30 years' 'Nuclear word is being used by Pakistani state' 'we have no desire for larger conflict with Pakistan' 'Funds for Pakistan goes to military'"
+          }
+        ]
+      },
+      {
+        "point_summary": "EAM S. Jaishankar posted on 'X' about a conversation with US Senator Marco Rubio, stating India's approach has always been measured and responsible.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:16 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921109546312847449",
+            "tweet_content": "EAM S Jaishankar posts on 'X': \"Had a conversation with US Secretary of State Marco Rubio this morning. India\u2019s approach has always been measured and responsible, and remains so.\""
+          }
+        ]
+      },
+      {
+        "point_summary": "Foreign Secretary Vikram Misri stated that Pakistan continues its execrable and wanton campaign of targeting civilians and civilian infrastructure, and that its claims are heavy on lies, misinformation, and propaganda peddled by state agencies. He also accused Pakistan of lame attempts to divide India.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:15 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921124492287295543",
+            "tweet_content": "Pakistan's lame attempts to divide India are doomed to failure, says Foreign secretary Vikram Misri  @VikramMisri"
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:14 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921124076975763665",
+            "tweet_content": "'Pakistan continues with its execrable & wanton campaign of targeting civilians & civilian infrastructure', Foreign Minister Vikram Misri  @VikramMisri"
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:13 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921124018976870840",
+            "tweet_content": "\"Pakistani claims about activities that they have undertaken continue to be heavy on lies, misinformation, and propaganda. This is peddled by Pakistani state agencies\", Foreign secretary Vikram Misri  @VikramMisri"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "theme_name": "Misinformation, Propaganda & Media Advisories",
+    "specific_points": [
+      {
+        "point_summary": "PIB FactCheck debunked a WhatsApp message circulating in the name of @DefenceMinIndia giving instructions for civil preparedness, stating the message is fake despite including a verified MoD WhatsApp Channel link.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 06:04 PM IST",
+            "tweet_link": "https://x.com/PIBFactCheck/status/1921182144472166443",
+            "tweet_content": "Fake message shared with verified link of MoD  WhatsApp Channel A message is circulating on #WhatsApp in the name of  @DefenceMinIndia  giving instructions for civil preparedness in view of the India-Pakistan situation #PIBFactCheck   This message is #fake   The Government"
+          }
+        ]
+      },
+      {
+        "point_summary": "An empty tweet was posted by @zoo_bear.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 06:03 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921181912195854575",
+            "tweet_content": ""
+          }
+        ]
+      },
+      {
+        "point_summary": "A Republic Bharat news clip allegedly showing Pakistan shooting down an Indian fighter jet after 'Operation Sindoor' was identified as an edited old video clip used to spread false information.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:52 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921179068759687548",
+            "tweet_content": "'\u0911\u092a\u0930\u0947\u0936\u0928 \u0938\u093f\u0902\u0926\u0942\u0930' \u0915\u0947 \u092c\u093e\u0926 \u0930\u093f\u092a\u092c\u094d\u0932\u093f\u0915 \u092d\u093e\u0930\u0924 \u0915\u0940 \u090f\u0915 \u0915\u0925\u093f\u0924 \u0916\u093c\u092c\u0930 \u0936\u0947\u092f\u0930 \u0915\u0930 \u0915\u0939\u093e \u091c\u093e\u0928\u0947 \u0932\u0917\u093e \u092d\u093e\u0930\u0924\u0940\u092f \u0932\u0921\u093c\u093e\u0915\u0942 \u0935\u093f\u092e\u093e\u0928 \u0915\u094b \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0928\u0947 \u092e\u093e\u0930 \u0917\u093f\u0930\u093e\u092f\u093e. \u092f\u0947 \u091d\u0942\u0920\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0915\u094b \u0916\u093c\u092c\u0930 \u091c\u0948\u0938\u093e \u0926\u093f\u0916\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0930\u093f\u092a\u092c\u094d\u0932\u093f\u0915 \u092d\u093e\u0930\u0924 \u0915\u0940 \u090f\u0915 \u092a\u0941\u0930\u093e\u0928\u0940 \u0935\u0940\u0921\u093f\u092f\u094b \u0915\u094d\u0932\u093f\u092a \u0915\u094b \u090f\u0921\u093f\u091f \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0925\u093e. |  @Shinjineemjmdr"
+          }
+        ]
+      },
+      {
+        "point_summary": "PIB FactCheck debunked a viral claim about an Indian female Air Force pilot captured by Pakistan, stating the image circulated is old (from June 2023) and part of misinformation spread by pro-Pakistan handles.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:12 PM IST",
+            "tweet_link": "https://x.com/PIBFactCheck/status/1921168918397305181",
+            "tweet_content": "Viral claim about Indian female Air Force pilot captured by Pakistan #PIBFactCheck  FAKE NEWS!  The image being circulated is from June 2023 and thus OLD! https://ssbcrackexams.com/iaf-kiran-trainer-jet-crashes-in-karnataka/\u2026 Misinformation is being spread by pro-Pakistan handles. Verify before you share. Don't",
+            "associated_embedded_links": [
+              "https://ssbcrackexams.com/iaf-kiran-trainer-jet-crashes-in-karnataka/"
+            ]
+          }
+        ]
+      },
+      {
+        "point_summary": "PIB FactCheck alerted that X (formerly Twitter) handles purporting to be official accounts of Wg. Cdr. Vyomika Singh & Col. Sofiya Qureshi are fake, as neither officer has an official X handle.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:29 PM IST",
+            "tweet_link": "https://x.com/PIBFactCheck/status/1921173153251815811",
+            "tweet_content": "#Fake Account Alert Are Wg. Cdr. Vyomika Singh & Col. Sofiya Qureshi on X #PIBFactCheck  NO! Both these handles are #fake There is NO official X handle of Wg. Cdr. Vyomika Singh & Col. Sofiya Qureshi Stay vigilant. Rely only on official sources for authentic"
+          }
+        ]
+      },
+      {
+        "point_summary": "Journalists Ratnadip Choudhury and Swati Chopra praised Shiv Aroor's reporting on the India-Pak tension and Operation Sindoor for NDTV as credible, balanced, and cutting through rumors.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:14 PM IST",
+            "tweet_link": "https://x.com/RatnadipC/status/1921169418110795905",
+            "tweet_content": "My colleague Shiv has been reporting on the India-Pak tension and Op Sindoor from the ground for NDTV with the most credible information, with the best of passion, and bringing India the updates that matter. More power to you... Proud. May the force be with you.   @ShivAroor"
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:05 PM IST",
+            "tweet_link": "https://x.com/swatichopra1/status/1921167285160435821",
+            "tweet_content": "Amidst the rumours and scare-mongering, I am consistently watching  @ShivAroor  cut through the \u2018fog of war\u2019 with his no fluff, balanced and to the point reportage. As many people have already said, if Shiv didn\u2019t report it, it didn\u2019t happen!"
+          }
+        ]
+      },
+      {
+        "point_summary": "@zoo_bear posted 'Here's what I found', likely referring to a fact-check or debunking of misinformation.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 04:53 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921164128401408095",
+            "tweet_content": "Here's what I found"
+          }
+        ]
+      },
+      {
+        "point_summary": "Sushant Sinha commented that recent events should make sensible Indians shun big media and support independent media for non-speculative, credible reportage, free from jingoism and propaganda, to keep India strong and safe.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 11:03 AM IST",
+            "tweet_link": "https://x.com/SushantSin/status/1921076031303139510",
+            "tweet_content": "After the events of the past 72 hours, it should be evident to all well-meaning and sensible Indians that they need to shun big media and support independent media. Non-speculative, credible reportage, sans jingoism and propaganda, is what will keep India strong and safe."
+          }
+        ]
+      },
+      {
+        "point_summary": "A video claiming to show two Pakistani fighter jets shot down near Srinagar-Budgam-Baramulla in Kashmir is false; the video is actually from 2022 showing a Russian fighter jet downed by Ukraine.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:07 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921137413713207679",
+            "tweet_content": "\u0915\u0936\u094d\u092e\u0940\u0930 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940\u0928\u0917\u0930-\u092c\u0921\u0917\u093e\u092e-\u092c\u093e\u0930\u093e\u092e\u0941\u0932\u094d\u0932\u093e \u0915\u0947 \u0906\u0938\u092a\u093e\u0938 2 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u092b\u093c\u093e\u0907\u091f\u0930 \u091c\u0947\u091f \u0915\u094b \u092e\u093e\u0930 \u0917\u093f\u0930\u093e\u090f \u091c\u093e\u0928\u0947 \u0915\u0947 \u0926\u093e\u0935\u0947 \u0915\u0947 \u0938\u093e\u0925 \u090f\u0915 \u0935\u0940\u0921\u093f\u092f\u094b \u0936\u0947\u092f\u0930 \u0915\u093f\u092f\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948. \u091c\u093e\u0902\u091a \u092e\u0947\u0902 \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0915\u093f \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b 2022 \u092e\u0947\u0902 \u092f\u0942\u0915\u094d\u0930\u0947\u0928 \u0926\u094d\u0935\u093e\u0930\u093e \u0930\u0936\u093f\u092f\u0928 \u092b\u093e\u0907\u091f\u0930 \u091c\u0947\u091f \u092e\u093e\u0930 \u0917\u093f\u0930\u093e\u090f \u091c\u093e\u0928\u0947 \u0915\u093e \u0939\u0948. |  @HereisKinjal"
+          }
+        ]
+      },
+      {
+        "point_summary": "An unrelated video from Indonesia showing a fire is being falsely circulated as Pakistan attacking an Indian military base in Gujarat.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:06 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921137194363715859",
+            "tweet_content": "Unrelated video from Indonesia. Nothing to do with Gujarat.  Here is Alt News fact check.  https://altnews.in/video-of-a-fire-in-indonesia-goes-viral-as-pakistan-attacking-indian-military-base-amid-operation-sindoor/\u2026",
+            "associated_embedded_links": [
+              "https://altnews.in/video-of-a-fire-in-indonesia-goes-viral-as-pakistan-attacking-indian-military-base-amid-operation-sindoor/"
+            ]
+          }
+        ]
+      },
+      {
+        "point_summary": "Sidhant notes that Pakistani misinformation machinery is currently working overtime and that Pakistani TV channels are showing 'oozing misinformation'.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:40 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921130687953764682",
+            "tweet_content": "India Pakistan Conflict  Pakistani misinformation machinery is working extra now:"
+          },
+          {
+            "posted_ist": "May 10, 2025, 01:00 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921105496863314305",
+            "tweet_content": "India Pakistan conflict Pakistani TV channels showing oozing misinformation on the conflict"
+          }
+        ]
+      },
+      {
+        "point_summary": "An Indian expert criticized a video released by Pakistan's ISPR showing a JF-17 fighter jet taking off as flawed propaganda, questioning why no landing footage was shown, implying the plane might not have returned.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:25 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921126907375923417",
+            "tweet_content": "On the video issued by ISPR of JF 17 fighter jet taking off, an Indian expert said, \"This is next level propaganda which has gone wrong. I guess the plane never got back, that is why no video of it landing\""
+          }
+        ]
+      },
+      {
+        "point_summary": "The Union Ministry of Home Affairs (MHA) has issued an advisory to all media channels, including Aaj Tak, India Today, ABP, NDTV, and Times Now, to refrain from using Civil Defence Air Raid Siren sounds in programs except for community awareness drives.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:24 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921126605763535056",
+            "tweet_content": "MHA order : Union Ministry of Home Affairs issued an advisory to all media channels to refrain from using Civil Defence Air Raid Sirens sounds in their programs other than community awareness drives.  News Channels which used Sirens : Aaj Tak, India Today, ABP, NDTV, Times Now,"
+          },
+          {
+            "posted_ist": "May 10, 2025, 03:57 PM IST",
+            "tweet_link": "https://x.com/ani_digital/status/1921150071661277333",
+            "tweet_content": "MHA orders all media channels to avoid using air raid sirens on broadcast Read  @ANI  Story | https://aninews.in/news/national/general-news/mha-orders-all-media-channels-to-avoid-using-air-raid-sirens-on-broadcast20250510155309/\u2026 #MHA #Sirens #AirRaid #India #Pakistan #OperationSindoor",
+            "associated_embedded_links": [
+              "https://aninews.in/news/national/general-news/mha-orders-all-media-channels-to-avoid-using-air-raid-sirens-on-broadcast20250510155309/"
+            ]
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:02 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921121253101912382",
+            "tweet_content": "Union Ministry of Home Affairs (MHA) has issued an advisory to all media channels to refrain from using Civil Defence Air Raid Sirens sounds in their programs other than community awareness drives: MHA order"
+          }
+        ]
+      },
+      {
+        "point_summary": "PIB Fact Check has debunked an old video of an IAF Jaguar aircraft crash in Ambala during a routine training, which was being falsely shared in the context of the current India-Pakistan situation.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:23 PM IST",
+            "tweet_link": "https://x.com/PIBFactCheck/status/1921126338116702680",
+            "tweet_content": "Old IAF Plane Crash Video Shared in False Context  A video of an IAF plane crash is being falsely shared in the context of the current India-Pakistan situation. #PIBFactCheck  This video shows a Jaguar aircraft of the IAF that crashed in Ambala during a routine training"
+          }
+        ]
+      },
+      {
+        "point_summary": "Visuals of a fire near Shah Faisal Mosque in Islamabad, being circulated as an Indian drone attack, are from 2024 and are being shared with false claims amid current tensions.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:20 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921125783432544624",
+            "tweet_content": "The visuals of a fire near the Shah Faisal Mosque in Islamabad that are currently viral as a drone attack by India are actually from 2024. These are being shared with false claims amid the escalating tensions |  @HereisKinjal"
+          }
+        ]
+      },
+      {
+        "point_summary": "Suresh Menon praised Shiv Aroor and Vishnu NDTV for their calm and practical reporting amidst the 'cacophony' on other news channels.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:05 PM IST",
+            "tweet_link": "https://x.com/sureshnmenon/status/1921121983636365792",
+            "tweet_content": "In the midst of a lot of cacophony, on all news channels trying to be the 1st ones at ground zero and whatnot  @ShivAroor  and  @VishnuNDTV  updating the situation in a calm practical manner is such a relief. #JaiHind #IndianArmy #Indiannavy #Indianairforce #thankyou"
+          }
+        ]
+      },
+      {
+        "point_summary": "A viral video claiming a drone attack near Basti Danishmanda, Jalandhar, has been confirmed as fake by @CPJalandhar via PIB FactCheck and by ACP North Jalandhar; the incident was a garbage pile fire.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:27 PM IST",
+            "tweet_link": "https://x.com/PIBChandigarh/status/1921112266537132274",
+            "tweet_content": "Claim: A viral video falsely claims a drone attack near Basti Danishmanda, #Jalandhar.  #PIBFactCheck:  @CPJalandhar  confirms the news is fake. No drone attack occurred\u2014only a garbage pile caught fire. Stay alert, trust official sources, and follow local guidelines. #Punjab"
+          },
+          {
+            "posted_ist": "May 10, 2025, 12:52 PM IST",
+            "tweet_link": "https://x.com/parteekmahal/status/1921103448692715861",
+            "tweet_content": "A recent video circulating on social media falsely claimed a drone attack near Basti Danishmanda, #Jalandhar. Aatish Bhatiya, ACP North Jalandhar, clarified that upon receiving the information, the police team promptly reached the scene and found no evidence of any drone attack."
+          }
+        ]
+      },
+      {
+        "point_summary": "A video claiming the Indian army shot down two Pakistani helicopters and killed four personnel in Bhuj is false; Alt News Fact Check revealed the video is gaming footage.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 04:38 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921160385488462098",
+            "tweet_content": "\u0936\u0947\u092f\u0930 \u0915\u093f\u092f\u0947 \u091c\u093e \u0930\u0939\u0947 \u090f\u0915 \u0935\u0940\u0921\u093f\u092f\u094b \u0915\u0947 \u0938\u093e\u0925 \u0926\u093e\u0935\u093e \u0939\u0948 \u0915\u093f \u092d\u0941\u091c \u092e\u0947\u0902 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e \u0928\u0947 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0947 \u0926\u094b \u0932\u0921\u093c\u093e\u0915\u0942 \u0939\u0947\u0932\u093f\u0915\u0949\u092a\u094d\u091f\u0930 \u0915\u0947 \u0938\u093e\u0925 \u091a\u093e\u0930 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u0938\u0948\u0928\u094d\u092f\u0915\u0930\u094d\u092e\u093f\u092f\u094b\u0902 \u0915\u094b \u092e\u093e\u0930 \u0917\u093f\u0930\u093e\u092f\u093e. \u0905\u0938\u0932 \u092e\u0947\u0902 \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u090f\u0915 \u0917\u0947\u092e\u093f\u0902\u0917 \u092b\u0941\u091f\u0947\u091c \u0915\u093e \u0939\u0948. \u092a\u0922\u093c\u093f\u092f\u0947 #AltNewsFactCheck |  @RPawan01"
+          }
+        ]
+      },
+      {
+        "point_summary": "@zoo_bear questions the authenticity of footage, asking if it was shared by locals in Pakistan or Himachal tourists.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 04:15 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921154670065602748",
+            "tweet_content": "Footage shared by locals in Pakistan or from Himachal Tourists?"
+          }
+        ]
+      },
+      {
+        "point_summary": "PIB Fact Check alerted about a doctored AI-generated video circulating online, falsely showing EAM Dr. S. Jaishankar apologizing. ANI also reported this PIB Fact Check.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:27 PM IST",
+            "tweet_link": "https://x.com/PIBFactCheck/status/1921142590147060019",
+            "tweet_content": "Fake AI Video Alert  A doctored video showing EAM  @DrSJaishankar  apologizing is circulating online. #PIBFactCheck   The video is AI-generated and part of false propaganda  Stay alert. Don't fall for misinformation. #IndiaFightsPropaganda @MIB_India   @DDNewslive"
+          },
+          {
+            "posted_ist": "May 10, 2025, 03:36 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921144749269913747",
+            "tweet_content": "A doctored video showing EAM Dr S Jaishankar apologising is circulating online. The video is AI-generated and part of false propaganda. Stay alert. Don't fall for misinformation: PIB Fact Check"
+          }
+        ]
+      },
+      {
+        "point_summary": "PIB FactCheck issued an advisory to beware of suspicious videos related to Indian Armed Forces or the ongoing situation, calling them tools of malicious manipulation and urging people not to spread them.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:31 PM IST",
+            "tweet_link": "https://x.com/PIBFactCheck/status/1921128433712529743",
+            "tweet_content": "YOUR SOCIAL MEDIA FEEDS ARE UNDER ATTACK Beware of suspicious videos related to #IndianArmedForces or the ongoing situation. These are key tools of malicious manipulation.  Don\u2019t fall for it. Don\u2019t spread it.  Suspect something?  Report to #PIBFactCheck  WhatsApp:"
+          }
+        ]
+      },
+      {
+        "point_summary": "The Ministry of Defence spokesperson advised caution regarding misinformation and fake news on WhatsApp, urging followers to use their official WhatsApp Channel for authentic information.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:18 PM IST",
+            "tweet_link": "https://x.com/SpokespersonMoD/status/1921140234214887815",
+            "tweet_content": "In these sensitive times, a lot of misinformation and fake news is being spread on #WhatsApp. Be cautious and follow our WhatsApp Channel for all authentic information related to Ministry of Defence.  Tap on the link given below and follow now! https://whatsapp.com/channel/0029VaEHkn3JkK7BfWTsm23W\u2026",
+            "associated_embedded_links": [
+              "https://whatsapp.com/channel/0029VaEHkn3JkK7BfWTsm23W"
+            ]
+          }
+        ]
+      },
+      {
+        "point_summary": "India has exposed Pakistan's propaganda war, debunking its claims of damage to Indian defence systems and air bases. The Ministry of Defence spokesperson also stated Pakistani claims about destroying Indian military facilities and alleged missile attacks on Afghanistan are lies and propaganda.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:10 PM IST",
+            "tweet_link": "https://x.com/ani_digital/status/1921107994663600472",
+            "tweet_content": "India exposes Pak propaganda war, debunks claims of damage to defence systems, air bases Read  @ANI  Story | https://aninews.in/news/national/general-news/india-exposes-pak-propaganda-war-debunks-claims-of-damage-to-defence-systems-air-bases20250510130023/\u2026 #Pakistan #MEA #OperationSindoor",
+            "associated_embedded_links": [
+              "https://aninews.in/news/national/general-news/india-exposes-pak-propaganda-war-debunks-claims-of-damage-to-defence-systems-air-bases20250510130023/"
+            ]
+          },
+          {
+            "posted_ist": "May 10, 2025, 12:52 PM IST",
+            "tweet_link": "https://x.com/SpokespersonMoD/status/1921103472965152930",
+            "tweet_content": "The recent claims made by Pakistan regarding the destruction of Indian military facilities, infrastructure, and the alleged missile attacks on Afghanistan are nothing but lies and propaganda. Allegations about the destruction of air force stations in Sirsa, Suratgarh, and the"
+          }
+        ]
+      },
+      {
+        "point_summary": "@zoo_bear identified a viral video as old and unrelated to the current India-Pakistan conflict.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 12:56 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921104571310408044",
+            "tweet_content": "It's old and unrelated."
+          }
+        ]
+      },
+      {
+        "point_summary": "@zoo_bear identified another viral video as old and unrelated, possibly using Kuch bhi (meaning hatever or anything goes) to express dismissal of the false claim.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 12:55 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921104185245716764",
+            "tweet_content": "Kuch bhi. It's old and unrelated."
+          }
+        ]
+      },
+      {
+        "point_summary": "PIB FactCheck debunked a video aired by 'AIK News' claiming Pakistan destroyed Udhampur Air Base, clarifying the video shows a fire at a chemical factory in Hanumangarh, Rajasthan, and is unrelated.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:23 PM IST",
+            "tweet_link": "https://x.com/PIBFactCheck/status/1921111414258676156",
+            "tweet_content": "Udhampur Air Base remains operational A video aired by 'AIK News' on live TV claimed that Pakistan had destroyed the Udhampur Air Base. #PIBFactCheck  This video shows a fire incident at a chemical factory in Hanumangarh, Rajasthan.  It's unrelated to the current"
+          }
+        ]
+      },
+      {
+        "point_summary": "An old video of a Pakistani training aircraft crash in April is being falsely circulated as an Indian warplane, as identified by @zoo_bear.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:52 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921118655263215625",
+            "tweet_content": "That's an old video of Pakistani training aircraft which crashed in April. Not Indian Warplane.."
+          },
+          {
+            "posted_ist": "May 10, 2025, 01:52 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921118600296902999",
+            "tweet_content": "That's an old video of Pakistani training aircraft which crashed in April. Not Indian Warplane.."
+          }
+        ]
+      },
+      {
+        "point_summary": "A video unrelated to the India-Pakistan conflict is being falsely circulated as both a Pakistani strike on a military base in Amritsar and an Indian attack in Sialkot.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:52 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921118566700450015",
+            "tweet_content": "A video completely unrelated to the ongoing India-Pakistan conflict is viral on social media both as a Pakistani strike on a military base in Amritsar and an Indian attack in Sialkot |  @AbhishekSay"
+          }
+        ]
+      },
+      {
+        "point_summary": "@zoo_bear identified an image circulating in the conflict context as a two-year-old image from Chamarajanagar, Karnataka.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:42 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921116159341944949",
+            "tweet_content": "That's a 2 year old image from  Chamarajanagar, Karnataka."
+          }
+        ]
+      },
+      {
+        "point_summary": "@zoo_bear indicated a viral video was old and unrelated to the current situation.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:57 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921119845778682127",
+            "tweet_content": "Old and unrelated video."
+          }
+        ]
+      },
+      {
+        "point_summary": "@zoo_bear commented 'Nice try' likely in response to a piece of misinformation.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:25 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921111922302242875",
+            "tweet_content": "Nice try."
+          }
+        ]
+      },
+      {
+        "point_summary": "PIB FactCheck warned about an old and digitally altered video being falsely circulated as footage of a Pakistani attack on the Nagrota Air Base; the original video was posted in October 2024.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 12:22 PM IST",
+            "tweet_link": "https://x.com/PIBFactCheck/status/1921095945384513868",
+            "tweet_content": "Heard of attack on Nagrota Air BaseBEWARE An old and digitally altered video is being falsely circulated as footage of a Pakistani attack on the Nagrota Air Base. #PIBFactCheck  This video was originally posted on Instagram in October 2024.  Watch:"
+          }
+        ]
+      },
+      {
+        "point_summary": "Fake news circulated by Pakistani accounts claimed Sikhs chanted anti-Indian Army slogans; @zoo_bear clarified it's an old video (April 2025) from Ludhiana of villagers protesting a bio-gas plant.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 12:42 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921101048183156937",
+            "tweet_content": "Fake News By Pakistani Accounts. No, Sikhs did not chant slogans against Indian Army  This is an old video (April 2025) from Ludhiana where villagers were protesting against the Toxic Bio Gas plant."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "theme_name": "India-Pakistan Military Conflict & Cross-Border Actions",
     "specific_points": [
       {
-        "point_summary": "Houses in Poonch, J&K, have been severely damaged due to heavy shelling by Pakistan.",
+        "point_summary": "Houses in Poonch, J&K, have been severely damaged due to heavy shelling by Pakistan. A local resident reported significant destruction around 6 am, with houses fully destroyed and many deaths, while expressing support for PM Modi and the armed forces.",
         "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:06 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921167558012465472",
+            "tweet_content": "#WATCH | J&K: A local from Poonch says, \" We were sleeping, it happened around 6 am...houses here have been fully destroyed...many people died. We are with PM Modi and our armed forces...\""
+          },
           {
             "posted_ist": "May 10, 2025, 05:03 PM IST",
             "tweet_link": "https://x.com/ANI/status/1921166673760952590",
             "tweet_content": "#WATCH | J&K: Houses severely damaged in Poonch after heavy shelling by Pakistan. (Visuals deferred by unspecified time)"
+          }
+        ]
+      },
+      {
+        "point_summary": "Top Indian government sources, as reported by WIONews and ANI, stated that India has decided any future act of terror will be deemed an act of war and responded to accordingly. Defence Expert Col. DS Dhillon (Retd) commented that this signifies a big change in India's policy.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:15 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921169635707076757",
+            "tweet_content": "#WATCH | Ludhiana, Punjab: India has decided that any future act of terror will be considered an Act of War against India and will be responded accordingly: Top GoI sources Defence Expert Col. DS Dhillon (Retd) says, \" India has made a change in its policy...This is a big change"
+          },
+          {
+            "posted_ist": "May 10, 2025, 04:37 PM IST",
+            "tweet_link": "https://x.com/WIONews/status/1921160073013002579",
+            "tweet_content": "\"Future acts of terror will be deemed acts of war\": India's clear message to Pakistan @sidhant  gets you more details"
+          }
+        ]
+      },
+      {
+        "point_summary": "An ANI Podcast featuring Lt Gen Satish Dua (Retd) is set to premiere, where he reportedly states that Pakistan is using its local population as human shields while launching drone attacks on India.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:42 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921176486674936248",
+            "tweet_content": "EP-296 with Lt Gen Satish Dua (Retd) premieres today at 7 PM IST \"Pakistan is using the local population as human shields and then launching drone attacks on India,\"- Lt Gen Satish Dua (Retd) #ANIPodcast #SmitaPrakash #India #Pakistan #IndianArmy #OperationSindoor #DroneAttack"
           }
         ]
       },
@@ -352,12 +1139,47 @@
     "theme_name": "Indian Domestic Response & Preparedness",
     "specific_points": [
       {
-        "point_summary": "Gujarat Police have tightened security in South Gujarat to secure the state's seafront amidst escalating India-Pakistan tensions.",
+        "point_summary": "Gujarat Police have tightened security in South Gujarat to secure the state's seafront. IG Surat Range, Prem Vir Singh, confirmed strong arrangements, police patrolling in sensitive areas, and readiness to tackle any challenge.",
         "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:05 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921167238955946220",
+            "tweet_content": "#WATCH | Valsad, Gujarat | IG Surat Range, Prem Vir Singh, says, \"Strong arrangements have been made throughout South Gujarat to secure the seafront. The Police are patrolling sensitive areas. We are entirely ready to tackle any challenge.\""
+          },
           {
             "posted_ist": "May 10, 2025, 05:00 PM IST",
             "tweet_link": "https://x.com/ANI/status/1921166059689611413",
             "tweet_content": "#WATCH | Valsad | Gujarat Police tighten security in South Gujarat to secure the seafront of the state amid escalating India-Pakistan tensions."
+          }
+        ]
+      },
+      {
+        "point_summary": "Punjab Governor Gulab Chand Kataria and Chief Minister Bhagwant Singh Mann held a meeting with religious leaders of various communities at the Punjab Raj Bhawan.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:29 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921173137799930109",
+            "tweet_content": "#WATCH | Chandigarh: Punjab Governor Gulab Chand Kataria and Punjab Chief Minister Bhagwant Singh Mann held a meeting with religious leaders of various communities at the Punjab Raj Bhawan.   (Source: PRO Governor)"
+          }
+        ]
+      },
+      {
+        "point_summary": "Tamil Nadu CM MK Stalin led a peace march in Chennai in support of the Indian armed forces amidst the current India-Pakistan tensions.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:27 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921172797763551359",
+            "tweet_content": "#WATCH | Chennai: Tamil Nadu CM MK Stalin leads peace march in support of the Indian armed forces in view of the current India-Pakistan tensions"
+          }
+        ]
+      },
+      {
+        "point_summary": "Mumbai Police DCP operations issued preventive orders under the Maharashtra Police Act, banning the use of firecrackers from May 11 to June 9, 2025.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:19 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921170753103294659",
+            "tweet_content": "Mumbai Police DCP operations issued preventive orders under the Maharashtra Police Act. The police have banned the use of firecrackers from 11 May to 9 June 2025. \"No person shall let off or throw any fire crackers/fireworks or send up any rocket, including a chidi, in or upon"
           }
         ]
       },
@@ -701,8 +1523,264 @@
     ]
   },
   {
+    "theme_name": "Other National News/Developments",
+    "specific_points": [
+      {
+        "point_summary": "Madhya Pradesh Chief Minister Mohan Yadav and Maharashtra CM Devendra Fadnavis discussed the Tapti Basin Mega Recharge Project, highlighting a new approach to schemes connecting two states.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:07 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921167658076004428",
+            "tweet_content": "#WATCH | Bhopal | On the Tapti Basin Mega Recharge Project, Madhya Pradesh Chief Minister Mohan Yadav says, \"Today a new chapter will begin with the state of Maharashtra... The Prime Minister has adopted a new approach for the schemes under which two states have been connected"
+          }
+        ]
+      },
+      {
+        "point_summary": "Sidhant reports that amidst the ongoing tensions, a podcaster reached out to a government official requesting a ban on another podcaster.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 04:59 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921165592104427574",
+            "tweet_content": "In the middle of all this, a podcaster reached out to the govt official, requesting to ban another podcaster."
+          }
+        ]
+      },
+      {
+        "point_summary": "Maharashtra Chief Minister Devendra Fadnavis spoke about the Tapti Basin Mega Recharge Project after an Inter-State Control Board for Joint Irrigation and Hydro Electric Projects meeting, which was held after a 25-year gap since 2000.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 04:58 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921165385044238602",
+            "tweet_content": "#WATCH | Bhopal | On the Tapti Basin Mega Recharge Project, Maharashtra Chief Minister Devendra Fadnavis says, \"...Today, after 25 years, the Inter-State Control Board for Joint Irrigation and Hydro Electric Projects met. Earlier, the meeting was held in 2000...Due to this"
+          }
+        ]
+      },
+      {
+        "point_summary": "IMD Scientist Dr Naresh Kumar reported rain in Delhi NCR, with light rain and thundershowers expected to continue during the day before reducing, and temperatures likely to rise by 4-6 degrees in the northwest.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:49 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921148033305067631",
+            "tweet_content": "#WATCH | Delhi | On weather update, IMD Scientist Dr Naresh Kumar says, \"...It rained in Delhi NCR this morning. Light rain and thundershowers are expected during the day today as well. It will reduce from tomorrow. Temperatures are expected to rise by 4-6 degrees in northwest"
+          }
+        ]
+      },
+      {
+        "point_summary": "Assam CM Himanta Biswa Sarma announced the decision to name Dibrugarh airport after Bharat Ratna Dr. Bhupen Hazarika, with a special legislative assembly session planned for approval.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:44 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921146827044233613",
+            "tweet_content": "Guwahati: Assam CM Himanta Biswa Sarma says, \"The Assam government has decided to dedicate the Dibrugarh airport in the name of Bharat Ratna Dr Bhupen Hazarika. In the next month, a day-long special session of Assam Legislative Assembly will be held so that the state assembly can"
+          }
+        ]
+      },
+      {
+        "point_summary": "The Assam cabinet approved a scheme named \"Eti Koli Duti Paat\" to provide one-time assistance of Rs 5000 to each permanent and temporary tea garden labourer.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:46 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921147386644021758",
+            "tweet_content": "Assam CM Himanta Biswa Sarma says, \"The Assam cabinet today approved a scheme named \"Eti Koli Duti Paat.\" Under this scheme, the state government will provide one-time assistance of Rs 5000 to each permanent and temporary labourer of the state's tea gardens on the occasion of the"
+          }
+        ]
+      },
+      {
+        "point_summary": "Madhya Pradesh Chief Minister Dr Mohan Yadav welcomed Maharashtra Chief Minister Devendra Fadnavis to Bhopal.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:41 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921146069536153922",
+            "tweet_content": "#WATCH | Bhopal: Madhya Pradesh Chief Minister Dr Mohan Yadav welcomed Maharashtra Chief Minister Devendra Fadnavis on his arrival at the Chief Minister's residence in Bhopal"
+          }
+        ]
+      },
+      {
+        "point_summary": "ANI Digital shared an article about styling ballet flats as a sneaker alternative.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:30 PM IST",
+            "tweet_link": "https://x.com/ani_digital/status/1921143270433767531",
+            "tweet_content": "5 ways to style the ballet flats trend: A sneaker alternative Read  @ANI  Story | https://aninews.in/gallery/5-ways-to-style-the-ballet-flats-trend-a-sneaker-alternative20250510150523/\u2026 #fashion #balletflats #sneakers #footwear",
+            "associated_embedded_links": [
+              "https://aninews.in/gallery/5-ways-to-style-the-ballet-flats-trend-a-sneaker-alternative20250510150523/"
+            ]
+          }
+        ]
+      },
+      {
+        "point_summary": "Uttar Pradesh CM Yogi Adityanath offered prayers at Shri Hanuman Garhi Mandir in Ayodhya.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:09 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921137949975916672",
+            "tweet_content": "#WATCH | Uttar Pradesh CM Yogi Adityanath offers prayers at Shri Hanuman Garhi Mandir in Ayodhya."
+          }
+        ]
+      },
+      {
+        "point_summary": "Helicopter services for the Char Dham Yatra, including Badrinath and Kedarnath, are reported to be running smoothly from Sahastradhara helidrome in Dehradun and other helipads after a temporary halt due to NOC/clearance issues or bad weather. Uttarakhand CM Pushkar Singh Dhami confirmed over 4 lakh devotees have visited and cautioned against paying extra for heli services.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:23 PM IST",
+            "tweet_link": "https://x.com/ANINewsUP/status/1921141416379416626",
+            "tweet_content": "#WATCH | CEO of Uttarakhand Civil Aviation Development Authority, Sonika, says, \"Helicopter services for the Char Dham Yatra are running smoothly in the state. It was stopped for some time due to some NOC and clearance-related issues.\" (Source: Information Department)"
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:49 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921132963116577199",
+            "tweet_content": "#WATCH | Uttarakhand: Helicopter service to all four Dhams, including Badrinath and Kedarnath, is running smoothly from Sahastradhara helidrome in Dehradun. CM Pushkar Singh Dhami tweets, \"Chardham Yatra is being conducted smoothly in the state. So far, more than 4 lakh devotees"
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:18 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921125172834398240",
+            "tweet_content": "Uttarakhand CM Pushkar Singh Dhami posts on 'X': \"Dear Devotees, Chardham Yatra is being conducted smoothly in the state. So far, more than 4 lakh devotees have visited the Dhams. Heli services for Shri Kedarnath Dham are also fully operational. You are requested not to pay"
+          },
+          {
+            "posted_ist": "May 10, 2025, 02:12 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921123773475926020",
+            "tweet_content": "#WATCH | State Director General of Information Bansidhar Tiwari told ANI that helicopter services to the four Dhams, including Badrinath and Kedarnath, are running smoothly from all the helipads, including the Sahastradhara helipad in Dehradun. (Video source - DG Information)"
+          },
+          {
+            "posted_ist": "May 10, 2025, 01:41 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921115816637903197",
+            "tweet_content": "Uttarakhand government tells ANI that the helicopter service for the Char Dham Yatra has resumed and is running smoothly. The government said that the helicopter service was closed for some time due to bad weather."
+          }
+        ]
+      },
+      {
+        "point_summary": "A tweet by Sidhant simply states 'PS: Location of Bengaluru -' without further context.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:41 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921130974961717749",
+            "tweet_content": "PS: Location of Bengaluru -"
+          }
+        ]
+      },
+      {
+        "point_summary": "Adani Enterprises has flagged off India\u2019s first hydrogen fuel cell truck, aiming to promote cleaner transportation by gradually replacing diesel vehicles in its logistics operations. Chhattisgarh CM Vishnu Deo Sai thanked CSPGCL and Adani Group for launching the truck in the state.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:41 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921130887049101538",
+            "tweet_content": "Adani Enterprises, the flagship company of the Adani Group, flagged off India\u2019s first hydrogen fuel cell truck to promote cleaner transportation. These hydrogen-powered trucks will gradually replace diesel vehicles used in the company\u2019s logistics operations. In collaboration with"
+          },
+          {
+            "posted_ist": "May 10, 2025, 12:56 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921104556135460934",
+            "tweet_content": "#WATCH | Raipur | Chhattisgarh CM Vishnu Deo Sai says, \"Chhattisgarh is progressing towards development, and today, a new dimension is being added to it. The country's first Hydrogen truck has been launched today, and for this, we thank CSPGCL and Adani Group. This is a"
+          }
+        ]
+      },
+      {
+        "point_summary": "MP CM Mohan Yadav inaugurated development projects worth over Rs 2 crore and attended a mass marriage ceremony in Piplani village where over 570 couples from Kokru and Gond societies were married.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:11 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921123350128324774",
+            "tweet_content": "#WATCH | Sehore, MP | On mass marriage ceremony, MP CM Mohan Yadav says, \"Today in Piplani village, the Kokru and Gond societies collectively married more than 570 couples during the mass marriage ceremony... Development projects of more than Rs 2 crore were inaugurated here"
+          }
+        ]
+      },
+      {
+        "point_summary": "Rain lashed parts of Delhi, with visuals reported from Copernicus Marg, areas around India Gate, and Defence Colony.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:28 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921112666883465523",
+            "tweet_content": "#WATCH | Delhi | Rain lashes parts of the national capital; visuals from Copernicus Marg."
+          },
+          {
+            "posted_ist": "May 10, 2025, 01:26 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921112127273566643",
+            "tweet_content": "#WATCH | Delhi | Rain lashes parts of the national capital; visuals from areas around India Gate."
+          },
+          {
+            "posted_ist": "May 10, 2025, 12:54 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921103916181127608",
+            "tweet_content": "#WATCH | Delhi | Rain lashes parts of the national capital; visuals from Defence Colony."
+          }
+        ]
+      },
+      {
+        "point_summary": "Union Minister Shivraj Singh Chouhan praised MP CM Mohan Yadav's effective schemes at a mass marriage ceremony in Sehore, MP, highlighting it as an example of 'Modi ji's India' where development and tradition coexist.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:59 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921120416254619868",
+            "tweet_content": "#WATCH | Sehore, MP | On mass marriage ceremony, Union Minister Shivraj Singh Chouhan says, \"Many couples have been happily married here today... He (MP CM Mohan Yadav) is running very effective and humane schemes... This is Modi ji's India. Where on one side the Shehnai is"
+          }
+        ]
+      },
+      {
+        "point_summary": "Congress MP Chamala Kiran Kumar Reddy commented on the Telangana government's role as a facilitator for the Miss World event in Hyderabad, providing infrastructure and security to showcase the city globally.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:55 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921119425211892000",
+            "tweet_content": "#WATCH | Hyderabad | On BRS MLC K Kavitha's statement, Congress MP Chamala Kiran Kumar Reddy says, \"For the Miss World event in Hyderabad, Telangana government is a felicitator providing infrastructure and security. It has taken up this task because it wants to show the world"
+          }
+        ]
+      },
+      {
+        "point_summary": "Manipur's IT revolution is reportedly being powered by young talent.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 12:48 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921102524716589217",
+            "tweet_content": "Young talent powers Manipur\u2019s IT revolution #manipur #imphal #informationtechnology"
+          }
+        ]
+      },
+      {
+        "point_summary": "Robin Singh commented on the Indus Water Treaty, likening Pakistan's reliance on it to a magician's parrot, suggesting India's actions regarding the treaty are causing distress to Pakistan and India might not back down this time.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:18 PM IST",
+            "tweet_link": "https://x.com/rsrobin1/status/1921110151085334998",
+            "tweet_content": "#Vlog :- \u091c\u093e\u0926\u0942\u0917\u0930 \u0915\u0940 \u091c\u093e\u0928 \u0924\u094b\u0924\u0947 \u092e\u0947\u0902 \u0939\u094b\u0924\u0940 \u0925\u0940, \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0940 Indus Water Treaty \u092e\u0947\u0902 \u0939\u0948\u0964 \u092d\u093e\u0930\u0924 \u0928\u0947 \u092a\u093f\u0902\u091c\u0930\u093e \u0939\u093f\u0932\u093e\u092f\u093e\u2014\u0905\u092c \u0924\u094b\u0924\u0947 \u0915\u0940 \u091a\u0940\u0916\u0947\u0902 \u0928\u093f\u0915\u0932 \u0930\u0939\u0940 \u0939\u0948\u0902! \u092d\u093e\u0930\u0924 \u091c\u093e\u0928\u0924\u093e \u0939\u0948 \u0915\u093f \u0905\u092c \u0935\u094b \u0924\u094b\u0924\u093e \u0915\u093f\u0924\u0928\u0940 \u0905\u0939\u092e\u093f\u092f\u0924 \u0930\u0916\u0924\u093e \u0939\u0948\u0964 \u0914\u0930 \u0907\u0938 \u092c\u093e\u0930, \u0932\u0917\u0924\u093e \u0939\u0948 \u092d\u093e\u0930\u0924 \u0939\u093e\u0925 \u092a\u0940\u091b\u0947 \u0916\u0940\u0902\u091a\u0928\u0947 \u0915\u0947 \u092e\u0942\u0921 \u092e\u0947\u0902 \u0928\u0939\u0940\u0902 \u0939\u0948\u0964 #IndusWaterTreaty"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "theme_name": "Political Statements & General Commentary",
     "specific_points": [
+      {
+        "point_summary": "Uttar Pradesh Minister Sanjay Kumar Nishad called Pakistan a coward playing with toys sent by China, described its people as deprived beggars, and appealed to PM Modi to wipe Pakistan off the map.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:26 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921172478627639458",
+            "tweet_content": "#WATCH | Lucknow | Uttar Pradesh Minister Sanjay Kumar Nishad says, \"Pakistan is a coward... Pakistan is playing with toys. China sends them toys. People of Pakistan are deprived and are beggars. We want Pakistan to apologise... I appeal to Modi ji to wipe Pakistan off the map"
+          }
+        ]
+      },
+      {
+        "point_summary": "BJP MP Dr K Laxman stated there is anger across India against the Pahalgam terrorist attack and the nation wants to give a befitting reply to Pakistan.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:17 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921170283680973165",
+            "tweet_content": "#WATCH | Hyderabad, Telangana | On India-Pakistan tensions, BJP MP Dr K Laxman says, \"There is anger in the whole country against the Pahalgam terrorist attack and the nation wants to give a befitting reply to Pakistan...\""
+          }
+        ]
+      },
+      {
+        "point_summary": "AIMIM Chief Asaduddin Owaisi asserted that Pakistan is a global threat and its nuclear weapons must be disarmed and destroyed.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:45 PM IST",
+            "tweet_link": "https://x.com/ani_digital/status/1921177225266671787",
+            "tweet_content": "Pakistan is a global threat, its nuclear weapons must be disarmed, destroyed: Owaisi Read  @ANI  Story | https://aninews.in/news/national/general-news/pakistan-is-a-global-threat-its-nuclear-weapons-must-be-disarmed-destroyed-owaisi20250510173826/\u2026 #India #Pakistan #AsaduddinOwaisi",
+            "associated_embedded_links": [
+              "https://aninews.in/news/national/general-news/pakistan-is-a-global-threat-its-nuclear-weapons-must-be-disarmed-destroyed-owaisi20250510173826/"
+            ]
+          }
+        ]
+      },
       {
         "point_summary": "AIMIM Chief Asaduddin Owaisi criticized the IMF loan to Pakistan, calling it a loan to a 'militant organisation' and urged global action to disarm Pakistan's nuclear threat, terming Pakistan 'official bheekmange' (official beggars).",
         "contributing_tweets": [
@@ -1003,166 +2081,28 @@
     ]
   },
   {
-    "theme_name": "International Diplomacy & Reactions to Tensions",
-    "specific_points": [
-      {
-        "point_summary": "Amidst the India-Pakistan conflict, American and Saudi officials have reportedly contacted both Islamabad and Delhi, aiming to de-escalate the crisis that arose from the Pahalgam terror attack by Pakistani terrorists.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:09 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921137948713423022",
-            "tweet_content": "India Pakistan Conflict  Since morning, Americans & Saudis have dialed Islamabad, Delhi both hoping to reduce the ongoing crisis that emerged after the Pahalgam terror attack by Pakistani terrorists."
-          }
-        ]
-      },
-      {
-        "point_summary": "Saudi Arabia's Foreign Minister Faisal bin Farhan has spoken with both Indian and Pakistani foreign ministers, urging de-escalation and an end to the military confrontation.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:01 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921135944213688354",
-            "tweet_content": "Breaking: Saudi Arabia says FM Farhan spoke to Indian, Pakistani foreign ministers; called for de-escalation, end to military confrontation  Readout"
-          }
-        ]
-      },
-      {
-        "point_summary": "Aravind speculates that the US, despite providing credit to Pakistan for F-16 repairs, might be covertly assisting India with intelligence for targeting, aiming to weaken China's proxy (Pakistan).",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:58 PM IST",
-            "tweet_link": "https://x.com/aravind/status/1921135209371586749",
-            "tweet_content": "The US gave Pak $400m credit line to repair its F-16s, make them all fine. But now there will be no F-16s to repair. What despair. Situation for Pak looks dire. I say the US already knew. And is giving India all the info. Where to hit, what to hit. To make the China proxy split."
-          }
-        ]
-      },
-      {
-        "point_summary": "Afghanistan's Ministry of Defense spokesperson, Enayatullah Khwarazmi, and the Taliban government have strongly denied Pakistan's claims that Indian missiles landed in Afghanistan or that Afghan territory was used in any Indian attack on Pakistan. India, through Foreign Secretary Vikram Misri, also rejected these claims as 'frivolous and false,' accusing Pakistan of spreading disinformation and being unfamiliar with democracy.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:51 PM IST",
-            "tweet_link": "https://x.com/AdityaRajKaul/status/1921133429921325328",
-            "tweet_content": "#BREAKING: Afghan Defense Ministry spokesperson Enayatullah Khwarazmi has denied Pakistan's claim that Afghanistan's territory was used or had faced any attack by India's missile attack on Pakistan. (Afghans have always trusted Indians any day more than any Pakistani)"
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:47 PM IST",
-            "tweet_link": "https://x.com/AdityaRajKaul/status/1921132599277224257",
-            "tweet_content": "#BREAKING: Afghanistan has rubbished Pakistan DG ISPR\u2019s wild claim that Indian missiles landed in Afghanistan. Taliban Spokesperson has rejected the propaganda theory. Pakistan desperate to divide India-Afghan ties after debacle in ties between Pakistan and Taliban."
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:34 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921129318366728306",
-            "tweet_content": "India Pakistan conflict Breaking: India, Afghanistan reject & slam Pakistani claims of Indian missile attack on Afghanistan earlier today"
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:32 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921128625652257110",
-            "tweet_content": "Spokesman for the Afghan Ministry of Defense Inayatullah Khawarizmi to Hurriyat Radio: We strongly rejected Pakistan's claim about India's missile attack on Afghan territory. No truth to such claims"
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:31 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921128482739781891",
-            "tweet_content": "BREAKING: AFGHANISTAN'S TALIBAN GOVT REJECTS PAKISTANI CLAIMS OF INDIAN MISSILE ATTACK ON AFGHAN TERRITORY Spokesman for the Afghan Ministry of Defense Inayatullah Khawarizmi says no truth to Pakistani claims"
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:15 PM IST",
-            "tweet_link": "https://x.com/ani_digital/status/1921116835497361895",
-            "tweet_content": "Pakistan's actions being seen as escalatory, provocative in nature, says Foreign Secretary Misri Read  @ANI  Story | https://aninews.in/news/world/asia/pakistans-actions-being-seen-as-escalatory-provocative-in-nature-says-foreign-secretary-misri20250510132856/\u2026 #India #Pakistan #OperationSindoor #VikramMisri",
-            "associated_embedded_links": [
-              "https://aninews.in/news/world/asia/pakistans-actions-being-seen-as-escalatory-provocative-in-nature-says-foreign-secretary-misri20250510132856/"
-            ]
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:14 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921124398834102342",
-            "tweet_content": "\"Afghan people don't need to be reminded about which country targeted civilian populations & civilian infrastructure in Afghanistan\", FS Vikram Misri  @VikramMisri  slams Pakistan's claims of India launching missile on Afghanistan"
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:14 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921124181468483692",
-            "tweet_content": "Foreign secretary Vikram Misri  @VikramMisri  slams Pakistani Army Spokesman. Says Pakistan is \"unfamiliar with open & functioning democracy\""
-          },
-          {
-            "posted_ist": "May 10, 2025, 01:56 PM IST",
-            "tweet_link": "https://x.com/AdityaRajKaul/status/1921119545814868174",
-            "tweet_content": "India\u2019s Foreign Secretary Vikram Misri blasts Pakistan claim of India firing missiles toward Afghanistan. Pakistan trying to mislead the world by spreading disinformation.   Terming Pakistan\u2019s claim about India firing missiles towards Afghanistan as \u201cfrivolous and false\u201d Foreign"
-          }
-        ]
-      },
-      {
-        "point_summary": "Vinay Mohan Kwatra, India's Ambassador to the U.S., stated on CBS that Pakistan's actions demonstrate its support for terrorists rather than the civilized world. Indian envoys to the US (Kwatra) and UK (Vikram Doraiswami) also corrected CNN and BBC respectively on their Kashmir terminology.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:35 PM IST",
-            "tweet_link": "https://x.com/AdityaRajKaul/status/1921129407051087913",
-            "tweet_content": "Yesterday what Pakistan did actually conveys a very clear signal to all of us and to the rest of the world that they actually stand with the terrorist, not with the rest of the civilized world  - Ambassador of India to U.S.A, Vinay Mohan Kwatra on CBS."
-          },
-          {
-            "posted_ist": "May 10, 2025, 03:51 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921148689948549204",
-            "tweet_content": "India Pakistan Conflict  Indian Envoy to US Vinay Mohan Kwatra  @AmbVMKwatra  corrects CNN, & Indian envoy to UK Vikram Doraiswami  @VDoraiswami  corrects BBC on Kashmir terminology."
-          }
-        ]
-      },
-      {
-        "point_summary": "Indian Envoy to Spain, Dinesh K. Patnaik, commented on 'Operation Sindoor,' stating India attacked terror camps and highlighted Pakistan's Defence Minister admitting support to terrorism, emphasizing India's efforts to stop terror infrastructure and protect civilians.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 04:18 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921155329338880360",
-            "tweet_content": "Indian Envoy to Spain  @DineshKPatnaik  on Op Sindoor  'We attacked the terror camps' 'Osama Bin Laden was found near Army HQ' 'Pakistani Defence minister admitted support to terrorism' 'We are trying to stop the terror infrastructure' 'we are protecting our civilians'"
-          }
-        ]
-      },
-      {
-        "point_summary": "Indian High Commissioner to the UK, Vikram Doraiswami, stated that India had restrained for 30 years, accused the Pakistani state of using nuclear rhetoric, affirmed India's lack of desire for larger conflict, and noted that funds for Pakistan often go to its military. He also corrected BBC on Kashmir terminology and emphasized that India has taken out terror infrastructure that Pakistan has harbored for 30 years, with Pakistani leadership acknowledging support for terrorism.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:46 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921147278867284439",
-            "tweet_content": "Indian Envoy to UK  @HCI_London   @VDoraiswami  to BBC 'We have taken out terror infrastructure' 'Pakistan has terrorist infrastructure for last 30 years' 'Pakistan's leadership have acknowledged support to terrorism' Corrects BBC on Kashmir terminology"
-          },
-          {
-            "posted_ist": "May 10, 2025, 03:26 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921142299762774067",
-            "tweet_content": "Indian HC to UK  @HCI_London   @VDoraiswami  on India Pakistan conflict  'We had restrained for 30 years' 'Nuclear word is being used by Pakistani state' 'we have no desire for larger conflict with Pakistan' 'Funds for Pakistan goes to military'"
-          }
-        ]
-      },
-      {
-        "point_summary": "EAM S. Jaishankar posted on 'X' about a conversation with US Senator Marco Rubio, stating India's approach has always been measured and responsible.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:16 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921109546312847449",
-            "tweet_content": "EAM S Jaishankar posts on 'X': \"Had a conversation with US Secretary of State Marco Rubio this morning. India\u2019s approach has always been measured and responsible, and remains so.\""
-          }
-        ]
-      },
-      {
-        "point_summary": "Foreign Secretary Vikram Misri stated that Pakistan continues its execrable and wanton campaign of targeting civilians and civilian infrastructure, and that its claims are heavy on lies, misinformation, and propaganda peddled by state agencies. He also accused Pakistan of lame attempts to divide India.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:15 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921124492287295543",
-            "tweet_content": "Pakistan's lame attempts to divide India are doomed to failure, says Foreign secretary Vikram Misri  @VikramMisri"
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:14 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921124076975763665",
-            "tweet_content": "'Pakistan continues with its execrable & wanton campaign of targeting civilians & civilian infrastructure', Foreign Minister Vikram Misri  @VikramMisri"
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:13 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921124018976870840",
-            "tweet_content": "\"Pakistani claims about activities that they have undertaken continue to be heavy on lies, misinformation, and propaganda. This is peddled by Pakistani state agencies\", Foreign secretary Vikram Misri  @VikramMisri"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "theme_name": "Pakistan's Stance & Nuclear Posturing",
     "specific_points": [
+      {
+        "point_summary": "Pakistan's Defence Minister denied that a top nuclear body meeting was called, contradicting an earlier statement from the Pakistani military which said the Pak PM had called for such a meeting.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:58 PM IST",
+            "tweet_link": "https://x.com/WIONews/status/1921150415963378105",
+            "tweet_content": "Pakistan Defence Minister denies top nuke body meet, earlier Pak Military said Pak PM called the meet @ShivanChanana  brings you this report with  @sidhant"
+          }
+        ]
+      },
+      {
+        "point_summary": "Pakistan PM Shehbaz Sharif met with Pakistan President Asif Ali Zardari amidst the ongoing India-Pakistan conflict.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:06 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921167471861477689",
+            "tweet_content": "India Pakistan Conflict  Pakistan PM Shehbaz Sharif meets Pakistan President Asif Ali Zardari"
+          }
+        ]
+      },
       {
         "point_summary": "Pakistan initially called for a nuclear authority meeting but later retracted, with Defence Minister Khawaja Asif claiming no such meeting was called and that the nuclear option is not being considered. This followed an earlier report from Reuters about Pakistan summoning its top nuclear body after launching an offensive on India, marking the second nuclear threat since the Pahalgam attack.",
         "contributing_tweets": [
@@ -1193,521 +2133,6 @@
             "posted_ist": "May 10, 2025, 12:54 PM IST",
             "tweet_link": "https://x.com/sidhant/status/1921104005503045902",
             "tweet_content": "India Pakistan conflict The actual video released by Pakistan side of launching missile strikes against India begins with religious sloganeering."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "theme_name": "Misinformation, Propaganda & Media Advisories",
-    "specific_points": [
-      {
-        "point_summary": "A video claiming to show two Pakistani fighter jets shot down near Srinagar-Budgam-Baramulla in Kashmir is false; the video is actually from 2022 showing a Russian fighter jet downed by Ukraine.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:07 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921137413713207679",
-            "tweet_content": "\u0915\u0936\u094d\u092e\u0940\u0930 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940\u0928\u0917\u0930-\u092c\u0921\u0917\u093e\u092e-\u092c\u093e\u0930\u093e\u092e\u0941\u0932\u094d\u0932\u093e \u0915\u0947 \u0906\u0938\u092a\u093e\u0938 2 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u092b\u093c\u093e\u0907\u091f\u0930 \u091c\u0947\u091f \u0915\u094b \u092e\u093e\u0930 \u0917\u093f\u0930\u093e\u090f \u091c\u093e\u0928\u0947 \u0915\u0947 \u0926\u093e\u0935\u0947 \u0915\u0947 \u0938\u093e\u0925 \u090f\u0915 \u0935\u0940\u0921\u093f\u092f\u094b \u0936\u0947\u092f\u0930 \u0915\u093f\u092f\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948. \u091c\u093e\u0902\u091a \u092e\u0947\u0902 \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0915\u093f \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b 2022 \u092e\u0947\u0902 \u092f\u0942\u0915\u094d\u0930\u0947\u0928 \u0926\u094d\u0935\u093e\u0930\u093e \u0930\u0936\u093f\u092f\u0928 \u092b\u093e\u0907\u091f\u0930 \u091c\u0947\u091f \u092e\u093e\u0930 \u0917\u093f\u0930\u093e\u090f \u091c\u093e\u0928\u0947 \u0915\u093e \u0939\u0948. |  @HereisKinjal"
-          }
-        ]
-      },
-      {
-        "point_summary": "An unrelated video from Indonesia showing a fire is being falsely circulated as Pakistan attacking an Indian military base in Gujarat.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:06 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921137194363715859",
-            "tweet_content": "Unrelated video from Indonesia. Nothing to do with Gujarat.  Here is Alt News fact check.  https://altnews.in/video-of-a-fire-in-indonesia-goes-viral-as-pakistan-attacking-indian-military-base-amid-operation-sindoor/\u2026",
-            "associated_embedded_links": [
-              "https://altnews.in/video-of-a-fire-in-indonesia-goes-viral-as-pakistan-attacking-indian-military-base-amid-operation-sindoor/"
-            ]
-          }
-        ]
-      },
-      {
-        "point_summary": "Sidhant notes that Pakistani misinformation machinery is currently working overtime and that Pakistani TV channels are showing 'oozing misinformation'.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:40 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921130687953764682",
-            "tweet_content": "India Pakistan Conflict  Pakistani misinformation machinery is working extra now:"
-          },
-          {
-            "posted_ist": "May 10, 2025, 01:00 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921105496863314305",
-            "tweet_content": "India Pakistan conflict Pakistani TV channels showing oozing misinformation on the conflict"
-          }
-        ]
-      },
-      {
-        "point_summary": "An Indian expert criticized a video released by Pakistan's ISPR showing a JF-17 fighter jet taking off as flawed propaganda, questioning why no landing footage was shown, implying the plane might not have returned.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:25 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921126907375923417",
-            "tweet_content": "On the video issued by ISPR of JF 17 fighter jet taking off, an Indian expert said, \"This is next level propaganda which has gone wrong. I guess the plane never got back, that is why no video of it landing\""
-          }
-        ]
-      },
-      {
-        "point_summary": "The Union Ministry of Home Affairs (MHA) has issued an advisory to all media channels, including Aaj Tak, India Today, ABP, NDTV, and Times Now, to refrain from using Civil Defence Air Raid Siren sounds in programs except for community awareness drives.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:24 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921126605763535056",
-            "tweet_content": "MHA order : Union Ministry of Home Affairs issued an advisory to all media channels to refrain from using Civil Defence Air Raid Sirens sounds in their programs other than community awareness drives.  News Channels which used Sirens : Aaj Tak, India Today, ABP, NDTV, Times Now,"
-          },
-          {
-            "posted_ist": "May 10, 2025, 03:57 PM IST",
-            "tweet_link": "https://x.com/ani_digital/status/1921150071661277333",
-            "tweet_content": "MHA orders all media channels to avoid using air raid sirens on broadcast Read  @ANI  Story | https://aninews.in/news/national/general-news/mha-orders-all-media-channels-to-avoid-using-air-raid-sirens-on-broadcast20250510155309/\u2026 #MHA #Sirens #AirRaid #India #Pakistan #OperationSindoor",
-            "associated_embedded_links": [
-              "https://aninews.in/news/national/general-news/mha-orders-all-media-channels-to-avoid-using-air-raid-sirens-on-broadcast20250510155309/"
-            ]
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:02 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921121253101912382",
-            "tweet_content": "Union Ministry of Home Affairs (MHA) has issued an advisory to all media channels to refrain from using Civil Defence Air Raid Sirens sounds in their programs other than community awareness drives: MHA order"
-          }
-        ]
-      },
-      {
-        "point_summary": "PIB Fact Check has debunked an old video of an IAF Jaguar aircraft crash in Ambala during a routine training, which was being falsely shared in the context of the current India-Pakistan situation.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:23 PM IST",
-            "tweet_link": "https://x.com/PIBFactCheck/status/1921126338116702680",
-            "tweet_content": "Old IAF Plane Crash Video Shared in False Context  A video of an IAF plane crash is being falsely shared in the context of the current India-Pakistan situation. #PIBFactCheck  This video shows a Jaguar aircraft of the IAF that crashed in Ambala during a routine training"
-          }
-        ]
-      },
-      {
-        "point_summary": "Visuals of a fire near Shah Faisal Mosque in Islamabad, being circulated as an Indian drone attack, are from 2024 and are being shared with false claims amid current tensions.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:20 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921125783432544624",
-            "tweet_content": "The visuals of a fire near the Shah Faisal Mosque in Islamabad that are currently viral as a drone attack by India are actually from 2024. These are being shared with false claims amid the escalating tensions |  @HereisKinjal"
-          }
-        ]
-      },
-      {
-        "point_summary": "Suresh Menon praised Shiv Aroor and Vishnu NDTV for their calm and practical reporting amidst the 'cacophony' on other news channels.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:05 PM IST",
-            "tweet_link": "https://x.com/sureshnmenon/status/1921121983636365792",
-            "tweet_content": "In the midst of a lot of cacophony, on all news channels trying to be the 1st ones at ground zero and whatnot  @ShivAroor  and  @VishnuNDTV  updating the situation in a calm practical manner is such a relief. #JaiHind #IndianArmy #Indiannavy #Indianairforce #thankyou"
-          }
-        ]
-      },
-      {
-        "point_summary": "A viral video claiming a drone attack near Basti Danishmanda, Jalandhar, has been confirmed as fake by @CPJalandhar via PIB FactCheck and by ACP North Jalandhar; the incident was a garbage pile fire.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:27 PM IST",
-            "tweet_link": "https://x.com/PIBChandigarh/status/1921112266537132274",
-            "tweet_content": "Claim: A viral video falsely claims a drone attack near Basti Danishmanda, #Jalandhar.  #PIBFactCheck:  @CPJalandhar  confirms the news is fake. No drone attack occurred\u2014only a garbage pile caught fire. Stay alert, trust official sources, and follow local guidelines. #Punjab"
-          },
-          {
-            "posted_ist": "May 10, 2025, 12:52 PM IST",
-            "tweet_link": "https://x.com/parteekmahal/status/1921103448692715861",
-            "tweet_content": "A recent video circulating on social media falsely claimed a drone attack near Basti Danishmanda, #Jalandhar. Aatish Bhatiya, ACP North Jalandhar, clarified that upon receiving the information, the police team promptly reached the scene and found no evidence of any drone attack."
-          }
-        ]
-      },
-      {
-        "point_summary": "A video claiming the Indian army shot down two Pakistani helicopters and killed four personnel in Bhuj is false; Alt News Fact Check revealed the video is gaming footage.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 04:38 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921160385488462098",
-            "tweet_content": "\u0936\u0947\u092f\u0930 \u0915\u093f\u092f\u0947 \u091c\u093e \u0930\u0939\u0947 \u090f\u0915 \u0935\u0940\u0921\u093f\u092f\u094b \u0915\u0947 \u0938\u093e\u0925 \u0926\u093e\u0935\u093e \u0939\u0948 \u0915\u093f \u092d\u0941\u091c \u092e\u0947\u0902 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e \u0928\u0947 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0947 \u0926\u094b \u0932\u0921\u093c\u093e\u0915\u0942 \u0939\u0947\u0932\u093f\u0915\u0949\u092a\u094d\u091f\u0930 \u0915\u0947 \u0938\u093e\u0925 \u091a\u093e\u0930 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u0938\u0948\u0928\u094d\u092f\u0915\u0930\u094d\u092e\u093f\u092f\u094b\u0902 \u0915\u094b \u092e\u093e\u0930 \u0917\u093f\u0930\u093e\u092f\u093e. \u0905\u0938\u0932 \u092e\u0947\u0902 \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u090f\u0915 \u0917\u0947\u092e\u093f\u0902\u0917 \u092b\u0941\u091f\u0947\u091c \u0915\u093e \u0939\u0948. \u092a\u0922\u093c\u093f\u092f\u0947 #AltNewsFactCheck |  @RPawan01"
-          }
-        ]
-      },
-      {
-        "point_summary": "@zoo_bear questions the authenticity of footage, asking if it was shared by locals in Pakistan or Himachal tourists.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 04:15 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921154670065602748",
-            "tweet_content": "Footage shared by locals in Pakistan or from Himachal Tourists?"
-          }
-        ]
-      },
-      {
-        "point_summary": "PIB Fact Check alerted about a doctored AI-generated video circulating online, falsely showing EAM Dr. S. Jaishankar apologizing. ANI also reported this PIB Fact Check.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:27 PM IST",
-            "tweet_link": "https://x.com/PIBFactCheck/status/1921142590147060019",
-            "tweet_content": "Fake AI Video Alert  A doctored video showing EAM  @DrSJaishankar  apologizing is circulating online. #PIBFactCheck   The video is AI-generated and part of false propaganda  Stay alert. Don't fall for misinformation. #IndiaFightsPropaganda @MIB_India   @DDNewslive"
-          },
-          {
-            "posted_ist": "May 10, 2025, 03:36 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921144749269913747",
-            "tweet_content": "A doctored video showing EAM Dr S Jaishankar apologising is circulating online. The video is AI-generated and part of false propaganda. Stay alert. Don't fall for misinformation: PIB Fact Check"
-          }
-        ]
-      },
-      {
-        "point_summary": "PIB FactCheck issued an advisory to beware of suspicious videos related to Indian Armed Forces or the ongoing situation, calling them tools of malicious manipulation and urging people not to spread them.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:31 PM IST",
-            "tweet_link": "https://x.com/PIBFactCheck/status/1921128433712529743",
-            "tweet_content": "YOUR SOCIAL MEDIA FEEDS ARE UNDER ATTACK Beware of suspicious videos related to #IndianArmedForces or the ongoing situation. These are key tools of malicious manipulation.  Don\u2019t fall for it. Don\u2019t spread it.  Suspect something?  Report to #PIBFactCheck  WhatsApp:"
-          }
-        ]
-      },
-      {
-        "point_summary": "The Ministry of Defence spokesperson advised caution regarding misinformation and fake news on WhatsApp, urging followers to use their official WhatsApp Channel for authentic information.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:18 PM IST",
-            "tweet_link": "https://x.com/SpokespersonMoD/status/1921140234214887815",
-            "tweet_content": "In these sensitive times, a lot of misinformation and fake news is being spread on #WhatsApp. Be cautious and follow our WhatsApp Channel for all authentic information related to Ministry of Defence.  Tap on the link given below and follow now! https://whatsapp.com/channel/0029VaEHkn3JkK7BfWTsm23W\u2026",
-            "associated_embedded_links": [
-              "https://whatsapp.com/channel/0029VaEHkn3JkK7BfWTsm23W"
-            ]
-          }
-        ]
-      },
-      {
-        "point_summary": "India has exposed Pakistan's propaganda war, debunking its claims of damage to Indian defence systems and air bases. The Ministry of Defence spokesperson also stated Pakistani claims about destroying Indian military facilities and alleged missile attacks on Afghanistan are lies and propaganda.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:10 PM IST",
-            "tweet_link": "https://x.com/ani_digital/status/1921107994663600472",
-            "tweet_content": "India exposes Pak propaganda war, debunks claims of damage to defence systems, air bases Read  @ANI  Story | https://aninews.in/news/national/general-news/india-exposes-pak-propaganda-war-debunks-claims-of-damage-to-defence-systems-air-bases20250510130023/\u2026 #Pakistan #MEA #OperationSindoor",
-            "associated_embedded_links": [
-              "https://aninews.in/news/national/general-news/india-exposes-pak-propaganda-war-debunks-claims-of-damage-to-defence-systems-air-bases20250510130023/"
-            ]
-          },
-          {
-            "posted_ist": "May 10, 2025, 12:52 PM IST",
-            "tweet_link": "https://x.com/SpokespersonMoD/status/1921103472965152930",
-            "tweet_content": "The recent claims made by Pakistan regarding the destruction of Indian military facilities, infrastructure, and the alleged missile attacks on Afghanistan are nothing but lies and propaganda. Allegations about the destruction of air force stations in Sirsa, Suratgarh, and the"
-          }
-        ]
-      },
-      {
-        "point_summary": "@zoo_bear identified a viral video as old and unrelated to the current India-Pakistan conflict.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 12:56 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921104571310408044",
-            "tweet_content": "It's old and unrelated."
-          }
-        ]
-      },
-      {
-        "point_summary": "@zoo_bear identified another viral video as old and unrelated, possibly using Kuch bhi (meaning hatever or anything goes) to express dismissal of the false claim.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 12:55 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921104185245716764",
-            "tweet_content": "Kuch bhi. It's old and unrelated."
-          }
-        ]
-      },
-      {
-        "point_summary": "PIB FactCheck debunked a video aired by 'AIK News' claiming Pakistan destroyed Udhampur Air Base, clarifying the video shows a fire at a chemical factory in Hanumangarh, Rajasthan, and is unrelated.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:23 PM IST",
-            "tweet_link": "https://x.com/PIBFactCheck/status/1921111414258676156",
-            "tweet_content": "Udhampur Air Base remains operational A video aired by 'AIK News' on live TV claimed that Pakistan had destroyed the Udhampur Air Base. #PIBFactCheck  This video shows a fire incident at a chemical factory in Hanumangarh, Rajasthan.  It's unrelated to the current"
-          }
-        ]
-      },
-      {
-        "point_summary": "An old video of a Pakistani training aircraft crash in April is being falsely circulated as an Indian warplane, as identified by @zoo_bear.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:52 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921118655263215625",
-            "tweet_content": "That's an old video of Pakistani training aircraft which crashed in April. Not Indian Warplane.."
-          },
-          {
-            "posted_ist": "May 10, 2025, 01:52 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921118600296902999",
-            "tweet_content": "That's an old video of Pakistani training aircraft which crashed in April. Not Indian Warplane.."
-          }
-        ]
-      },
-      {
-        "point_summary": "A video unrelated to the India-Pakistan conflict is being falsely circulated as both a Pakistani strike on a military base in Amritsar and an Indian attack in Sialkot.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:52 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921118566700450015",
-            "tweet_content": "A video completely unrelated to the ongoing India-Pakistan conflict is viral on social media both as a Pakistani strike on a military base in Amritsar and an Indian attack in Sialkot |  @AbhishekSay"
-          }
-        ]
-      },
-      {
-        "point_summary": "@zoo_bear identified an image circulating in the conflict context as a two-year-old image from Chamarajanagar, Karnataka.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:42 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921116159341944949",
-            "tweet_content": "That's a 2 year old image from  Chamarajanagar, Karnataka."
-          }
-        ]
-      },
-      {
-        "point_summary": "@zoo_bear indicated a viral video was old and unrelated to the current situation.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:57 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921119845778682127",
-            "tweet_content": "Old and unrelated video."
-          }
-        ]
-      },
-      {
-        "point_summary": "@zoo_bear commented 'Nice try' likely in response to a piece of misinformation.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:25 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921111922302242875",
-            "tweet_content": "Nice try."
-          }
-        ]
-      },
-      {
-        "point_summary": "PIB FactCheck warned about an old and digitally altered video being falsely circulated as footage of a Pakistani attack on the Nagrota Air Base; the original video was posted in October 2024.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 12:22 PM IST",
-            "tweet_link": "https://x.com/PIBFactCheck/status/1921095945384513868",
-            "tweet_content": "Heard of attack on Nagrota Air BaseBEWARE An old and digitally altered video is being falsely circulated as footage of a Pakistani attack on the Nagrota Air Base. #PIBFactCheck  This video was originally posted on Instagram in October 2024.  Watch:"
-          }
-        ]
-      },
-      {
-        "point_summary": "Fake news circulated by Pakistani accounts claimed Sikhs chanted anti-Indian Army slogans; @zoo_bear clarified it's an old video (April 2025) from Ludhiana of villagers protesting a bio-gas plant.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 12:42 PM IST",
-            "tweet_link": "https://x.com/zoo_bear/status/1921101048183156937",
-            "tweet_content": "Fake News By Pakistani Accounts. No, Sikhs did not chant slogans against Indian Army  This is an old video (April 2025) from Ludhiana where villagers were protesting against the Toxic Bio Gas plant."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "theme_name": "Other National News/Developments",
-    "specific_points": [
-      {
-        "point_summary": "Sidhant reports that amidst the ongoing tensions, a podcaster reached out to a government official requesting a ban on another podcaster.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 04:59 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921165592104427574",
-            "tweet_content": "In the middle of all this, a podcaster reached out to the govt official, requesting to ban another podcaster."
-          }
-        ]
-      },
-      {
-        "point_summary": "Maharashtra Chief Minister Devendra Fadnavis spoke about the Tapti Basin Mega Recharge Project after an Inter-State Control Board for Joint Irrigation and Hydro Electric Projects meeting, which was held after a 25-year gap since 2000.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 04:58 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921165385044238602",
-            "tweet_content": "#WATCH | Bhopal | On the Tapti Basin Mega Recharge Project, Maharashtra Chief Minister Devendra Fadnavis says, \"...Today, after 25 years, the Inter-State Control Board for Joint Irrigation and Hydro Electric Projects met. Earlier, the meeting was held in 2000...Due to this"
-          }
-        ]
-      },
-      {
-        "point_summary": "IMD Scientist Dr Naresh Kumar reported rain in Delhi NCR, with light rain and thundershowers expected to continue during the day before reducing, and temperatures likely to rise by 4-6 degrees in the northwest.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:49 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921148033305067631",
-            "tweet_content": "#WATCH | Delhi | On weather update, IMD Scientist Dr Naresh Kumar says, \"...It rained in Delhi NCR this morning. Light rain and thundershowers are expected during the day today as well. It will reduce from tomorrow. Temperatures are expected to rise by 4-6 degrees in northwest"
-          }
-        ]
-      },
-      {
-        "point_summary": "Assam CM Himanta Biswa Sarma announced the decision to name Dibrugarh airport after Bharat Ratna Dr. Bhupen Hazarika, with a special legislative assembly session planned for approval.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:44 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921146827044233613",
-            "tweet_content": "Guwahati: Assam CM Himanta Biswa Sarma says, \"The Assam government has decided to dedicate the Dibrugarh airport in the name of Bharat Ratna Dr Bhupen Hazarika. In the next month, a day-long special session of Assam Legislative Assembly will be held so that the state assembly can"
-          }
-        ]
-      },
-      {
-        "point_summary": "The Assam cabinet approved a scheme named \"Eti Koli Duti Paat\" to provide one-time assistance of Rs 5000 to each permanent and temporary tea garden labourer.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:46 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921147386644021758",
-            "tweet_content": "Assam CM Himanta Biswa Sarma says, \"The Assam cabinet today approved a scheme named \"Eti Koli Duti Paat.\" Under this scheme, the state government will provide one-time assistance of Rs 5000 to each permanent and temporary labourer of the state's tea gardens on the occasion of the"
-          }
-        ]
-      },
-      {
-        "point_summary": "Madhya Pradesh Chief Minister Dr Mohan Yadav welcomed Maharashtra Chief Minister Devendra Fadnavis to Bhopal.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:41 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921146069536153922",
-            "tweet_content": "#WATCH | Bhopal: Madhya Pradesh Chief Minister Dr Mohan Yadav welcomed Maharashtra Chief Minister Devendra Fadnavis on his arrival at the Chief Minister's residence in Bhopal"
-          }
-        ]
-      },
-      {
-        "point_summary": "ANI Digital shared an article about styling ballet flats as a sneaker alternative.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:30 PM IST",
-            "tweet_link": "https://x.com/ani_digital/status/1921143270433767531",
-            "tweet_content": "5 ways to style the ballet flats trend: A sneaker alternative Read  @ANI  Story | https://aninews.in/gallery/5-ways-to-style-the-ballet-flats-trend-a-sneaker-alternative20250510150523/\u2026 #fashion #balletflats #sneakers #footwear",
-            "associated_embedded_links": [
-              "https://aninews.in/gallery/5-ways-to-style-the-ballet-flats-trend-a-sneaker-alternative20250510150523/"
-            ]
-          }
-        ]
-      },
-      {
-        "point_summary": "Uttar Pradesh CM Yogi Adityanath offered prayers at Shri Hanuman Garhi Mandir in Ayodhya.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:09 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921137949975916672",
-            "tweet_content": "#WATCH | Uttar Pradesh CM Yogi Adityanath offers prayers at Shri Hanuman Garhi Mandir in Ayodhya."
-          }
-        ]
-      },
-      {
-        "point_summary": "Helicopter services for the Char Dham Yatra, including Badrinath and Kedarnath, are reported to be running smoothly from Sahastradhara helidrome in Dehradun and other helipads after a temporary halt due to NOC/clearance issues or bad weather. Uttarakhand CM Pushkar Singh Dhami confirmed over 4 lakh devotees have visited and cautioned against paying extra for heli services.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:23 PM IST",
-            "tweet_link": "https://x.com/ANINewsUP/status/1921141416379416626",
-            "tweet_content": "#WATCH | CEO of Uttarakhand Civil Aviation Development Authority, Sonika, says, \"Helicopter services for the Char Dham Yatra are running smoothly in the state. It was stopped for some time due to some NOC and clearance-related issues.\" (Source: Information Department)"
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:49 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921132963116577199",
-            "tweet_content": "#WATCH | Uttarakhand: Helicopter service to all four Dhams, including Badrinath and Kedarnath, is running smoothly from Sahastradhara helidrome in Dehradun. CM Pushkar Singh Dhami tweets, \"Chardham Yatra is being conducted smoothly in the state. So far, more than 4 lakh devotees"
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:18 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921125172834398240",
-            "tweet_content": "Uttarakhand CM Pushkar Singh Dhami posts on 'X': \"Dear Devotees, Chardham Yatra is being conducted smoothly in the state. So far, more than 4 lakh devotees have visited the Dhams. Heli services for Shri Kedarnath Dham are also fully operational. You are requested not to pay"
-          },
-          {
-            "posted_ist": "May 10, 2025, 02:12 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921123773475926020",
-            "tweet_content": "#WATCH | State Director General of Information Bansidhar Tiwari told ANI that helicopter services to the four Dhams, including Badrinath and Kedarnath, are running smoothly from all the helipads, including the Sahastradhara helipad in Dehradun. (Video source - DG Information)"
-          },
-          {
-            "posted_ist": "May 10, 2025, 01:41 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921115816637903197",
-            "tweet_content": "Uttarakhand government tells ANI that the helicopter service for the Char Dham Yatra has resumed and is running smoothly. The government said that the helicopter service was closed for some time due to bad weather."
-          }
-        ]
-      },
-      {
-        "point_summary": "A tweet by Sidhant simply states 'PS: Location of Bengaluru -' without further context.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:41 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921130974961717749",
-            "tweet_content": "PS: Location of Bengaluru -"
-          }
-        ]
-      },
-      {
-        "point_summary": "Adani Enterprises has flagged off India\u2019s first hydrogen fuel cell truck, aiming to promote cleaner transportation by gradually replacing diesel vehicles in its logistics operations. Chhattisgarh CM Vishnu Deo Sai thanked CSPGCL and Adani Group for launching the truck in the state.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:41 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921130887049101538",
-            "tweet_content": "Adani Enterprises, the flagship company of the Adani Group, flagged off India\u2019s first hydrogen fuel cell truck to promote cleaner transportation. These hydrogen-powered trucks will gradually replace diesel vehicles used in the company\u2019s logistics operations. In collaboration with"
-          },
-          {
-            "posted_ist": "May 10, 2025, 12:56 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921104556135460934",
-            "tweet_content": "#WATCH | Raipur | Chhattisgarh CM Vishnu Deo Sai says, \"Chhattisgarh is progressing towards development, and today, a new dimension is being added to it. The country's first Hydrogen truck has been launched today, and for this, we thank CSPGCL and Adani Group. This is a"
-          }
-        ]
-      },
-      {
-        "point_summary": "MP CM Mohan Yadav inaugurated development projects worth over Rs 2 crore and attended a mass marriage ceremony in Piplani village where over 570 couples from Kokru and Gond societies were married.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:11 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921123350128324774",
-            "tweet_content": "#WATCH | Sehore, MP | On mass marriage ceremony, MP CM Mohan Yadav says, \"Today in Piplani village, the Kokru and Gond societies collectively married more than 570 couples during the mass marriage ceremony... Development projects of more than Rs 2 crore were inaugurated here"
-          }
-        ]
-      },
-      {
-        "point_summary": "Rain lashed parts of Delhi, with visuals reported from Copernicus Marg, areas around India Gate, and Defence Colony.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:28 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921112666883465523",
-            "tweet_content": "#WATCH | Delhi | Rain lashes parts of the national capital; visuals from Copernicus Marg."
-          },
-          {
-            "posted_ist": "May 10, 2025, 01:26 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921112127273566643",
-            "tweet_content": "#WATCH | Delhi | Rain lashes parts of the national capital; visuals from areas around India Gate."
-          },
-          {
-            "posted_ist": "May 10, 2025, 12:54 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921103916181127608",
-            "tweet_content": "#WATCH | Delhi | Rain lashes parts of the national capital; visuals from Defence Colony."
-          }
-        ]
-      },
-      {
-        "point_summary": "Union Minister Shivraj Singh Chouhan praised MP CM Mohan Yadav's effective schemes at a mass marriage ceremony in Sehore, MP, highlighting it as an example of 'Modi ji's India' where development and tradition coexist.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:59 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921120416254619868",
-            "tweet_content": "#WATCH | Sehore, MP | On mass marriage ceremony, Union Minister Shivraj Singh Chouhan says, \"Many couples have been happily married here today... He (MP CM Mohan Yadav) is running very effective and humane schemes... This is Modi ji's India. Where on one side the Shehnai is"
-          }
-        ]
-      },
-      {
-        "point_summary": "Congress MP Chamala Kiran Kumar Reddy commented on the Telangana government's role as a facilitator for the Miss World event in Hyderabad, providing infrastructure and security to showcase the city globally.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:55 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921119425211892000",
-            "tweet_content": "#WATCH | Hyderabad | On BRS MLC K Kavitha's statement, Congress MP Chamala Kiran Kumar Reddy says, \"For the Miss World event in Hyderabad, Telangana government is a felicitator providing infrastructure and security. It has taken up this task because it wants to show the world"
-          }
-        ]
-      },
-      {
-        "point_summary": "Manipur's IT revolution is reportedly being powered by young talent.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 12:48 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921102524716589217",
-            "tweet_content": "Young talent powers Manipur\u2019s IT revolution #manipur #imphal #informationtechnology"
-          }
-        ]
-      },
-      {
-        "point_summary": "Robin Singh commented on the Indus Water Treaty, likening Pakistan's reliance on it to a magician's parrot, suggesting India's actions regarding the treaty are causing distress to Pakistan and India might not back down this time.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:18 PM IST",
-            "tweet_link": "https://x.com/rsrobin1/status/1921110151085334998",
-            "tweet_content": "#Vlog :- \u091c\u093e\u0926\u0942\u0917\u0930 \u0915\u0940 \u091c\u093e\u0928 \u0924\u094b\u0924\u0947 \u092e\u0947\u0902 \u0939\u094b\u0924\u0940 \u0925\u0940, \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0940 Indus Water Treaty \u092e\u0947\u0902 \u0939\u0948\u0964 \u092d\u093e\u0930\u0924 \u0928\u0947 \u092a\u093f\u0902\u091c\u0930\u093e \u0939\u093f\u0932\u093e\u092f\u093e\u2014\u0905\u092c \u0924\u094b\u0924\u0947 \u0915\u0940 \u091a\u0940\u0916\u0947\u0902 \u0928\u093f\u0915\u0932 \u0930\u0939\u0940 \u0939\u0948\u0902! \u092d\u093e\u0930\u0924 \u091c\u093e\u0928\u0924\u093e \u0939\u0948 \u0915\u093f \u0905\u092c \u0935\u094b \u0924\u094b\u0924\u093e \u0915\u093f\u0924\u0928\u0940 \u0905\u0939\u092e\u093f\u092f\u0924 \u0930\u0916\u0924\u093e \u0939\u0948\u0964 \u0914\u0930 \u0907\u0938 \u092c\u093e\u0930, \u0932\u0917\u0924\u093e \u0939\u0948 \u092d\u093e\u0930\u0924 \u0939\u093e\u0925 \u092a\u0940\u091b\u0947 \u0916\u0940\u0902\u091a\u0928\u0947 \u0915\u0947 \u092e\u0942\u0921 \u092e\u0947\u0902 \u0928\u0939\u0940\u0902 \u0939\u0948\u0964 #IndusWaterTreaty"
           }
         ]
       }
