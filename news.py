@@ -6,6 +6,8 @@ from datetime import datetime, timedelta, timezone
 
 # --- Configuration ---
 NEWS_DATA_FILENAME = "news_data.json"
+SPECIAL_THEME_FULL_CONTENT = "Latest MEA briefing Details" # Define the special theme name
+
 # --- UI Designer Color Palette ---
 COLOR_THEME_HEADER = "#003366"
 COLOR_LATEST_NEWS_GLOBAL_HEADER = "#004d00"
@@ -65,91 +67,101 @@ def get_news_timestamp_info(news_data):
     min_ts_str, max_ts_str = min_ts_dt.strftime(date_format_out) + " IST", max_ts_dt.strftime(date_format_out) + " IST"
     return min_ts_str, max_ts_str, max_ts_dt
 
-def display_specific_point_details(sp_item, is_latest_item_display=False):
-    """
-    Helper function to display a single specific point and its tweets.
-    is_latest_item_display: True if this point is being shown in the global "Latest News" section.
-                            This flag can be used for subtle styling differences if desired.
-    """
+def display_single_tweet_fully(tweet_data):
+    """Helper to display one tweet with all its details."""
+    posted_time_safe = html.escape(tweet_data.get('posted_ist', 'N/A'))
+    tweet_link_safe = html.escape(tweet_data.get('tweet_link', ''))
+    tweet_content_raw = tweet_data.get('tweet_content', 'No content available.')
+    associated_links = tweet_data.get('associated_embedded_links', [])
+    tweet_content_html_display = html.escape(tweet_content_raw).replace('\n', '<br>')
+
+    posted_html = f"<span style='color:{COLOR_TWEET_METADATA}; font-size: 0.9em;'><strong>Posted:</strong> `{posted_time_safe}`</span>"
+    link_html = ""
+    if tweet_link_safe:
+        link_html = f"    <span style='color:{COLOR_TWEET_METADATA}; font-size: 0.9em;'><strong>Tweet Link:</strong> <a href='{tweet_link_safe}' style='color:{COLOR_TWEET_LINK_PRIMARY};' target='_blank'>{tweet_link_safe}</a></span>"
+    st.markdown(posted_html + link_html, unsafe_allow_html=True)
+
+    if tweet_content_raw.strip():
+        st.markdown(f"""
+            <div style='color:{COLOR_TWEET_CONTENT_TEXT}; 
+                        background-color:{COLOR_TWEET_CONTENT_BG}; 
+                        border-left: 4px solid {COLOR_TWEET_LINK_PRIMARY}; 
+                        padding: 0.75em 1em; 
+                        margin: 0.5em 0 0.5em 0;
+                        border-radius: 4px;'>
+                {tweet_content_html_display}
+            </div>
+        """, unsafe_allow_html=True)
+    if associated_links:
+        assoc_links_html_parts = []
+        for idx_assoc, link_assoc in enumerate(associated_links):
+            link_assoc_safe = html.escape(link_assoc)
+            assoc_links_html_parts.append(f"<a href='{link_assoc_safe}' style='color:{COLOR_ASSOCIATED_LINK};' target='_blank'>[{idx_assoc+1}]</a>")
+        assoc_links_display = ", ".join(assoc_links_html_parts)
+        st.markdown(f"<span style='color:{COLOR_TWEET_METADATA}; font-size: 0.9em;'><strong>Associated:</strong> {assoc_links_display}</span>", unsafe_allow_html=True)
+
+
+def display_specific_point_details(sp_item, theme_name, is_latest_item_display=False):
     point_summary_text = sp_item.get('point_summary')
-    # Use the flag for potential styling differences in the summary header
     h3_font_size = "1.15em" if is_latest_item_display else "1.25em" 
     h3_margin_top = "0.5em" if is_latest_item_display else "0.2em"
-
     h3_style = (
-        f"color: {COLOR_SUMMARY_SUBHEADER}; "
-        f"margin-top: {h3_margin_top}; "
-        f"margin-bottom: 0.4em; "
-        f"font-size: {h3_font_size}; " 
-        f"font-weight: 600;"
+        f"color: {COLOR_SUMMARY_SUBHEADER}; margin-top: {h3_margin_top}; margin-bottom: 0.4em; "
+        f"font-size: {h3_font_size}; font-weight: 600;"
     )
     if point_summary_text and point_summary_text.strip():
-        summary_safe = html.escape(point_summary_text)
-        st.markdown(f"<h3 style='{h3_style}'>{summary_safe}</h3>", unsafe_allow_html=True)
+        st.markdown(f"<h3 style='{h3_style}'>{html.escape(point_summary_text)}</h3>", unsafe_allow_html=True)
     else:
         st.markdown(f"<h3 style='{h3_style}'>Specific Point Details</h3>", unsafe_allow_html=True)
 
     tweets = sp_item.get('contributing_tweets', [])
-    # MODIFICATION: Always show up to 2 tweets fully, regardless of 'is_latest_item_display'
-    num_tweets_to_display_fully = min(2, len(tweets)) 
+    if not tweets:
+        st.caption("No supporting tweets for this point.")
+        return
 
-    if num_tweets_to_display_fully > 0:
-        with st.container(): 
+    is_special_theme = (theme_name == SPECIAL_THEME_FULL_CONTENT)
+
+    with st.container():
+        if is_special_theme:
+            # Display ALL tweets fully for the special theme
+            for i, tweet in enumerate(tweets):
+                display_single_tweet_fully(tweet)
+                if i < len(tweets) - 1: # Add divider between multiple fully displayed tweets
+                    st.markdown("<hr style='border-top: 1px dotted #eee; margin-top:0.6em; margin-bottom:0.6em;'>", unsafe_allow_html=True)
+        else:
+            # Standard display: up to 2 tweets fully, then "Other sources"
+            num_tweets_to_display_fully = min(2, len(tweets))
             for i in range(num_tweets_to_display_fully):
-                tweet = tweets[i]
-                posted_time_safe = html.escape(tweet.get('posted_ist', 'N/A'))
-                tweet_link_safe = html.escape(tweet.get('tweet_link', ''))
-                tweet_content_raw = tweet.get('tweet_content', 'No content available.')
-                associated_links = tweet.get('associated_embedded_links', [])
-                tweet_content_html_display = html.escape(tweet_content_raw).replace('\n', '<br>')
-                posted_html = f"<span style='color:{COLOR_TWEET_METADATA}; font-size: 0.9em;'><strong>Posted:</strong> `{posted_time_safe}`</span>"
-                link_html = ""
-                if tweet_link_safe:
-                    link_html = f"    <span style='color:{COLOR_TWEET_METADATA}; font-size: 0.9em;'><strong>Tweet Link:</strong> <a href='{tweet_link_safe}' style='color:{COLOR_TWEET_LINK_PRIMARY};' target='_blank'>{tweet_link_safe}</a></span>"
-                st.markdown(posted_html + link_html, unsafe_allow_html=True)
-                if tweet_content_raw.strip():
-                    st.markdown(f"""
-                        <div style='color:{COLOR_TWEET_CONTENT_TEXT}; 
-                                    background-color:{COLOR_TWEET_CONTENT_BG}; 
-                                    border-left: 4px solid {COLOR_TWEET_LINK_PRIMARY}; 
-                                    padding: 0.75em 1em; 
-                                    margin: 0.5em 0 0.5em 0;
-                                    border-radius: 4px;'>
-                            {tweet_content_html_display}
-                        </div>
-                    """, unsafe_allow_html=True)
-                if associated_links:
-                    assoc_links_html_parts = []
-                    for idx_assoc, link_assoc in enumerate(associated_links):
-                        link_assoc_safe = html.escape(link_assoc)
-                        assoc_links_html_parts.append(f"<a href='{link_assoc_safe}' style='color:{COLOR_ASSOCIATED_LINK};' target='_blank'>[{idx_assoc+1}]</a>")
-                    assoc_links_display = ", ".join(assoc_links_html_parts)
-                    st.markdown(f"<span style='color:{COLOR_TWEET_METADATA}; font-size: 0.9em;'><strong>Associated:</strong> {assoc_links_display}</span>", unsafe_allow_html=True)
-                if i < num_tweets_to_display_fully - 1 :
-                    st.markdown("<div style='height: 0.75em;'></div>", unsafe_allow_html=True) 
+                display_single_tweet_fully(tweets[i])
+                # Divider between the first two fully displayed tweets (if two)
+                if i == 0 and num_tweets_to_display_fully > 1:
+                     st.markdown("<hr style='border-top: 1px dotted #eee; margin-top:0.6em; margin-bottom:0.6em;'>", unsafe_allow_html=True)
+                # Spacer if "Other Supporting Tweets" will follow
                 elif i == num_tweets_to_display_fully - 1 and len(tweets) > num_tweets_to_display_fully : 
                      st.markdown("<div style='height: 0.5em;'></div>", unsafe_allow_html=True)
-    
-    # MODIFICATION: Always show "Other Supporting Tweets" if applicable, regardless of 'is_latest_item_display'
-    if len(tweets) > num_tweets_to_display_fully:
-        st.markdown(f"<p style='font-weight:bold; margin-top:0.8em; margin-bottom: 0.2em; color:{COLOR_TWEET_METADATA};'>Other Supporting Tweets for this Point:</p>", unsafe_allow_html=True)
-        other_tweets_html_list = []
-        for i in range(num_tweets_to_display_fully, len(tweets)):
-            tweet = tweets[i]
-            posted_time_safe = html.escape(tweet.get('posted_ist', 'N/A'))
-            tweet_link_url_safe = html.escape(tweet.get('tweet_link', '')) 
-            tweet_content_raw_other = tweet.get('tweet_content', 'No content.')
-            hover_content_safe = html.escape(tweet_content_raw_other).replace('\n', ' ')
-            hover_text_safe = html.escape(f"Posted: {posted_time_safe}\n") + hover_content_safe
-            link_display_text_safe = tweet_link_url_safe if tweet_link_url_safe else "Link not available"
-            href_url_safe = tweet_link_url_safe if tweet_link_url_safe else "#"
-            other_tweets_html_list.append(f"<li style='margin-bottom: 0.3em;'><a href='{href_url_safe}' title=\"{hover_text_safe}\" style='color:{COLOR_TWEET_LINK_SECONDARY};' target='_blank'>{link_display_text_safe}</a></li>")
-        st.markdown(f"<ul style='list-style-type: disc; padding-left: 20px; margin-top: 0.3em;'>{''.join(other_tweets_html_list)}</ul>", unsafe_allow_html=True)
+
+            if len(tweets) > num_tweets_to_display_fully:
+                st.markdown(f"<p style='font-weight:bold; margin-top:0.8em; margin-bottom: 0.2em; color:{COLOR_TWEET_METADATA};'>Other Supporting Tweets for this Point:</p>", unsafe_allow_html=True)
+                other_tweets_html_list = []
+                for i in range(num_tweets_to_display_fully, len(tweets)):
+                    tweet = tweets[i]
+                    posted_time_safe = html.escape(tweet.get('posted_ist', 'N/A'))
+                    tweet_link_url_safe = html.escape(tweet.get('tweet_link', '')) 
+                    tweet_content_raw_other = tweet.get('tweet_content', 'No content.')
+                    hover_content_safe = html.escape(tweet_content_raw_other).replace('\n', ' ')
+                    hover_text_safe = html.escape(f"Posted: {posted_time_safe}\n") + hover_content_safe
+                    link_display_text_safe = tweet_link_url_safe if tweet_link_url_safe else "Link not available"
+                    href_url_safe = tweet_link_url_safe if tweet_link_url_safe else "#"
+                    other_tweets_html_list.append(f"<li style='margin-bottom: 0.3em;'><a href='{href_url_safe}' title=\"{hover_text_safe}\" style='color:{COLOR_TWEET_LINK_SECONDARY};' target='_blank'>{link_display_text_safe}</a></li>")
+                st.markdown(f"<ul style='list-style-type: disc; padding-left: 20px; margin-top: 0.3em;'>{''.join(other_tweets_html_list)}</ul>", unsafe_allow_html=True)
+
 
 # --- Main script flow ---
-# (The rest of the main script flow remains IDENTICAL to the previous version)
-# ... (load_news_from_file, get_news_timestamp_info, top timestamp display, TOC display, 
-#      Latest News pass, Past News pass -- all this logic is unchanged) ...
+# (The rest of the main script flow remains IDENTICAL to the previous version:
+#  load_news_from_file, get_news_timestamp_info, top timestamp display, TOC display, 
+#  Latest News pass, Past News pass. The calls to display_specific_point_details will
+#  now use the updated logic.)
+# ...
 parsed_news_data = load_news_from_file(NEWS_DATA_FILENAME)
 overall_oldest_ts, overall_latest_ts, LATEST_TIMESTAMP_IN_DATASET = get_news_timestamp_info(parsed_news_data)
 
@@ -189,6 +201,7 @@ if parsed_news_data:
             for theme_idx, theme_item in enumerate(parsed_news_data):
                 current_theme_has_latest = False
                 theme_latest_points_to_display = []
+                current_theme_name = theme_item.get('theme_name', 'Unnamed Theme') 
 
                 for sp_item in theme_item.get('specific_points', []):
                     is_latest_point = False
@@ -204,12 +217,12 @@ if parsed_news_data:
                         current_theme_has_latest = True
                 
                 if current_theme_has_latest:
-                    theme_name_safe = html.escape(theme_item.get('theme_name', 'Unnamed Theme'))
+                    theme_name_safe = html.escape(current_theme_name)
                     st.markdown(f"<h2 style='color: {COLOR_THEME_NAME_IN_LATEST}; font-size: 1.6em; margin-top: 1em; margin-bottom: 0.1em;'>{theme_name_safe}</h2>", unsafe_allow_html=True)
                     st.markdown(f"<p style='font-style:italic; font-size:0.85em; color:{COLOR_TWEET_METADATA}; margin-top:0; margin-bottom:0.5em;'>Updates from the past 2 hours for this theme.</p>", unsafe_allow_html=True)
 
                     for sp_idx_latest, sp_item_latest in enumerate(theme_latest_points_to_display):
-                        display_specific_point_details(sp_item_latest, is_latest_item_display=True) # Pass the flag
+                        display_specific_point_details(sp_item_latest, current_theme_name, is_latest_item_display=True) 
                         if sp_idx_latest < len(theme_latest_points_to_display) - 1:
                              st.markdown("<hr style='border-top: 1px dashed #ddd; margin-top:0.6em; margin-bottom:0.6em;'>", unsafe_allow_html=True)
                     st.markdown("<div style='margin-bottom: 1.5em;'></div>", unsafe_allow_html=True)
@@ -222,16 +235,18 @@ if parsed_news_data:
         any_past_news_shown = False
         for theme_idx, theme_item in enumerate(parsed_news_data):
             older_specific_points_for_this_theme = []
+            current_theme_name_past = theme_item.get('theme_name', 'Unnamed Theme') 
+
             for sp_item in theme_item.get('specific_points', []):
                 if id(sp_item) not in latest_displayed_sp_ids: 
                     older_specific_points_for_this_theme.append(sp_item)
             
             if older_specific_points_for_this_theme:
                 any_past_news_shown = True
-                theme_name_safe = html.escape(theme_item.get('theme_name', 'Unnamed Theme'))
-                st.markdown(f"<h2 style='color: {COLOR_THEME_HEADER}; border-bottom: 2px solid {COLOR_THEME_HEADER}; padding-bottom: 0.3em; margin-top: 1.5em; margin-bottom: 0.75em;'>{theme_name_safe}</h2>", unsafe_allow_html=True)
+                theme_name_safe_past = html.escape(current_theme_name_past)
+                st.markdown(f"<h2 style='color: {COLOR_THEME_HEADER}; border-bottom: 2px solid {COLOR_THEME_HEADER}; padding-bottom: 0.3em; margin-top: 1.5em; margin-bottom: 0.75em;'>{theme_name_safe_past}</h2>", unsafe_allow_html=True)
                 for sp_idx_older, sp_item_older in enumerate(older_specific_points_for_this_theme):
-                    display_specific_point_details(sp_item_older, is_latest_item_display=False) # Pass the flag
+                    display_specific_point_details(sp_item_older, current_theme_name_past, is_latest_item_display=False) 
                     if sp_idx_older < len(older_specific_points_for_this_theme) - 1:
                         st.divider() 
         
