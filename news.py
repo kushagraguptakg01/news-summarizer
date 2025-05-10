@@ -130,7 +130,7 @@ def display_specific_point_details(sp_item, theme_name, is_latest_item_display=F
                     st.markdown("<hr style='border-top: 1px dotted #eee; margin-top:0.6em; margin-bottom:0.6em;'>", unsafe_allow_html=True)
         else:
             # Standard display: up to 2 tweets fully, then "Other sources"
-            num_tweets_to_display_fully = min(2, len(tweets))
+            num_tweets_to_display_fully = min(7, len(tweets))
             for i in range(num_tweets_to_display_fully):
                 display_single_tweet_fully(tweets[i])
                 # Divider between the first two fully displayed tweets (if two)
