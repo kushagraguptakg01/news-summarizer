@@ -78,8 +78,51 @@
     "theme_name": "International Diplomacy & Reactions to Tensions",
     "specific_points": [
       {
-        "point_summary": "A ceasefire agreement between India and Pakistan has been announced, reportedly effective from 5:00 PM IST on May 10, 2025, covering land, air, and sea. The agreement was reached after Pakistan's DGMO called the Indian DGMO at 3:35 PM IST. Foreign Secretary Vikram Misri confirmed the ceasefire. The DGMOs are scheduled to hold further talks on May 12 at 12:00 PM IST. Former J&K DGP SP Vaid commented positively on the development, suggesting US mediation and India's condition of Pakistan stopping terrorism. This was also reported by multiple sources as a direct understanding between the two countries, with Pakistan initiating the call. US President Donald Trump also announced the ceasefire on social media, stating it was reached after a 'long night of talks mediated by the United States'. US Secretary of State Marco Rubio (likely referring to Senator Marco Rubio) and VP Vance engaged with senior Indian and Pakistani officials over the past 48 hours. Pakistan's Foreign Minister Ishaq Dar also confirmed the ceasefire.",
+        "point_summary": "A ceasefire agreement between India and Pakistan has been announced, effective from 5:00 PM IST on May 10, 2025, covering land, air, and sea. The agreement was reached after Pakistan's DGMO called the Indian DGMO at 3:35 PM IST. Foreign Secretary Vikram Misri and EAM Dr. S. Jaishankar confirmed the ceasefire, with Dr. Jaishankar reiterating India's firm stance against terrorism. The DGMOs are scheduled for further talks on May 12. Former J&K DGP SP Vaid called it a welcome development, suggesting US mediation and India's condition of Pakistan stopping terrorism. It was emphasized by Indian sources that the ceasefire was worked out directly between the two countries, with no one else to claim credit. US President Donald Trump and US Senator Marco Rubio also announced the ceasefire, with Rubio mentioning engagement with senior Indian and Pakistani officials by US officials over the past 48 hours and praising PM Modi and PM Sharif for their wisdom. However, Shiv Aroor (@ShivAroor) contested Rubio's claim about India agreeing to talks at a neutral site. Pakistan's Foreign Minister Ishaq Dar also confirmed the ceasefire.",
         "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 06:19 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921185710322626761",
+            "tweet_content": "#WATCH | Jammu: On India-Pakistan ceasefire agreement, former J&K DGP SP Vaid says, \" ...This agreement is a welcome development for India and the whole region because we don't want to harm anybody...any neighbouring country...Pakistan must learn from India and abandon this"
+          },
+          {
+            "posted_ist": "May 10, 2025, 06:17 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921185316615930122",
+            "tweet_content": "\"India, Pakistan worked out directly\" No one in Delhi in mood for anyone to claim credit for the ceasefire"
+          },
+          {
+            "posted_ist": "May 10, 2025, 06:15 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921184818722656275",
+            "tweet_content": "India Pakistan Ceasefire  10 May 3:35 PM IST: Pak DGMO speaks to Indian DGMO 5 PM IST: India, Pakistan ceasefire comes into effect  12 May 12:00 hrs: India, Pakistan DGMOs to talk"
+          },
+          {
+            "posted_ist": "May 10, 2025, 06:13 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921184388269654032",
+            "tweet_content": "India, Pakistan agreed to stop firing & military action says EAM Dr S Jaishankar; Re-states India's 'uncompromising' stance against terrorism"
+          },
+          {
+            "posted_ist": "May 10, 2025, 06:13 PM IST",
+            "tweet_link": "https://x.com/ShivAroor/status/1921184278504763421",
+            "tweet_content": "Can confirm that  @SecRubio \u2019s 2nd paragraph is incorrect\u2014India hasn\u2019t agreed to any talks at any site, neutral or otherwise."
+          },
+          {
+            "posted_ist": "May 10, 2025, 06:11 PM IST",
+            "tweet_link": "https://x.com/ani_digital/status/1921183806595248492",
+            "tweet_content": "Marco Rubio confirms ceasefire between India, Pakistan; praises PM Modi, Sharif for \"wisdom\" Read  @ANI  Story | https://aninews.in/news/world/us/marco-rubio-confirms-ceasefire-between-india-pakistan-praises-pm-modi-sharif-for-wisdom20250510180631/\u2026 #US #MarcoRubio #India #Pakistan #ceasefire",
+            "associated_embedded_links": [
+              "https://aninews.in/news/world/us/marco-rubio-confirms-ceasefire-between-india-pakistan-praises-pm-modi-sharif-for-wisdom20250510180631/"
+            ]
+          },
+          {
+            "posted_ist": "May 10, 2025, 06:11 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921183881828405499",
+            "tweet_content": "EAM Dr S Jaishankar tweets, \"India and Pakistan have today worked out an understanding on stoppage of firing and military action. India has consistently maintained a firm and uncompromising stance against terrorism in all its forms and manifestations. It will continue to do so.\""
+          },
+          {
+            "posted_ist": "May 10, 2025, 06:10 PM IST",
+            "tweet_link": "https://x.com/DrSJaishankar/status/1921183635274608685",
+            "tweet_content": "India and Pakistan have today worked out an understanding on stoppage of firing and military action. India has consistently maintained a firm and uncompromising stance against terrorism in all its forms and manifestations. It will continue to do so."
+          },
           {
             "posted_ist": "May 10, 2025, 06:09 PM IST",
             "tweet_link": "https://x.com/ANI/status/1921183412162793733",
@@ -405,6 +448,16 @@
     "theme_name": "Misinformation, Propaganda & Media Advisories",
     "specific_points": [
       {
+        "point_summary": "Alt News reported that several news outlets (TV9, Zee, Lokmat Times & Amar Ujala) used a 2023 image of a naval drill on INS Vikramaditya to falsely show that INS Vikrant struck Karachi port, highlighting misreporting during conflict.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 06:13 PM IST",
+            "tweet_link": "https://x.com/zoo_bear/status/1921184213610402176",
+            "tweet_content": "Misreporting in times of conflict can cause panic. Alt News found that many news outlets, such as TV9, Zee, Lokmat Times & Amar Ujala, used a 2023 image of a naval drill on INS Vikramaditya to show that INS Vikrant struck the Karachi port. |  @OishaniB_"
+          }
+        ]
+      },
+      {
         "point_summary": "PIB FactCheck debunked a WhatsApp message circulating in the name of @DefenceMinIndia giving instructions for civil preparedness, stating the message is fake despite including a verified MoD WhatsApp Channel link.",
         "contributing_tweets": [
           {
@@ -458,13 +511,28 @@
         ]
       },
       {
-        "point_summary": "Journalists Ratnadip Choudhury and Swati Chopra praised Shiv Aroor's reporting on the India-Pak tension and Operation Sindoor for NDTV as credible, balanced, and cutting through rumors.",
+        "point_summary": "Journalists Ratnadip Choudhury praised Shiv Aroor's reporting on the India-Pak tension and Operation Sindoor for NDTV as credible, balanced, and cutting through rumors.",
         "contributing_tweets": [
           {
             "posted_ist": "May 10, 2025, 05:14 PM IST",
             "tweet_link": "https://x.com/RatnadipC/status/1921169418110795905",
             "tweet_content": "My colleague Shiv has been reporting on the India-Pak tension and Op Sindoor from the ground for NDTV with the most credible information, with the best of passion, and bringing India the updates that matter. More power to you... Proud. May the force be with you.   @ShivAroor"
-          },
+          }
+        ]
+      },
+      {
+        "point_summary": "Sushant Sinha commented that recent events should make sensible Indians shun big media and support independent media for non-speculative, credible reportage, free from jingoism and propaganda, to keep India strong and safe.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 11:03 AM IST",
+            "tweet_link": "https://x.com/SushantSin/status/1921076031303139510",
+            "tweet_content": "After the events of the past 72 hours, it should be evident to all well-meaning and sensible Indians that they need to shun big media and support independent media. Non-speculative, credible reportage, sans jingoism and propaganda, is what will keep India strong and safe."
+          }
+        ]
+      },
+      {
+        "point_summary": "Journalists Ratnadip Choudhury and Swati Chopra praised Shiv Aroor's reporting on the India-Pak tension and Operation Sindoor for NDTV as credible, balanced, and cutting through rumors.",
+        "contributing_tweets": [
           {
             "posted_ist": "May 10, 2025, 05:05 PM IST",
             "tweet_link": "https://x.com/swatichopra1/status/1921167285160435821",
@@ -479,16 +547,6 @@
             "posted_ist": "May 10, 2025, 04:53 PM IST",
             "tweet_link": "https://x.com/zoo_bear/status/1921164128401408095",
             "tweet_content": "Here's what I found"
-          }
-        ]
-      },
-      {
-        "point_summary": "Sushant Sinha commented that recent events should make sensible Indians shun big media and support independent media for non-speculative, credible reportage, free from jingoism and propaganda, to keep India strong and safe.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 11:03 AM IST",
-            "tweet_link": "https://x.com/SushantSin/status/1921076031303139510",
-            "tweet_content": "After the events of the past 72 hours, it should be evident to all well-meaning and sensible Indians that they need to shun big media and support independent media. Non-speculative, credible reportage, sans jingoism and propaganda, is what will keep India strong and safe."
           }
         ]
       },
@@ -792,364 +850,15 @@
     ]
   },
   {
-    "theme_name": "India-Pakistan Military Conflict & Cross-Border Actions",
-    "specific_points": [
-      {
-        "point_summary": "Houses in Poonch, J&K, have been severely damaged due to heavy shelling by Pakistan. A local resident reported significant destruction around 6 am, with houses fully destroyed and many deaths, while expressing support for PM Modi and the armed forces.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 05:06 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921167558012465472",
-            "tweet_content": "#WATCH | J&K: A local from Poonch says, \" We were sleeping, it happened around 6 am...houses here have been fully destroyed...many people died. We are with PM Modi and our armed forces...\""
-          },
-          {
-            "posted_ist": "May 10, 2025, 05:03 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921166673760952590",
-            "tweet_content": "#WATCH | J&K: Houses severely damaged in Poonch after heavy shelling by Pakistan. (Visuals deferred by unspecified time)"
-          }
-        ]
-      },
-      {
-        "point_summary": "Top Indian government sources, as reported by WIONews and ANI, stated that India has decided any future act of terror will be deemed an act of war and responded to accordingly. Defence Expert Col. DS Dhillon (Retd) commented that this signifies a big change in India's policy.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 05:15 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921169635707076757",
-            "tweet_content": "#WATCH | Ludhiana, Punjab: India has decided that any future act of terror will be considered an Act of War against India and will be responded accordingly: Top GoI sources Defence Expert Col. DS Dhillon (Retd) says, \" India has made a change in its policy...This is a big change"
-          },
-          {
-            "posted_ist": "May 10, 2025, 04:37 PM IST",
-            "tweet_link": "https://x.com/WIONews/status/1921160073013002579",
-            "tweet_content": "\"Future acts of terror will be deemed acts of war\": India's clear message to Pakistan @sidhant  gets you more details"
-          }
-        ]
-      },
-      {
-        "point_summary": "An ANI Podcast featuring Lt Gen Satish Dua (Retd) is set to premiere, where he reportedly states that Pakistan is using its local population as human shields while launching drone attacks on India.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 05:42 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921176486674936248",
-            "tweet_content": "EP-296 with Lt Gen Satish Dua (Retd) premieres today at 7 PM IST \"Pakistan is using the local population as human shields and then launching drone attacks on India,\"- Lt Gen Satish Dua (Retd) #ANIPodcast #SmitaPrakash #India #Pakistan #IndianArmy #OperationSindoor #DroneAttack"
-          }
-        ]
-      },
-      {
-        "point_summary": "Sky News reported that Markaz Taiba in Muridke, a site of India's precision strikes, was linked to al Qaeda supporters. A person from the bombed site reportedly acknowledged receiving prior information and preparing their fighters.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 04:50 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921163430695686233",
-            "tweet_content": "Sky News now reporting that Markaz Taiba in Muridke, which was one of the locations of India's precision strike against terror camps was also linked to those who expressed support to linked to al Qaeda. The outlet found vdos linked to it."
-          },
-          {
-            "posted_ist": "May 10, 2025, 04:43 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921161681385718237",
-            "tweet_content": "'Hume phaley he khabar mil gai thi...Mujahids get ready here, bachoon ko chutttiyan de di (we got the information earlier..all our fighters get ready here, we gave holidays)' says one of the people from Markaz Taiba that was bombed by India. Comments to the media after attack."
-          }
-        ]
-      },
-      {
-        "point_summary": "A loitering munition fired by Pakistan was found in a village near Jammu and subsequently destroyed by the bomb disposal squad of security forces and NSG.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 04:23 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921156729267445972",
-            "tweet_content": "#WATCH | Jammu: Loitering munition fired by Pakistan was destroyed by the bomb disposal squad of security forces and NSG (National Security Guard). This drone was found in a village near Jammu."
-          }
-        ]
-      },
-      {
-        "point_summary": "Top Indian government sources and multiple reports indicate India has formally decided to modify its rules of engagement, stating that any future act of terror from Pakistan will be considered an 'Act of War' against India and will be responded to accordingly.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 04:10 PM IST",
-            "tweet_link": "https://x.com/ani_digital/status/1921153286356283711",
-            "tweet_content": "Any future 'act of terror' will be considered an 'act of war' against India: Top govt sources Read  @ANI  Story | https://aninews.in/news/national/general-news/any-future-act-of-terror-will-be-considered-an-act-of-war-against-india-top-govt-sources20250510160646/\u2026 #India #Pakistan #Government",
-            "associated_embedded_links": [
-              "https://aninews.in/news/national/general-news/any-future-act-of-terror-will-be-considered-an-act-of-war-against-india-top-govt-sources20250510160646/"
-            ]
-          },
-          {
-            "posted_ist": "May 10, 2025, 03:59 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921150610184790108",
-            "tweet_content": "India to consider future act of terror as an act of war. Clear message from Delhi."
-          },
-          {
-            "posted_ist": "May 10, 2025, 03:56 PM IST",
-            "tweet_link": "https://x.com/ShivAroor/status/1921149738659049588",
-            "tweet_content": "BREAKING   India to formally modify its rules of engagement on Pakistan\u2014any future act of terror will from now on be formally considered an Act of War against India and the response will be so aligned."
-          },
-          {
-            "posted_ist": "May 10, 2025, 03:52 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921148903467946164",
-            "tweet_content": "India has decided that any future act of terror will be considered an Act of War against India and will be responded accordingly: Top GoI sources"
-          },
-          {
-            "posted_ist": "May 10, 2025, 03:50 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921148397441917199",
-            "tweet_content": "India, Pakistan Conflict  Breaking  Indian Govt Sources Say 'India has decided that any future act of terror will be considered an Act of War against India and will be responded accordingly'"
-          }
-        ]
-      },
-      {
-        "point_summary": "A local in Uri, J&K, reported significant damage to their house, including walls, due to Pakistani shelling.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:46 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921147291752087859",
-            "tweet_content": "#WATCH | Uri, J&K | A local whose house has been damaged in Pakistani shelling says, \"The house has been damaged due to Pakistani shelling...everything has been damaged...even the walls have been damaged...\""
-          }
-        ]
-      },
-      {
-        "point_summary": "A residential building in Uri, J&K, suffered damage from heavy cross-border shelling by Pakistan.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:41 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921146097579200935",
-            "tweet_content": "#WATCH | J&K | A residential building in Uri suffered damage after heavy cross-border shelling by Pakistan."
-          }
-        ]
-      },
-      {
-        "point_summary": "Satellite imagery analysis by @detresfa_ suggests possible Indian missile-inflicted runway damage at Pakistan\u2019s PAF Mushaf airbase (Sargodha), which houses F-16s and JF-17s, pending official updates.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:39 PM IST",
-            "tweet_link": "https://x.com/ShivAroor/status/1921145635429814543",
-            "tweet_content": "As we await an official update from the Govt,  @detresfa_  has eyes on possible Indian missile-inflicted runway damage at Pakistan\u2019s most protected airbase, PAF Mushaf (a.k.a. Sargodha). The base houses F-16s, JF-17s etc."
-          }
-        ]
-      },
-      {
-        "point_summary": "Additional District Development Commissioner Raj Kumar Thapa lost his life in Rajouri, J&K, after a Pakistani shell hit his residence. His mortal remains were brought to his home.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:37 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921145153072300277",
-            "tweet_content": "#WATCH | Jammu and Kashmir: Additional District Development Commissioner Raj Kumar Thapa lost his life after a Pakistani shell hit his residence in Rajouri After visiting his residence, Deputy CM Surinder Choudhary says, \"The family is sad, but they also know that their son has"
-          },
-          {
-            "posted_ist": "May 10, 2025, 01:21 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921110778641334340",
-            "tweet_content": "#WATCH | J&K: Mortal remains of Additional District Development Commissioner Raj Kumar Thapa have been brought to his residence. Raj Kumar Thapa lost his life after a Pakistani shell hit his residence in Rajouri."
-          }
-        ]
-      },
-      {
-        "point_summary": "India's 'Operation Sindoor' strikes reportedly killed Yusuf Azhar, Jaish-e-Mohammed Chief Masood Azhar's brother-in-law and a key figure in the IC-814 hijacking.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:57 PM IST",
-            "tweet_link": "https://x.com/ani_digital/status/1921135055683965213",
-            "tweet_content": "Op Sindoor strikes kill Jaish Chief Masood Azhar's brother-in-law, the man behind IC-814 hijacking Read  @ANI  Story | https://aninews.in/news/national/general-news/op-sindoor-strikes-kill-jaish-chief-masood-azhars-brother-the-man-behind-ic-814-hijacking20250510143635/\u2026 #OperationSindoor #Jaisemohammad #MasoodAzhar #Pakistan #YusufAzhar",
-            "associated_embedded_links": [
-              "https://aninews.in/news/national/general-news/op-sindoor-strikes-kill-jaish-chief-masood-azhars-brother-the-man-behind-ic-814-hijacking20250510143635/"
-            ]
-          }
-        ]
-      },
-      {
-        "point_summary": "Security agencies have recovered debris of a Pakistani drone from Dal Lake in Srinagar, indicating Pakistan's attempts to target civilian spaces as part of 'Operation Sindoor'.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:55 PM IST",
-            "tweet_link": "https://x.com/ndtv/status/1921134569698586943",
-            "tweet_content": "India Strikes Back | Security agencies recover debris of drone from Dal Lake as Pakistan continues its attempt to strike civilian spaces  Watch this report by NDTV's  @ShivAroor  from Srinagar #OperationSindoor"
-          }
-        ]
-      },
-      {
-        "point_summary": "An Indian drone was reportedly stolen from Lahore\u2019s DHA Phase 6.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:32 PM IST",
-            "tweet_link": "https://x.com/AdityaRajKaul/status/1921128652432896387",
-            "tweet_content": "Indian Drone stolen from Lahore\u2019s DHA Phase 6 last night!"
-          }
-        ]
-      },
-      {
-        "point_summary": "A Turkish Kamikaze Drone, allegedly used by Pakistan to target civilian areas, has been recovered in a village in the Naushera area of Jammu and Kashmir.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:19 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921125312701587802",
-            "tweet_content": "Turkish Kamikaze Drone recovered in a village in Naushera area of Jammu and Kashmir. Pakistan targeting civilian areas."
-          }
-        ]
-      },
-      {
-        "point_summary": "'Operation Sindoor' has reportedly eliminated top Lashkar-e-Taiba (LeT) and Jaish-e-Mohammed (JeM) terrorists, including Yusuf Azhar, in Pakistan and PoK camps.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:16 PM IST",
-            "tweet_link": "https://x.com/ani_digital/status/1921124751465930998",
-            "tweet_content": "Op Sindoor eliminates top LeT, JeM terrorists, including Yusuf Azhar in Pakistan, PoK Camps Read  @ANI  Story | https://aninews.in/news/national/general-news/op-sindoor-eliminates-top-let-jem-terrorists-including-yusuf-azhar-in-pakistan-pok-camps20250510141149/\u2026 #OperationSindoor #MaulanaYusufAzhar #JammuKashmir",
-            "associated_embedded_links": [
-              "https://aninews.in/news/national/general-news/op-sindoor-eliminates-top-let-jem-terrorists-including-yusuf-azhar-in-pakistan-pok-camps20250510141149/"
-            ]
-          }
-        ]
-      },
-      {
-        "point_summary": "Journalist Shiv Aroor quotes an unspecified source stating, \"We are not at war.\"",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:16 PM IST",
-            "tweet_link": "https://x.com/ShivAroor/status/1921124661703676126",
-            "tweet_content": "\u201cWe are not at war.\u201d"
-          }
-        ]
-      },
-      {
-        "point_summary": "Indian Army Air Defence reportedly neutralized Pakistani Kamikaze drones over Amritsar, Punjab, launched by Pakistani forces across the International Border.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:14 PM IST",
-            "tweet_link": "https://x.com/AdityaRajKaul/status/1921124288343486499",
-            "tweet_content": "INDIAN ARMY AIR DEFENCE NEUTRALISES PAKISTANI KAMIKAZE DRONES OVER AMRITSAR IN PUNJAB In the early hours of today, at approximately 0500 hrs, Pakistani forces launched multiple Byker YIHA III kamikaze drones across the International Border towards Amritsar, Punjab, in a blatant"
-          }
-        ]
-      },
-      {
-        "point_summary": "Parts and fragments of a missile were retrieved from Rehal & Sedgarh villages of Bishnah, Jammu.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:50 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921118245035081825",
-            "tweet_content": "#WATCH | Jammu & Kashmir | Parts and fragments of a missile retrieved from Rehal & Sedgarh villages of Bishnah, Jammu."
-          }
-        ]
-      },
-      {
-        "point_summary": "The Indian Army conducted a coordinated fire assault on Pakistani terror launchpads near the Line of Control, reportedly pulverizing and razing them.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:47 PM IST",
-            "tweet_link": "https://x.com/AdityaRajKaul/status/1921117329242366067",
-            "tweet_content": "Indian Army conducted coordinated fire assault on Pak terror launchpads, pulverizing & razing them to cinders. Terror launchpads, near the Line of Control, were a hub for planning and executing terror attacks against Indian civilians and security forces."
-          }
-        ]
-      },
-      {
-        "point_summary": "Former Senior Diplomat Yogendra Kumar stated that 'Operation Sindoor' was India's first attack on Pakistan in revenge for atrocities in Pahalgam, and Pakistan's response was an escalation.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:39 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921115316295254263",
-            "tweet_content": "#WATCH | Delhi | On India-Pakistan tension, Former Senior Diplomat, Yogendra Kumar says, \"Operation Sindoor was the first attack we did on Pakistan to take revenge for the atrocities they committed in Pahalgam... The response that Pakistan then made was an escalation... On the"
-          }
-        ]
-      },
-      {
-        "point_summary": "Sidhant reports that this is the first time since 1971 that India has made strikes deep and multiple times in Pakistan, following the Pahalgam terror attack and Pakistani targeting of Indian cities.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:37 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921114868217725160",
-            "tweet_content": "India Pakistan Conflict It is for the first time since 1971, that India has made strikes deep & multiple times in Pakistan. India's action comes after Pahalgam terror attack & Pakistan targeting Indian cities with missiles & drones."
-          }
-        ]
-      },
-      {
-        "point_summary": "Debris of a projectile was retrieved from Bhuj, Gujarat, with security personnel present at the spot.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:35 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921114419058159837",
-            "tweet_content": "#WATCH | Debris of a projectile retrieved from Gujarat's Bhuj; security personnel are present at the spot."
-          }
-        ]
-      },
-      {
-        "point_summary": "Indian government sources and media reports have detailed several terrorists killed in Indian strikes on May 7th in Pakistan. These include Mudassar Khadian Khas (@ Mudassar @ Abu Jundal) of Lashkar-e-Taiba (LeT), in-charge of Markaz Taiba, Muridke, whose funeral reportedly received a guard of honour from the Pakistan Army; Khalid @ Abu Akasha (LeT), involved in J&K attacks and arms smuggling, whose funeral was attended by senior Pakistani Army officials; and Mohammad Hassan Khan (Jaish-e-Mohammed), son of JeM's PoK operational commander.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:32 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921113634773598674",
-            "tweet_content": "Details of terrorists killed in the Indian strikes on 7th May in Pakistan: Sources  1) Mudassar Khadian Khas @ Mudassar @ Abu Jundal. Affiliated with Lashkar-e-Taiba. His funeral prayer was held in a government school, led by Hafiz Abdul Rauf of JuD (a designated global"
-          },
-          {
-            "posted_ist": "May 10, 2025, 01:29 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921112872890871834",
-            "tweet_content": "India neutralized several Pakistani Terrorist on 7th May.  All the details 1. Mudassar Khadian Khas @ Mudassar @ Abu Jundal Affiliation: Lashkar-e-Taiba -In-charge of Markaz Taiba, Muridke -Received guard of honour at his funeral by the Pakistan Army -Wreaths were laid on"
-          },
-          {
-            "posted_ist": "May 10, 2025, 01:29 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921112880449044585",
-            "tweet_content": "4. Khalid @ Abu Akasha Affiliation: Lashkar-e-Taiba -Involved in multiple terrorist attacks in Jammu & Kashmir. -Engaged in weapons smuggling from Afghanistan. -Funeral held in Faisalabad, attended by senior Pakistani Army officials & the Deputy Commissioner of Faisalabad"
-          },
-          {
-            "posted_ist": "May 10, 2025, 01:29 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921112882806231104",
-            "tweet_content": "5. Mohammad Hassan Khan Affiliation: Jaish-e-Mohammed -Son of Mufti Asghar Khan Kashmiri, operational commander of JeM in PoK -Played a key role in coordinating terrorist attacks in J&K"
-          },
-          {
-            "posted_ist": "May 10, 2025, 01:27 PM IST",
-            "tweet_link": "https://x.com/AdityaRajKaul/status/1921112287051391360",
-            "tweet_content": "Indian Govt Sources: Details of terrorists killed in the Indian strikes on 7May in Pakistan:  1. Mudassar Khadian Khas @ Mudassar @ Abu  Affiliation: Lashkar-e-Taiba \u2022In-charge of Markaz Taiba, Muridke. \u2022Received a guard of honour at his funeral by the Pakistan Army."
-          }
-        ]
-      },
-      {
-        "point_summary": "Colonel Sophia Qureshi confirmed that India responded with swift precision strikes on identified military targets at Pakistan's Rafiqi, Chaklala, Rahim Yar Khan, and more, ensuring minimal collateral damage, after Pakistan's attack.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:27 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921112236136824835",
-            "tweet_content": "India Confirms It Targeted Pakistan Military Bases after Pak Attack \"India responded with swift precision strikes on identified military targets at Pakistan's Rafiqi, Chaklala, Rahim Yar Khan & more, ensuring minimal collateral damage\", confirms Colonel Sophia Qureshi"
-          }
-        ]
-      },
-      {
-        "point_summary": "PGIMER in Chandigarh is appealing for voluntary blood donations to create emergency reserves for Indian jawans serving in Jammu and Kashmir amidst current tensions.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:13 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921139004608512479",
-            "tweet_content": "#WATCH | PGIMER, Chandigarh urges voluntary blood donation to build emergency reserves in support of jawans posted on duty in Jammu and Kashmir."
-          }
-        ]
-      },
-      {
-        "point_summary": "An Indian Government briefing is anticipated to provide an updated list of Pakistan Air Force (PAF) airbases that the Indian Air Force (IAF) has targeted with standoff weapons, reportedly including two additional major PAF fighter bases.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 03:07 PM IST",
-            "tweet_link": "https://x.com/ShivAroor/status/1921137616268800111",
-            "tweet_content": "A second Indian Govt briefing today is expected to update the PAF airbase list that the IAF has struck with standoff weapons. Two more major PAF fighter bases hit."
-          }
-        ]
-      },
-      {
-        "point_summary": "Debris of a projectile has been found in Damtal village, Kangra district, Himachal Pradesh, near Pathankot, Punjab, following a reported blast; the area has been secured by police for expert examination.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 02:42 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921131271700251089",
-            "tweet_content": "#WATCH | Himachal Pradesh: Hollowed ground in Damtal village of Kangra district, located near Pathankot in Punjab, where debris of a projectile has been found.  Police say, \"A while ago, a blast was heard here. Following that, we reached here. We have secured the area. Experts"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "theme_name": "Indian Domestic Response & Preparedness",
     "specific_points": [
       {
-        "point_summary": "Gujarat Police have tightened security in South Gujarat to secure the state's seafront. IG Surat Range, Prem Vir Singh, confirmed strong arrangements, police patrolling in sensitive areas, and readiness to tackle any challenge.",
+        "point_summary": "NSA Ajit Doval is reportedly meeting with PM Modi.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 05:05 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921167238955946220",
-            "tweet_content": "#WATCH | Valsad, Gujarat | IG Surat Range, Prem Vir Singh, says, \"Strong arrangements have been made throughout South Gujarat to secure the seafront. The Police are patrolling sensitive areas. We are entirely ready to tackle any challenge.\""
-          },
-          {
-            "posted_ist": "May 10, 2025, 05:00 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921166059689611413",
-            "tweet_content": "#WATCH | Valsad | Gujarat Police tighten security in South Gujarat to secure the seafront of the state amid escalating India-Pakistan tensions."
+            "posted_ist": "May 10, 2025, 06:22 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921186642896769309",
+            "tweet_content": "NSA Ajit Doval is meeting the PM Modi"
           }
         ]
       },
@@ -1180,6 +889,21 @@
             "posted_ist": "May 10, 2025, 05:19 PM IST",
             "tweet_link": "https://x.com/ANI/status/1921170753103294659",
             "tweet_content": "Mumbai Police DCP operations issued preventive orders under the Maharashtra Police Act. The police have banned the use of firecrackers from 11 May to 9 June 2025. \"No person shall let off or throw any fire crackers/fireworks or send up any rocket, including a chidi, in or upon"
+          }
+        ]
+      },
+      {
+        "point_summary": "Gujarat Police have tightened security in South Gujarat to secure the state's seafront. IG Surat Range, Prem Vir Singh, confirmed strong arrangements, police patrolling in sensitive areas, and readiness to tackle any challenge.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:05 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921167238955946220",
+            "tweet_content": "#WATCH | Valsad, Gujarat | IG Surat Range, Prem Vir Singh, says, \"Strong arrangements have been made throughout South Gujarat to secure the seafront. The Police are patrolling sensitive areas. We are entirely ready to tackle any challenge.\""
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:00 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921166059689611413",
+            "tweet_content": "#WATCH | Valsad | Gujarat Police tighten security in South Gujarat to secure the seafront of the state amid escalating India-Pakistan tensions."
           }
         ]
       },
@@ -1523,223 +1247,359 @@
     ]
   },
   {
-    "theme_name": "Other National News/Developments",
+    "theme_name": "India-Pakistan Military Conflict & Cross-Border Actions",
     "specific_points": [
       {
-        "point_summary": "Madhya Pradesh Chief Minister Mohan Yadav and Maharashtra CM Devendra Fadnavis discussed the Tapti Basin Mega Recharge Project, highlighting a new approach to schemes connecting two states.",
+        "point_summary": "The Indian Government has confirmed a ceasefire with Pakistan, reportedly 12 hours after Indian forces bombed 8 Pakistan Air Force (PAF) air bases and installations.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 05:07 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921167658076004428",
-            "tweet_content": "#WATCH | Bhopal | On the Tapti Basin Mega Recharge Project, Madhya Pradesh Chief Minister Mohan Yadav says, \"Today a new chapter will begin with the state of Maharashtra... The Prime Minister has adopted a new approach for the schemes under which two states have been connected"
+            "posted_ist": "May 10, 2025, 06:17 PM IST",
+            "tweet_link": "https://x.com/ShivAroor/status/1921185366687580376",
+            "tweet_content": "Indian Govt confirms ceasefire with Pakistan, 12 hours after bombing 8 PAF air bases and installations."
           }
         ]
       },
       {
-        "point_summary": "Sidhant reports that amidst the ongoing tensions, a podcaster reached out to a government official requesting a ban on another podcaster.",
+        "point_summary": "Top Indian government sources, as reported by WIONews, stated that India has decided any future act of terror will be deemed an act of war and responded to accordingly.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 04:59 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921165592104427574",
-            "tweet_content": "In the middle of all this, a podcaster reached out to the govt official, requesting to ban another podcaster."
+            "posted_ist": "May 10, 2025, 04:37 PM IST",
+            "tweet_link": "https://x.com/WIONews/status/1921160073013002579",
+            "tweet_content": "\"Future acts of terror will be deemed acts of war\": India's clear message to Pakistan @sidhant  gets you more details"
           }
         ]
       },
       {
-        "point_summary": "Maharashtra Chief Minister Devendra Fadnavis spoke about the Tapti Basin Mega Recharge Project after an Inter-State Control Board for Joint Irrigation and Hydro Electric Projects meeting, which was held after a 25-year gap since 2000.",
+        "point_summary": "An ANI Podcast featuring Lt Gen Satish Dua (Retd) is set to premiere, where he reportedly states that Pakistan is using its local population as human shields while launching drone attacks on India.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 04:58 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921165385044238602",
-            "tweet_content": "#WATCH | Bhopal | On the Tapti Basin Mega Recharge Project, Maharashtra Chief Minister Devendra Fadnavis says, \"...Today, after 25 years, the Inter-State Control Board for Joint Irrigation and Hydro Electric Projects met. Earlier, the meeting was held in 2000...Due to this"
+            "posted_ist": "May 10, 2025, 05:42 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921176486674936248",
+            "tweet_content": "EP-296 with Lt Gen Satish Dua (Retd) premieres today at 7 PM IST \"Pakistan is using the local population as human shields and then launching drone attacks on India,\"- Lt Gen Satish Dua (Retd) #ANIPodcast #SmitaPrakash #India #Pakistan #IndianArmy #OperationSindoor #DroneAttack"
           }
         ]
       },
       {
-        "point_summary": "IMD Scientist Dr Naresh Kumar reported rain in Delhi NCR, with light rain and thundershowers expected to continue during the day before reducing, and temperatures likely to rise by 4-6 degrees in the northwest.",
+        "point_summary": "Houses in Poonch, J&K, have been severely damaged due to heavy shelling by Pakistan. A local resident reported significant destruction around 6 am, with houses fully destroyed and many deaths, while expressing support for PM Modi and the armed forces.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 03:49 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921148033305067631",
-            "tweet_content": "#WATCH | Delhi | On weather update, IMD Scientist Dr Naresh Kumar says, \"...It rained in Delhi NCR this morning. Light rain and thundershowers are expected during the day today as well. It will reduce from tomorrow. Temperatures are expected to rise by 4-6 degrees in northwest"
+            "posted_ist": "May 10, 2025, 05:06 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921167558012465472",
+            "tweet_content": "#WATCH | J&K: A local from Poonch says, \" We were sleeping, it happened around 6 am...houses here have been fully destroyed...many people died. We are with PM Modi and our armed forces...\""
+          },
+          {
+            "posted_ist": "May 10, 2025, 05:03 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921166673760952590",
+            "tweet_content": "#WATCH | J&K: Houses severely damaged in Poonch after heavy shelling by Pakistan. (Visuals deferred by unspecified time)"
           }
         ]
       },
       {
-        "point_summary": "Assam CM Himanta Biswa Sarma announced the decision to name Dibrugarh airport after Bharat Ratna Dr. Bhupen Hazarika, with a special legislative assembly session planned for approval.",
+        "point_summary": "Top Indian government sources, as reported by WIONews and ANI, stated that India has decided any future act of terror will be deemed an act of war and responded to accordingly. Defence Expert Col. DS Dhillon (Retd) commented that this signifies a big change in India's policy.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 03:44 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921146827044233613",
-            "tweet_content": "Guwahati: Assam CM Himanta Biswa Sarma says, \"The Assam government has decided to dedicate the Dibrugarh airport in the name of Bharat Ratna Dr Bhupen Hazarika. In the next month, a day-long special session of Assam Legislative Assembly will be held so that the state assembly can"
+            "posted_ist": "May 10, 2025, 05:15 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921169635707076757",
+            "tweet_content": "#WATCH | Ludhiana, Punjab: India has decided that any future act of terror will be considered an Act of War against India and will be responded accordingly: Top GoI sources Defence Expert Col. DS Dhillon (Retd) says, \" India has made a change in its policy...This is a big change"
           }
         ]
       },
       {
-        "point_summary": "The Assam cabinet approved a scheme named \"Eti Koli Duti Paat\" to provide one-time assistance of Rs 5000 to each permanent and temporary tea garden labourer.",
+        "point_summary": "Sky News reported that Markaz Taiba in Muridke, a site of India's precision strikes, was linked to al Qaeda supporters. A person from the bombed site reportedly acknowledged receiving prior information and preparing their fighters.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 04:50 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921163430695686233",
+            "tweet_content": "Sky News now reporting that Markaz Taiba in Muridke, which was one of the locations of India's precision strike against terror camps was also linked to those who expressed support to linked to al Qaeda. The outlet found vdos linked to it."
+          },
+          {
+            "posted_ist": "May 10, 2025, 04:43 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921161681385718237",
+            "tweet_content": "'Hume phaley he khabar mil gai thi...Mujahids get ready here, bachoon ko chutttiyan de di (we got the information earlier..all our fighters get ready here, we gave holidays)' says one of the people from Markaz Taiba that was bombed by India. Comments to the media after attack."
+          }
+        ]
+      },
+      {
+        "point_summary": "A loitering munition fired by Pakistan was found in a village near Jammu and subsequently destroyed by the bomb disposal squad of security forces and NSG.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 04:23 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921156729267445972",
+            "tweet_content": "#WATCH | Jammu: Loitering munition fired by Pakistan was destroyed by the bomb disposal squad of security forces and NSG (National Security Guard). This drone was found in a village near Jammu."
+          }
+        ]
+      },
+      {
+        "point_summary": "Top Indian government sources and multiple reports indicate India has formally decided to modify its rules of engagement, stating that any future act of terror from Pakistan will be considered an 'Act of War' against India and will be responded to accordingly.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 04:10 PM IST",
+            "tweet_link": "https://x.com/ani_digital/status/1921153286356283711",
+            "tweet_content": "Any future 'act of terror' will be considered an 'act of war' against India: Top govt sources Read  @ANI  Story | https://aninews.in/news/national/general-news/any-future-act-of-terror-will-be-considered-an-act-of-war-against-india-top-govt-sources20250510160646/\u2026 #India #Pakistan #Government",
+            "associated_embedded_links": [
+              "https://aninews.in/news/national/general-news/any-future-act-of-terror-will-be-considered-an-act-of-war-against-india-top-govt-sources20250510160646/"
+            ]
+          },
+          {
+            "posted_ist": "May 10, 2025, 03:59 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921150610184790108",
+            "tweet_content": "India to consider future act of terror as an act of war. Clear message from Delhi."
+          },
+          {
+            "posted_ist": "May 10, 2025, 03:56 PM IST",
+            "tweet_link": "https://x.com/ShivAroor/status/1921149738659049588",
+            "tweet_content": "BREAKING   India to formally modify its rules of engagement on Pakistan\u2014any future act of terror will from now on be formally considered an Act of War against India and the response will be so aligned."
+          },
+          {
+            "posted_ist": "May 10, 2025, 03:52 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921148903467946164",
+            "tweet_content": "India has decided that any future act of terror will be considered an Act of War against India and will be responded accordingly: Top GoI sources"
+          },
+          {
+            "posted_ist": "May 10, 2025, 03:50 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921148397441917199",
+            "tweet_content": "India, Pakistan Conflict  Breaking  Indian Govt Sources Say 'India has decided that any future act of terror will be considered an Act of War against India and will be responded accordingly'"
+          }
+        ]
+      },
+      {
+        "point_summary": "A local in Uri, J&K, reported significant damage to their house, including walls, due to Pakistani shelling.",
         "contributing_tweets": [
           {
             "posted_ist": "May 10, 2025, 03:46 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921147386644021758",
-            "tweet_content": "Assam CM Himanta Biswa Sarma says, \"The Assam cabinet today approved a scheme named \"Eti Koli Duti Paat.\" Under this scheme, the state government will provide one-time assistance of Rs 5000 to each permanent and temporary labourer of the state's tea gardens on the occasion of the"
+            "tweet_link": "https://x.com/ANI/status/1921147291752087859",
+            "tweet_content": "#WATCH | Uri, J&K | A local whose house has been damaged in Pakistani shelling says, \"The house has been damaged due to Pakistani shelling...everything has been damaged...even the walls have been damaged...\""
           }
         ]
       },
       {
-        "point_summary": "Madhya Pradesh Chief Minister Dr Mohan Yadav welcomed Maharashtra Chief Minister Devendra Fadnavis to Bhopal.",
+        "point_summary": "A residential building in Uri, J&K, suffered damage from heavy cross-border shelling by Pakistan.",
         "contributing_tweets": [
           {
             "posted_ist": "May 10, 2025, 03:41 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921146069536153922",
-            "tweet_content": "#WATCH | Bhopal: Madhya Pradesh Chief Minister Dr Mohan Yadav welcomed Maharashtra Chief Minister Devendra Fadnavis on his arrival at the Chief Minister's residence in Bhopal"
+            "tweet_link": "https://x.com/ANI/status/1921146097579200935",
+            "tweet_content": "#WATCH | J&K | A residential building in Uri suffered damage after heavy cross-border shelling by Pakistan."
           }
         ]
       },
       {
-        "point_summary": "ANI Digital shared an article about styling ballet flats as a sneaker alternative.",
+        "point_summary": "Satellite imagery analysis by @detresfa_ suggests possible Indian missile-inflicted runway damage at Pakistan\u2019s PAF Mushaf airbase (Sargodha), which houses F-16s and JF-17s, pending official updates.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 03:30 PM IST",
-            "tweet_link": "https://x.com/ani_digital/status/1921143270433767531",
-            "tweet_content": "5 ways to style the ballet flats trend: A sneaker alternative Read  @ANI  Story | https://aninews.in/gallery/5-ways-to-style-the-ballet-flats-trend-a-sneaker-alternative20250510150523/\u2026 #fashion #balletflats #sneakers #footwear",
+            "posted_ist": "May 10, 2025, 03:39 PM IST",
+            "tweet_link": "https://x.com/ShivAroor/status/1921145635429814543",
+            "tweet_content": "As we await an official update from the Govt,  @detresfa_  has eyes on possible Indian missile-inflicted runway damage at Pakistan\u2019s most protected airbase, PAF Mushaf (a.k.a. Sargodha). The base houses F-16s, JF-17s etc."
+          }
+        ]
+      },
+      {
+        "point_summary": "Additional District Development Commissioner Raj Kumar Thapa lost his life in Rajouri, J&K, after a Pakistani shell hit his residence. His mortal remains were brought to his home.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 03:37 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921145153072300277",
+            "tweet_content": "#WATCH | Jammu and Kashmir: Additional District Development Commissioner Raj Kumar Thapa lost his life after a Pakistani shell hit his residence in Rajouri After visiting his residence, Deputy CM Surinder Choudhary says, \"The family is sad, but they also know that their son has"
+          },
+          {
+            "posted_ist": "May 10, 2025, 01:21 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921110778641334340",
+            "tweet_content": "#WATCH | J&K: Mortal remains of Additional District Development Commissioner Raj Kumar Thapa have been brought to his residence. Raj Kumar Thapa lost his life after a Pakistani shell hit his residence in Rajouri."
+          }
+        ]
+      },
+      {
+        "point_summary": "India's 'Operation Sindoor' strikes reportedly killed Yusuf Azhar, Jaish-e-Mohammed Chief Masood Azhar's brother-in-law and a key figure in the IC-814 hijacking.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:57 PM IST",
+            "tweet_link": "https://x.com/ani_digital/status/1921135055683965213",
+            "tweet_content": "Op Sindoor strikes kill Jaish Chief Masood Azhar's brother-in-law, the man behind IC-814 hijacking Read  @ANI  Story | https://aninews.in/news/national/general-news/op-sindoor-strikes-kill-jaish-chief-masood-azhars-brother-the-man-behind-ic-814-hijacking20250510143635/\u2026 #OperationSindoor #Jaisemohammad #MasoodAzhar #Pakistan #YusufAzhar",
             "associated_embedded_links": [
-              "https://aninews.in/gallery/5-ways-to-style-the-ballet-flats-trend-a-sneaker-alternative20250510150523/"
+              "https://aninews.in/news/national/general-news/op-sindoor-strikes-kill-jaish-chief-masood-azhars-brother-the-man-behind-ic-814-hijacking20250510143635/"
             ]
           }
         ]
       },
       {
-        "point_summary": "Uttar Pradesh CM Yogi Adityanath offered prayers at Shri Hanuman Garhi Mandir in Ayodhya.",
+        "point_summary": "Security agencies have recovered debris of a Pakistani drone from Dal Lake in Srinagar, indicating Pakistan's attempts to target civilian spaces as part of 'Operation Sindoor'.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 03:09 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921137949975916672",
-            "tweet_content": "#WATCH | Uttar Pradesh CM Yogi Adityanath offers prayers at Shri Hanuman Garhi Mandir in Ayodhya."
+            "posted_ist": "May 10, 2025, 02:55 PM IST",
+            "tweet_link": "https://x.com/ndtv/status/1921134569698586943",
+            "tweet_content": "India Strikes Back | Security agencies recover debris of drone from Dal Lake as Pakistan continues its attempt to strike civilian spaces  Watch this report by NDTV's  @ShivAroor  from Srinagar #OperationSindoor"
           }
         ]
       },
       {
-        "point_summary": "Helicopter services for the Char Dham Yatra, including Badrinath and Kedarnath, are reported to be running smoothly from Sahastradhara helidrome in Dehradun and other helipads after a temporary halt due to NOC/clearance issues or bad weather. Uttarakhand CM Pushkar Singh Dhami confirmed over 4 lakh devotees have visited and cautioned against paying extra for heli services.",
+        "point_summary": "An Indian drone was reportedly stolen from Lahore\u2019s DHA Phase 6.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 03:23 PM IST",
-            "tweet_link": "https://x.com/ANINewsUP/status/1921141416379416626",
-            "tweet_content": "#WATCH | CEO of Uttarakhand Civil Aviation Development Authority, Sonika, says, \"Helicopter services for the Char Dham Yatra are running smoothly in the state. It was stopped for some time due to some NOC and clearance-related issues.\" (Source: Information Department)"
+            "posted_ist": "May 10, 2025, 02:32 PM IST",
+            "tweet_link": "https://x.com/AdityaRajKaul/status/1921128652432896387",
+            "tweet_content": "Indian Drone stolen from Lahore\u2019s DHA Phase 6 last night!"
+          }
+        ]
+      },
+      {
+        "point_summary": "A Turkish Kamikaze Drone, allegedly used by Pakistan to target civilian areas, has been recovered in a village in the Naushera area of Jammu and Kashmir.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:19 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921125312701587802",
+            "tweet_content": "Turkish Kamikaze Drone recovered in a village in Naushera area of Jammu and Kashmir. Pakistan targeting civilian areas."
+          }
+        ]
+      },
+      {
+        "point_summary": "'Operation Sindoor' has reportedly eliminated top Lashkar-e-Taiba (LeT) and Jaish-e-Mohammed (JeM) terrorists, including Yusuf Azhar, in Pakistan and PoK camps.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:16 PM IST",
+            "tweet_link": "https://x.com/ani_digital/status/1921124751465930998",
+            "tweet_content": "Op Sindoor eliminates top LeT, JeM terrorists, including Yusuf Azhar in Pakistan, PoK Camps Read  @ANI  Story | https://aninews.in/news/national/general-news/op-sindoor-eliminates-top-let-jem-terrorists-including-yusuf-azhar-in-pakistan-pok-camps20250510141149/\u2026 #OperationSindoor #MaulanaYusufAzhar #JammuKashmir",
+            "associated_embedded_links": [
+              "https://aninews.in/news/national/general-news/op-sindoor-eliminates-top-let-jem-terrorists-including-yusuf-azhar-in-pakistan-pok-camps20250510141149/"
+            ]
+          }
+        ]
+      },
+      {
+        "point_summary": "Journalist Shiv Aroor quotes an unspecified source stating, \"We are not at war.\"",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:16 PM IST",
+            "tweet_link": "https://x.com/ShivAroor/status/1921124661703676126",
+            "tweet_content": "\u201cWe are not at war.\u201d"
+          }
+        ]
+      },
+      {
+        "point_summary": "Indian Army Air Defence reportedly neutralized Pakistani Kamikaze drones over Amritsar, Punjab, launched by Pakistani forces across the International Border.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 02:14 PM IST",
+            "tweet_link": "https://x.com/AdityaRajKaul/status/1921124288343486499",
+            "tweet_content": "INDIAN ARMY AIR DEFENCE NEUTRALISES PAKISTANI KAMIKAZE DRONES OVER AMRITSAR IN PUNJAB In the early hours of today, at approximately 0500 hrs, Pakistani forces launched multiple Byker YIHA III kamikaze drones across the International Border towards Amritsar, Punjab, in a blatant"
+          }
+        ]
+      },
+      {
+        "point_summary": "Parts and fragments of a missile were retrieved from Rehal & Sedgarh villages of Bishnah, Jammu.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:50 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921118245035081825",
+            "tweet_content": "#WATCH | Jammu & Kashmir | Parts and fragments of a missile retrieved from Rehal & Sedgarh villages of Bishnah, Jammu."
+          }
+        ]
+      },
+      {
+        "point_summary": "The Indian Army conducted a coordinated fire assault on Pakistani terror launchpads near the Line of Control, reportedly pulverizing and razing them.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:47 PM IST",
+            "tweet_link": "https://x.com/AdityaRajKaul/status/1921117329242366067",
+            "tweet_content": "Indian Army conducted coordinated fire assault on Pak terror launchpads, pulverizing & razing them to cinders. Terror launchpads, near the Line of Control, were a hub for planning and executing terror attacks against Indian civilians and security forces."
+          }
+        ]
+      },
+      {
+        "point_summary": "Former Senior Diplomat Yogendra Kumar stated that 'Operation Sindoor' was India's first attack on Pakistan in revenge for atrocities in Pahalgam, and Pakistan's response was an escalation.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:39 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921115316295254263",
+            "tweet_content": "#WATCH | Delhi | On India-Pakistan tension, Former Senior Diplomat, Yogendra Kumar says, \"Operation Sindoor was the first attack we did on Pakistan to take revenge for the atrocities they committed in Pahalgam... The response that Pakistan then made was an escalation... On the"
+          }
+        ]
+      },
+      {
+        "point_summary": "Sidhant reports that this is the first time since 1971 that India has made strikes deep and multiple times in Pakistan, following the Pahalgam terror attack and Pakistani targeting of Indian cities.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:37 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921114868217725160",
+            "tweet_content": "India Pakistan Conflict It is for the first time since 1971, that India has made strikes deep & multiple times in Pakistan. India's action comes after Pahalgam terror attack & Pakistan targeting Indian cities with missiles & drones."
+          }
+        ]
+      },
+      {
+        "point_summary": "Debris of a projectile was retrieved from Bhuj, Gujarat, with security personnel present at the spot.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:35 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921114419058159837",
+            "tweet_content": "#WATCH | Debris of a projectile retrieved from Gujarat's Bhuj; security personnel are present at the spot."
+          }
+        ]
+      },
+      {
+        "point_summary": "Indian government sources and media reports have detailed several terrorists killed in Indian strikes on May 7th in Pakistan. These include Mudassar Khadian Khas (@ Mudassar @ Abu Jundal) of Lashkar-e-Taiba (LeT), in-charge of Markaz Taiba, Muridke, whose funeral reportedly received a guard of honour from the Pakistan Army; Khalid @ Abu Akasha (LeT), involved in J&K attacks and arms smuggling, whose funeral was attended by senior Pakistani Army officials; and Mohammad Hassan Khan (Jaish-e-Mohammed), son of JeM's PoK operational commander.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 01:32 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921113634773598674",
+            "tweet_content": "Details of terrorists killed in the Indian strikes on 7th May in Pakistan: Sources  1) Mudassar Khadian Khas @ Mudassar @ Abu Jundal. Affiliated with Lashkar-e-Taiba. His funeral prayer was held in a government school, led by Hafiz Abdul Rauf of JuD (a designated global"
           },
           {
-            "posted_ist": "May 10, 2025, 02:49 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921132963116577199",
-            "tweet_content": "#WATCH | Uttarakhand: Helicopter service to all four Dhams, including Badrinath and Kedarnath, is running smoothly from Sahastradhara helidrome in Dehradun. CM Pushkar Singh Dhami tweets, \"Chardham Yatra is being conducted smoothly in the state. So far, more than 4 lakh devotees"
+            "posted_ist": "May 10, 2025, 01:29 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921112872890871834",
+            "tweet_content": "India neutralized several Pakistani Terrorist on 7th May.  All the details 1. Mudassar Khadian Khas @ Mudassar @ Abu Jundal Affiliation: Lashkar-e-Taiba -In-charge of Markaz Taiba, Muridke -Received guard of honour at his funeral by the Pakistan Army -Wreaths were laid on"
           },
           {
-            "posted_ist": "May 10, 2025, 02:18 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921125172834398240",
-            "tweet_content": "Uttarakhand CM Pushkar Singh Dhami posts on 'X': \"Dear Devotees, Chardham Yatra is being conducted smoothly in the state. So far, more than 4 lakh devotees have visited the Dhams. Heli services for Shri Kedarnath Dham are also fully operational. You are requested not to pay"
+            "posted_ist": "May 10, 2025, 01:29 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921112880449044585",
+            "tweet_content": "4. Khalid @ Abu Akasha Affiliation: Lashkar-e-Taiba -Involved in multiple terrorist attacks in Jammu & Kashmir. -Engaged in weapons smuggling from Afghanistan. -Funeral held in Faisalabad, attended by senior Pakistani Army officials & the Deputy Commissioner of Faisalabad"
           },
           {
-            "posted_ist": "May 10, 2025, 02:12 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921123773475926020",
-            "tweet_content": "#WATCH | State Director General of Information Bansidhar Tiwari told ANI that helicopter services to the four Dhams, including Badrinath and Kedarnath, are running smoothly from all the helipads, including the Sahastradhara helipad in Dehradun. (Video source - DG Information)"
+            "posted_ist": "May 10, 2025, 01:29 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921112882806231104",
+            "tweet_content": "5. Mohammad Hassan Khan Affiliation: Jaish-e-Mohammed -Son of Mufti Asghar Khan Kashmiri, operational commander of JeM in PoK -Played a key role in coordinating terrorist attacks in J&K"
           },
           {
-            "posted_ist": "May 10, 2025, 01:41 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921115816637903197",
-            "tweet_content": "Uttarakhand government tells ANI that the helicopter service for the Char Dham Yatra has resumed and is running smoothly. The government said that the helicopter service was closed for some time due to bad weather."
+            "posted_ist": "May 10, 2025, 01:27 PM IST",
+            "tweet_link": "https://x.com/AdityaRajKaul/status/1921112287051391360",
+            "tweet_content": "Indian Govt Sources: Details of terrorists killed in the Indian strikes on 7May in Pakistan:  1. Mudassar Khadian Khas @ Mudassar @ Abu  Affiliation: Lashkar-e-Taiba \u2022In-charge of Markaz Taiba, Muridke. \u2022Received a guard of honour at his funeral by the Pakistan Army."
           }
         ]
       },
       {
-        "point_summary": "A tweet by Sidhant simply states 'PS: Location of Bengaluru -' without further context.",
+        "point_summary": "Colonel Sophia Qureshi confirmed that India responded with swift precision strikes on identified military targets at Pakistan's Rafiqi, Chaklala, Rahim Yar Khan, and more, ensuring minimal collateral damage, after Pakistan's attack.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 02:41 PM IST",
-            "tweet_link": "https://x.com/sidhant/status/1921130974961717749",
-            "tweet_content": "PS: Location of Bengaluru -"
+            "posted_ist": "May 10, 2025, 01:27 PM IST",
+            "tweet_link": "https://x.com/sidhant/status/1921112236136824835",
+            "tweet_content": "India Confirms It Targeted Pakistan Military Bases after Pak Attack \"India responded with swift precision strikes on identified military targets at Pakistan's Rafiqi, Chaklala, Rahim Yar Khan & more, ensuring minimal collateral damage\", confirms Colonel Sophia Qureshi"
           }
         ]
       },
       {
-        "point_summary": "Adani Enterprises has flagged off India\u2019s first hydrogen fuel cell truck, aiming to promote cleaner transportation by gradually replacing diesel vehicles in its logistics operations. Chhattisgarh CM Vishnu Deo Sai thanked CSPGCL and Adani Group for launching the truck in the state.",
+        "point_summary": "PGIMER in Chandigarh is appealing for voluntary blood donations to create emergency reserves for Indian jawans serving in Jammu and Kashmir amidst current tensions.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 02:41 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921130887049101538",
-            "tweet_content": "Adani Enterprises, the flagship company of the Adani Group, flagged off India\u2019s first hydrogen fuel cell truck to promote cleaner transportation. These hydrogen-powered trucks will gradually replace diesel vehicles used in the company\u2019s logistics operations. In collaboration with"
-          },
-          {
-            "posted_ist": "May 10, 2025, 12:56 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921104556135460934",
-            "tweet_content": "#WATCH | Raipur | Chhattisgarh CM Vishnu Deo Sai says, \"Chhattisgarh is progressing towards development, and today, a new dimension is being added to it. The country's first Hydrogen truck has been launched today, and for this, we thank CSPGCL and Adani Group. This is a"
+            "posted_ist": "May 10, 2025, 03:13 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921139004608512479",
+            "tweet_content": "#WATCH | PGIMER, Chandigarh urges voluntary blood donation to build emergency reserves in support of jawans posted on duty in Jammu and Kashmir."
           }
         ]
       },
       {
-        "point_summary": "MP CM Mohan Yadav inaugurated development projects worth over Rs 2 crore and attended a mass marriage ceremony in Piplani village where over 570 couples from Kokru and Gond societies were married.",
+        "point_summary": "An Indian Government briefing is anticipated to provide an updated list of Pakistan Air Force (PAF) airbases that the Indian Air Force (IAF) has targeted with standoff weapons, reportedly including two additional major PAF fighter bases.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 02:11 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921123350128324774",
-            "tweet_content": "#WATCH | Sehore, MP | On mass marriage ceremony, MP CM Mohan Yadav says, \"Today in Piplani village, the Kokru and Gond societies collectively married more than 570 couples during the mass marriage ceremony... Development projects of more than Rs 2 crore were inaugurated here"
+            "posted_ist": "May 10, 2025, 03:07 PM IST",
+            "tweet_link": "https://x.com/ShivAroor/status/1921137616268800111",
+            "tweet_content": "A second Indian Govt briefing today is expected to update the PAF airbase list that the IAF has struck with standoff weapons. Two more major PAF fighter bases hit."
           }
         ]
       },
       {
-        "point_summary": "Rain lashed parts of Delhi, with visuals reported from Copernicus Marg, areas around India Gate, and Defence Colony.",
+        "point_summary": "Debris of a projectile has been found in Damtal village, Kangra district, Himachal Pradesh, near Pathankot, Punjab, following a reported blast; the area has been secured by police for expert examination.",
         "contributing_tweets": [
           {
-            "posted_ist": "May 10, 2025, 01:28 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921112666883465523",
-            "tweet_content": "#WATCH | Delhi | Rain lashes parts of the national capital; visuals from Copernicus Marg."
-          },
-          {
-            "posted_ist": "May 10, 2025, 01:26 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921112127273566643",
-            "tweet_content": "#WATCH | Delhi | Rain lashes parts of the national capital; visuals from areas around India Gate."
-          },
-          {
-            "posted_ist": "May 10, 2025, 12:54 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921103916181127608",
-            "tweet_content": "#WATCH | Delhi | Rain lashes parts of the national capital; visuals from Defence Colony."
-          }
-        ]
-      },
-      {
-        "point_summary": "Union Minister Shivraj Singh Chouhan praised MP CM Mohan Yadav's effective schemes at a mass marriage ceremony in Sehore, MP, highlighting it as an example of 'Modi ji's India' where development and tradition coexist.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:59 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921120416254619868",
-            "tweet_content": "#WATCH | Sehore, MP | On mass marriage ceremony, Union Minister Shivraj Singh Chouhan says, \"Many couples have been happily married here today... He (MP CM Mohan Yadav) is running very effective and humane schemes... This is Modi ji's India. Where on one side the Shehnai is"
-          }
-        ]
-      },
-      {
-        "point_summary": "Congress MP Chamala Kiran Kumar Reddy commented on the Telangana government's role as a facilitator for the Miss World event in Hyderabad, providing infrastructure and security to showcase the city globally.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:55 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921119425211892000",
-            "tweet_content": "#WATCH | Hyderabad | On BRS MLC K Kavitha's statement, Congress MP Chamala Kiran Kumar Reddy says, \"For the Miss World event in Hyderabad, Telangana government is a felicitator providing infrastructure and security. It has taken up this task because it wants to show the world"
-          }
-        ]
-      },
-      {
-        "point_summary": "Manipur's IT revolution is reportedly being powered by young talent.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 12:48 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921102524716589217",
-            "tweet_content": "Young talent powers Manipur\u2019s IT revolution #manipur #imphal #informationtechnology"
-          }
-        ]
-      },
-      {
-        "point_summary": "Robin Singh commented on the Indus Water Treaty, likening Pakistan's reliance on it to a magician's parrot, suggesting India's actions regarding the treaty are causing distress to Pakistan and India might not back down this time.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 01:18 PM IST",
-            "tweet_link": "https://x.com/rsrobin1/status/1921110151085334998",
-            "tweet_content": "#Vlog :- \u091c\u093e\u0926\u0942\u0917\u0930 \u0915\u0940 \u091c\u093e\u0928 \u0924\u094b\u0924\u0947 \u092e\u0947\u0902 \u0939\u094b\u0924\u0940 \u0925\u0940, \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0940 Indus Water Treaty \u092e\u0947\u0902 \u0939\u0948\u0964 \u092d\u093e\u0930\u0924 \u0928\u0947 \u092a\u093f\u0902\u091c\u0930\u093e \u0939\u093f\u0932\u093e\u092f\u093e\u2014\u0905\u092c \u0924\u094b\u0924\u0947 \u0915\u0940 \u091a\u0940\u0916\u0947\u0902 \u0928\u093f\u0915\u0932 \u0930\u0939\u0940 \u0939\u0948\u0902! \u092d\u093e\u0930\u0924 \u091c\u093e\u0928\u0924\u093e \u0939\u0948 \u0915\u093f \u0905\u092c \u0935\u094b \u0924\u094b\u0924\u093e \u0915\u093f\u0924\u0928\u0940 \u0905\u0939\u092e\u093f\u092f\u0924 \u0930\u0916\u0924\u093e \u0939\u0948\u0964 \u0914\u0930 \u0907\u0938 \u092c\u093e\u0930, \u0932\u0917\u0924\u093e \u0939\u0948 \u092d\u093e\u0930\u0924 \u0939\u093e\u0925 \u092a\u0940\u091b\u0947 \u0916\u0940\u0902\u091a\u0928\u0947 \u0915\u0947 \u092e\u0942\u0921 \u092e\u0947\u0902 \u0928\u0939\u0940\u0902 \u0939\u0948\u0964 #IndusWaterTreaty"
+            "posted_ist": "May 10, 2025, 02:42 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921131271700251089",
+            "tweet_content": "#WATCH | Himachal Pradesh: Hollowed ground in Damtal village of Kangra district, located near Pathankot in Punjab, where debris of a projectile has been found.  Police say, \"A while ago, a blast was heard here. Following that, we reached here. We have secured the area. Experts"
           }
         ]
       }
@@ -1759,16 +1619,6 @@
         ]
       },
       {
-        "point_summary": "BJP MP Dr K Laxman stated there is anger across India against the Pahalgam terrorist attack and the nation wants to give a befitting reply to Pakistan.",
-        "contributing_tweets": [
-          {
-            "posted_ist": "May 10, 2025, 05:17 PM IST",
-            "tweet_link": "https://x.com/ANI/status/1921170283680973165",
-            "tweet_content": "#WATCH | Hyderabad, Telangana | On India-Pakistan tensions, BJP MP Dr K Laxman says, \"There is anger in the whole country against the Pahalgam terrorist attack and the nation wants to give a befitting reply to Pakistan...\""
-          }
-        ]
-      },
-      {
         "point_summary": "AIMIM Chief Asaduddin Owaisi asserted that Pakistan is a global threat and its nuclear weapons must be disarmed and destroyed.",
         "contributing_tweets": [
           {
@@ -1778,6 +1628,16 @@
             "associated_embedded_links": [
               "https://aninews.in/news/national/general-news/pakistan-is-a-global-threat-its-nuclear-weapons-must-be-disarmed-destroyed-owaisi20250510173826/"
             ]
+          }
+        ]
+      },
+      {
+        "point_summary": "BJP MP Dr K Laxman stated there is anger across India against the Pahalgam terrorist attack and the nation wants to give a befitting reply to Pakistan.",
+        "contributing_tweets": [
+          {
+            "posted_ist": "May 10, 2025, 05:17 PM IST",
+            "tweet_link": "https://x.com/ANI/status/1921170283680973165",
+            "tweet_content": "#WATCH | Hyderabad, Telangana | On India-Pakistan tensions, BJP MP Dr K Laxman says, \"There is anger in the whole country against the Pahalgam terrorist attack and the nation wants to give a befitting reply to Pakistan...\""
           }
         ]
       },
