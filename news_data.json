@@ -1,5 +1,794 @@
 [
     {
+        "theme_name": "Indian Domestic Response & Preparedness",
+        "specific_points": [
+            {
+                "point_summary": "Indian Defence Minister Rajnath Singh is scheduled to virtually inaugurate the BrahMos Aerospace Integration & Testing Facility in Lucknow around 11:00 AM on May 11, 2025, as per a statement.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 01:31 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921475738957471918",
+                        "tweet_content": "At around 11.00 AM today, 11th May, Indian Defence Minister Rajnath Singh will virtually inaugurate the BrahMos Aerospace Integration & Testing Facility in Lucknow: Statement"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Speaking at the inaugural ceremony of the BrahMos Aerospace Integration and Testing Facility in Lucknow, Defence Minister Rajnath Singh commemorated National Technology Day by referencing the 1998 Pokhran nuclear tests as a display of India's capabilities, achieved through the efforts of scientists, engineers, and defence personnel.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 01:30 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921475362107842631",
+                        "tweet_content": "#WATCH | At inaugural ceremony of BrahMos Aerospace Integration and Testing Facility in Lucknow, Defence Minister Rajnath Singh says, \"...It is National Technology Day today. On this day in 1998, under the leadership of Atal Bihari Vajpayee, our scientists held nuclear test in Pokhran and showed India's strength to the world. That test was the result of immense efforts of our scientists, engineers, defence personnel and several other stakeholders...\""
+                    }
+                ]
+            },
+            {
+                "point_summary": "Defence Minister Rajnath Singh explains his virtual attendance at the BrahMos Integration & Testing Facility Center inauguration due to the important national situation requiring his presence in Delhi.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 01:24 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921473893576913104",
+                        "tweet_content": "#WATCH | Defence Minister Rajnath Singh says, \"At the inauguration of BrahMos Integration & Testing Facility Center today, I feel delighted to speak with you. I wanted to attend in person. But you know why I couldn't come. Looking at the situation we are facing, it was important for me to be in Delhi. So, I am joining you via video conferencing...\""
+                    }
+                ]
+            },
+            {
+                "point_summary": "Defence Minister Rajnath Singh inaugurated the BrahMos Aerospace Integration and Testing Facility/missile unit in Lucknow, Uttar Pradesh, a key development for India's defence manufacturing under the UP Defence Corridor.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 01:17 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921472220301238696",
+                        "tweet_content": "#WATCH | Delhi: Defence Minister Rajnath Singh inaugurates BrahMos Aerospace Integration and Testing Facility in Lucknow, Uttar Pradesh via video conferencing."
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 01:16 PM IST",
+                        "tweet_link": "https://x.com/SpokespersonMoD/status/1921471989392326693",
+                        "tweet_content": "Watch | India is all set for a historic leap in defence manufacturing! Raksha Mantri Shri Rajnath Singh inaugurating the first BrahMos missile unit in Lucknow, part of the UP Defence Corridor. nitter.net/i/broadcasts/1BRKjmEZp…",
+                        "associated_embedded_links": [
+                            "nitter.net/i/broadcasts/1BRKjmEZp…"
+                        ]
+                    }
+                ]
+            },
+            {
+                "point_summary": "Residents of Poonch, J&K, expressed relief and happiness regarding the agreement between India and Pakistan, observing the reopening of markets and calling for sustained peace and coexistence.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 01:09 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921470324803015043",
+                        "tweet_content": "#WATCH | Poonch, J&K: On the agreement reached between Pakistan and India, a local, Dilbagh Singh says, \"People in Poonch are very happy...The decision between both Govts last night, they came to a good one. I request Pakistan to live and let live...\""
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 01:05 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921469289703285093",
+                        "tweet_content": "#WATCH | Poonch, J&K: On the agreement reached between Pakistan and India, a local, Imran Ahmad says, \"By God's grace, we saw that markets are open today. People are making purchases...Even in the situation earlier, people cooperated. I would like to urge both countries that whenever such a situation occurs, people on both sides suffer losses. I would like to urge the neighbouring country to live and let live...\""
+                    }
+                ]
+            },
+            {
+                "point_summary": "A local resident in Poonch, J&K, expressed support for the India-Pakistan ceasefire agreement, highlighting the relief from tense conditions and urging Pakistan to cease supporting terrorism.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 12:59 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921467592088182832",
+                        "tweet_content": "#WATCH | Poonch, J&K: On the agreement reached between Pakistan and India, a local man says, \"...not only in Poonch, situation was tense across the country. Nobody could sleep in peace. So, we stand with the decision of ceasefire taken by both countries. We stand with our Government and we would also like to tell Pakistan not to indulge in such activities again and again or support terrorism so that people of both our countries remain comfortable...War causes only losses...\""
+                    }
+                ]
+            },
+            {
+                "point_summary": "Prime Minister Narendra Modi chaired multiple high-level security meetings with Defence Minister Rajnath Singh, EAM S. Jaishankar, NSA Ajit Doval, the CDS, and the three service chiefs to discuss the India-Pakistan situation.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 12:47 PM IST",
+                        "tweet_link": "https://x.com/ani_digital/status/1921464729161085136",
+                        "tweet_content": "PM Modi chairs high-level meeting with Rajnath Singh, Jaishankar; CDS and tri-services chiefs present Read @ANI story | aninews.in/news/national/pol… #NarendraModi #RajnathSingh #Jaishankar #CDS",
+                        "associated_embedded_links": [
+                            "http://aninews.in/news/national/pol…"
+                        ]
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 12:15 PM IST",
+                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921456676500062296",
+                        "tweet_content": "First visuals of Prime Minister @narendramodi chairing a high-level security meeting at his residence 7LKM."
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 12:14 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921456430499942516",
+                        "tweet_content": "Breaking: Indian PM Modi chairs high level meeting at his residence. Defence minister Rajnath Singh, EAM Jaishankar, NSA Ajit Doval, CDS, 3 service chiefs present. First Visual:"
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 12:14 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921456430474785109",
+                        "tweet_content": "#WATCH | Delhi: Prime Minister Narendra Modi chairs a meeting at 7, LKM. Defence Minister Rajnath Singh, EAM Dr S Jaishankar, NSA Ajit Doval, CDS, Chiefs of all three services present."
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 11:17 AM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921441969890381840",
+                        "tweet_content": "1st such meeting at the leadership level (PM Modi, Defence Minister Rajnath Singh, NSA Ajit Doval, CDS, 3 service chiefs...)after the announcement on India Pak understanding yesterday"
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 11:15 AM IST",
+                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921441395828576422",
+                        "tweet_content": "#BREAKING: Prime Minister @narendramodi is meeting the Chiefs of Indian Army, Indian Air Force and Indian Navy at his residence. Third such meeting in last 48 hours."
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 11:03 AM IST",
+                        "tweet_link": "https://x.com/ShivAroor/status/1921438427540517106",
+                        "tweet_content": "⚠️ PM Modi meets armed forces Chiefs & NSA in first meet after cessation of kinetic actions yesterday against Pakistan."
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 10:55 AM IST",
+                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921436531731923283",
+                        "tweet_content": "#BREAKING: Prime Minister @narendramodi is meeting the Chiefs of Indian Army, Indian Air Force and Indian Navy at his residence. Third such meeting in last 48 hours."
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 10:49 AM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921434920687149442",
+                        "tweet_content": "India Pakistan tensions Military leadership meeting PM Modi at his residence."
+                    }
+                ]
+            },
+            {
+                "point_summary": "Defence Minister Rajnath Singh to inaugurate a new BrahMos Aerospace Production, Integration & Testing Facility in Lucknow, a day after air-launched BrahMos missiles were reportedly used.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 12:05 PM IST",
+                        "tweet_link": "https://x.com/ShivAroor/status/1921454069303902713",
+                        "tweet_content": "A day after air-launched BrahMos cruise missiles hit at least three of the 11 PAF bases targeted by Indian fighter aircraft, Defence Minister Rajnath Singh inaugurates a new BrahMos facility today in Lucknow. I report details:"
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 11:29 AM IST",
+                        "tweet_link": "https://x.com/SpokespersonMoD/status/1921445102163017753",
+                        "tweet_content": "The BrahMos Aerospace Production Unit in Lucknow is set for inauguration by Raksha Mantri Shri @rajnathsingh (virtually) and Chief Minister Yogi Adityanath today. The Rs 300 crore facility is a key part of the Uttar Pradesh Defence Industrial Corridor and represents India’s commitment to self-reliant defence manufacturing. It includes not only missile production but also testing, integration, and a materials complex for aerospace-grade components. A major leap toward #AtmanirbharBharat and a strategic boost to regional industrial growth. #BrahMos #MakeInIndia #DefenceCorridor #UPIndustrialGrowth #IndiaDefence @rajnathsingh @DefenceMinIndia @SethSanjayMP @HQ_IDS_India @adgpi @indiannavy @IAF_MCC @PIB_India @upeidaofficial @DefProdnIndia @BrahMosMissile @PIBFactCheck"
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 10:58 AM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921437209820831926",
+                        "tweet_content": "At around 11.00 AM today, 11th May, Indian Defence Minister Rajnath Singh will virtually inaugurate the BrahMos Aerospace Integration & Testing Facility in Lucknow: Statement"
+                    }
+                ]
+            },
+            {
+                "point_summary": "BJP MP Arvind Dharmapuri participated in a prayer program for the Indian army and their families at Sarangpur Hanuman Temple.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 12:03 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921453706492739765",
+                        "tweet_content": "#WATCH | Nizamabad, Telangana | BJP MP Arvind Dharmapuri says, \"BJP workers and politicians are here for the BJP's 'manaṁ saitaṁ dēśaṁ kōsaṁ' - 'All of us are for the country' programme at Sarangpur Hanuman Temple... We are here to pray for our Indian army, who are fighting to protect our country, and for their families to receive blessings...\""
+                    }
+                ]
+            },
+            {
+                "point_summary": "A Srinagar local welcomed the ceasefire, stating that peace and brotherhood would benefit tourism and local businesses.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 11:47 AM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921449564109738051",
+                        "tweet_content": "#WATCH | Srinagar, J&K: On understanding reached between India and Pakistan, Abdul Rashid, a local, says, \"We welcome the ceasefire. India has always spoken about peace and has always sided with peace...The situation in J&K for the past one month, the incident with tourists here...Tourists would come here if there is ceasefire. All our transporters and houseboat owners are stressed right now. If peace and brotherhood prevail, it will be the biggest success for our country...We stand with peace...\""
+                    }
+                ]
+            },
+            {
+                "point_summary": "Aditya Raj Kaul shares an image of 'Drone Pakoras', a new snack reportedly in Air Defence Regiments.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 11:47 AM IST",
+                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921449443049546067",
+                        "tweet_content": "Drone Pakoras A new snack in Air Defence Regiments Jai Hind 🇮🇳 PC : www"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Mortal remains of Rifleman Sunil Kumar, who lost his life during shelling by Pakistan in RS Pura sector, were brought to his residence in Trewa village, Jammu.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 11:37 AM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921446954849972357",
+                        "tweet_content": "#WATCH | J&K: Mortal remains of Rifleman Sunil Kumar brought to his residence in Trewa village of Jammu. He lost his life in the line of duty, during the shelling by Pakistan, in RS Pura sector."
+                    }
+                ]
+            },
+            {
+                "point_summary": "DC Amritsar reported that the situation in Amritsar is normal, with markets open and daily life proceeding as usual.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 11:29 AM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921445017215803432",
+                        "tweet_content": "The situation in Amritsar is normal. People are doing their daily work. On Sundays, offices are not open, but the markets are open, and life is normal. Thanks to the people's cooperation: DC Amritsar"
+                    }
+                ]
+            },
+            {
+                "point_summary": "BSF Sub Inspector Mohammed Imtiaz from Chapra, Bihar, lost his life in the line of duty during shelling by Pakistan in RS Pura sector, J&K. His family and villagers mourn his loss.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 10:03 AM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921423292184826052",
+                        "tweet_content": "#WATCH | Arjun Rai, a resident of the village, says, \"We last spoke on Friday. He told us that the situation is very serious...It must have been 14-15 days since he left from here...He was a really good man...\""
+                    },
+                    {
+                        "posted_ist": "May 11, 2025, 09:59 AM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921422335107596478",
+                        "tweet_content": "#WATCH | Bihar: BSF Sub Inspector Mohammed Imtiaz, hailing from Chapra, lost his life in the line of duty during shelling by Pakistan in RS Pura sector of J&K. His nephew, Mohd Aftab says, \"He last spoke to me two days ago. We inquired about each other's health. We came to know about (his demise) at night, around 8.30-8.45 pm. We were told that he is no more. He was really good, he was my maternal uncle.\""
+                    }
+                ]
+            },
+            {
+                "point_summary": "District officials in Barmer lifted the ban on public activities, reporting no drone attacks and a normal situation.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 10:18 AM IST",
+                        "tweet_link": "https://x.com/ani_digital/status/1921427120565223452",
+                        "tweet_content": "Barmer: No drone attacks reported, situation normal as district officials lifts ban on public activities Read @ANI story | aninews.in/news/national/gen…. #Barmer #Rajasthan #IndiaPakistanWar2025",
+                        "associated_embedded_links": [
+                            "http://aninews.in/news/national/gen…."
+                        ]
+                    }
+                ]
+            },
+            {
+                "point_summary": "The situation in Jammu & Kashmir and Punjab is reported to be normal with no new shelling incidents.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 09:42 AM IST",
+                        "tweet_link": "https://x.com/ani_digital/status/1921418091499581456",
+                        "tweet_content": "Situation remains normal as no shelling reported in J-K, Punjab Read @ANI story | aninews.in/news/national/gen… #JammuKashmir #Punjab #normalcy",
+                        "associated_embedded_links": [
+                            "http://aninews.in/news/national/gen…"
+                        ]
+                    }
+                ]
+            },
+            {
+                "point_summary": "Union Home Secretary Govind Mohan held a video conference with the chief secretaries of Indian states bordering Pakistan to review the security situation.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 01:28 AM IST",
+                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921263488959176834",
+                        "tweet_content": "Union Home Secretary Govind Mohan is holding video conference with chief secretaries of states having border with Pakistan."
+                    }
+                ]
+            },
+            {
+                "point_summary": "A call was made for India to remain vigilant amidst the ongoing developments with Pakistan.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 12:21 AM IST",
+                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921276982412636305",
+                        "tweet_content": "Stay Vigilant, India!"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Gujarat Home Minister Harsh Sanghavi held a meeting at the State Emergency Operation Centre in Gandhinagar to assess the situation.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 11, 2025, 12:05 AM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921272898183962908",
+                        "tweet_content": "#WATCH | Gandhinagar: Gujarat Home Minister Harsh Sanghavi holds a meeting at the State Emergency Operation Centre"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Complete blackouts were enforced in several Indian cities and areas including Ambala, Patiala, Bhuj (Kachchh), Fazilka, and Srinagar as a precautionary measure amidst heightened India-Pakistan tensions.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 10:26 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921248088166908197",
+                        "tweet_content": "India Pakistan tensions Blackout in Ambala"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 10:20 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921246444058509725",
+                        "tweet_content": "#WATCH | Haryana: A complete blackout has been enforced in Ambala (Visuals deferred by an unspecified time)"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 10:16 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921245452873109744",
+                        "tweet_content": "#WATCH | Punjab: A complete blackout has been enforced in Patiala (Visuals deferred by an unspecified time)"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 10:14 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921244890790273518",
+                        "tweet_content": "#WATCH | Gujarat | A complete blackout has been enforced in Bhuj in Kachchh (Visuals deferred by an unspecified time)"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 10:12 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921244457061499060",
+                        "tweet_content": "#WATCH | Punjab: Blackout has been enforced in Fazilka (Visuals deferred by an unspecified time)"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 10:06 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921242952594034867",
+                        "tweet_content": "India Pakistan tensions Total blackout in Srinagar"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Complete blackouts have been enforced in Patiala and Fazilka in Punjab, Bhuj in Kachchh (Gujarat), and Ambala (Haryana). Gujarat Home Minister Harsh Sanghavi tweeted about several drones spotted in Kutch district, leading to the blackout, and urged people to stay safe and not panic. Total blackouts were also reported in Srinagar, Jaisalmer, Pathankot, Moga (Punjab), Kathua, and Jammu. Aditya Raj Kaul also mentioned Udhampur in this context.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 10:20 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921246444058509725",
+                        "tweet_content": "#WATCH | Haryana: A complete blackout has been enforced in Ambala (Visuals deferred by an unspecified time)"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 10:16 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921245452873109744",
+                        "tweet_content": "#WATCH | Punjab: A complete blackout has been enforced in Patiala (Visuals deferred by an unspecified time)"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 10:14 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921244890790273518",
+                        "tweet_content": "#WATCH | Gujarat | A complete blackout has been enforced in Bhuj in Kachchh   (Visuals deferred by an unspecified time)"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 10:12 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921244457061499060",
+                        "tweet_content": "#WATCH | Punjab: Blackout has been enforced in Fazilka (Visuals deferred by an unspecified time)"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 10:26 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921248088166908197",
+                        "tweet_content": "India Pakistan tensions  Blackout in Ambala"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 10:06 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921242952594034867",
+                        "tweet_content": "India Pakistan tensions  Total blackout in Srinagar"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 09:46 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921237823656497255",
+                        "tweet_content": "Gujarat Home Minister Harsh Sanghavi tweets, \"Several drones have been spotted in the Kutch district. A complete blackout will be implemented now. Please stay safe, don’t panic.\""
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 09:44 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921237496345624666",
+                        "tweet_content": "#WATCH | Jammu & Kashmir | A complete blackout has been enforced in Kathua. Sirens can be heard.   (Visuals deferred by an unspecified time)"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 09:44 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921237377214799926",
+                        "tweet_content": "India Pakistan tensions  Blackout in Kutch; Drones from Pakistan seen"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 09:40 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921236436830818461",
+                        "tweet_content": "India Pakistan tensions  Blackout in Srinagar, Jaisalmer, Pathankot"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 09:38 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921235912987410862",
+                        "tweet_content": "#WATCH | A complete blackout has been enforced in Moga, Punjab  (Visuals deferred by an unspecified time)"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 09:32 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921234273459200045",
+                        "tweet_content": "#WATCH | A complete blackout has been enforced in Jammu (Visuals deferred by an unspecified time)"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 09:28 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921233465711702114",
+                        "tweet_content": "#WATCH | Punjab: A complete blackout has been enforced in Pathankot  (Visuals deferred by an unspecified time)"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 09:18 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921230990388629589",
+                        "tweet_content": "#WATCH | Rajasthan: A complete blackout has been enforced in Jaisalmer  (Visuals deferred by an unspecified time)"
+                    }
+                ]
+            },
+            {
+                "point_summary": "NSA Ajit Doval is reportedly meeting with PM Modi. Earlier, PM Modi chaired a meeting at 7 LKM with EAM Dr S Jaishankar, Defence Minister Rajnath Singh, NSA Ajit Doval, CDS, Chiefs of all three Services, and FS Vikram Misri to discuss the understanding reached with Pakistan on ceasing military hostilities.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 07:57 PM IST",
+                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921210880143810702",
+                        "tweet_content": "#BREAKING: Top Indian Government Sources tell me: India has decided that any future act of terror will be considered an Act of War against India and will be responded accordingly. PM  @narendramodi  chairs a meeting at his residence."
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 07:57 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921210578724393151",
+                        "tweet_content": "Delhi | Prime Minister Narendra Modi holds a meeting with EAM Dr S Jaishankar, Defence Minister Rajnath Singh, NSA Ajit Doval, CDS and Chiefs of all three Services, at 7, LKM."
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 07:57 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921210418212581873",
+                        "tweet_content": "India, Pakistan Achieve Understanding on ceasing military hostilities  PM Modi chairs a meeting at his residence; EAM Jaishankar, Defence Minister Rajnath Singh, NSA Ajit Doval, 3 service chiefs, FS Vikram Misri present along with other top officials"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 06:22 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921186642896769309",
+                        "tweet_content": "NSA Ajit Doval is meeting the PM Modi"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Punjab Governor Gulab Chand Kataria and Chief Minister Bhagwant Singh Mann held a meeting with religious leaders of various communities at the Punjab Raj Bhawan.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 05:29 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921173137799930109",
+                        "tweet_content": "#WATCH | Chandigarh: Punjab Governor Gulab Chand Kataria and Punjab Chief Minister Bhagwant Singh Mann held a meeting with religious leaders of various communities at the Punjab Raj Bhawan.   (Source: PRO Governor)"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Tamil Nadu CM MK Stalin led a peace march in Chennai in support of the Indian armed forces amidst the current India-Pakistan tensions.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 05:27 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921172797763551359",
+                        "tweet_content": "#WATCH | Chennai: Tamil Nadu CM MK Stalin leads peace march in support of the Indian armed forces in view of the current India-Pakistan tensions"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Mumbai Police DCP operations issued preventive orders under the Maharashtra Police Act, banning the use of firecrackers from May 11 to June 9, 2025.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 05:19 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921170753103294659",
+                        "tweet_content": "Mumbai Police DCP operations issued preventive orders under the Maharashtra Police Act. The police have banned the use of firecrackers from 11 May to 9 June 2025. \"No person shall let off or throw any fire crackers/fireworks or send up any rocket, including a chidi, in or upon"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Gujarat Police have tightened security in South Gujarat to secure the state's seafront. IG Surat Range, Prem Vir Singh, confirmed strong arrangements, police patrolling in sensitive areas, and readiness to tackle any challenge.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 05:05 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921167238955946220",
+                        "tweet_content": "#WATCH | Valsad, Gujarat | IG Surat Range, Prem Vir Singh, says, \"Strong arrangements have been made throughout South Gujarat to secure the seafront. The Police are patrolling sensitive areas. We are entirely ready to tackle any challenge.\""
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 05:00 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921166059689611413",
+                        "tweet_content": "#WATCH | Valsad | Gujarat Police tighten security in South Gujarat to secure the seafront of the state amid escalating India-Pakistan tensions."
+                    }
+                ]
+            },
+            {
+                "point_summary": "Sanjay Kumar, ADG Law & Order in Odisha, stated that the state is ready on the eastern side in response to developments on India's western borders, with all stakeholders alerted.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 04:39 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921160601532838060",
+                        "tweet_content": "#WATCH | Bhubaneswar, Odisha: On security preparedness in the state amid India-Pakistan tensions, Sanjay Kumar, ADG, Law & Order, says, \" Development is going on in the western borders of India, so on the eastern side also, we are very much ready. All the stakeholders are called,"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Delhi Minister Manjinder Singh Sirsa assured that there is no shortage of essential commodities and urged people not to panic buy, stating PM Modi and Delhi CM Rekha Gupta are overseeing the situation.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 04:34 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921159491065966626",
+                        "tweet_content": "#WATCH | Delhi Minister Manjinder Singh Sirsa says, \"... There is no shortage of essential commodities here, so no one needs to indulge in panic buying. No one needs to worry. PM Narendra Modi and Delhi CM Rekha Gupta are looking after you day and night... We are ready for any"
+                    }
+                ]
+            },
+            {
+                "point_summary": "The Railway Board announced that trains are being operated in border areas in coordination with local administration, and special trains have been started, including six from Jammu the previous day.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 04:32 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921158825362547111",
+                        "tweet_content": "#WATCH | Delhi: Dilip Kumar, Executive Director, Information and Publicity Department, Railway Board says, \"Trains are being operated in border areas in coordination with the local administration. We have started operating special trains. Yesterday, we ran six trains from Jammu,"
+                    }
+                ]
+            },
+            {
+                "point_summary": "The Airport Director of Kushok Bakula Rimpochee Airport in Leh confirmed that around 32 airports nationwide, including Ambala, will remain closed until 5:30 AM on May 15 for safety reasons, as per government announcements. Security was tightened near Ambala Domestic Airport.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 04:30 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921158475369115876",
+                        "tweet_content": "#WATCH | Ladakh | Airport Director and General Manager of Kushok Bakula Rimpochee Airport in Leh, Umasankar, says, \"The government of India has announced that around 32 airports will remain closed till 5:30 AM on 15 May for safety reasons... This is as per the latest news from"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 02:42 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921131119551951295",
+                        "tweet_content": "#WATCH | Haryana | Security tightened near Ambala Domestic Airport in Ambala Cantonement.  The Ministry of Civil Aviation has extended the closure of 32 airports nationwide, including Ambala Airport, from May 10 to May 15."
+                    }
+                ]
+            },
+            {
+                "point_summary": "Odisha Minister Prithviraj Harichandan confirmed that the state government cancelled leaves of senior officials, including collectors and IPS officers, in view of the current situation.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 04:26 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921157336296493267",
+                        "tweet_content": "#WATCH | Bhubaneswar: On the state government cancelling leaves of senior officials, including collectors and IPS officers, Odisha Minister Prithviraj Harichandan says, \"...In the current situation, keeping all things in mind, the state government has made this announcement and"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Karnataka Minister Parameshwara announced that CM Siddaramaiah has called a meeting to take stock of internal security and evaluate government advisories.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 04:06 PM IST",
+                        "tweet_link": "https://x.com/ani_digital/status/1921152256767877148",
+                        "tweet_content": "\"CM Siddaramaiah has called meeting to take stock of internal security\": Karnataka Minister Parameshwara Read  @ANI  Story | https://aninews.in/news/national/general-news/cm-siddaramaiah-has-called-meeting-to-take-stock-of-internal-security-karnataka-minister-parameshwara20250510154818/… #KarnatakaCM #CMSiddaramaiah #KarnatakaMinister #India #Pakistan",
+                        "associated_embedded_links": [
+                            "https://aninews.in/news/national/general-news/cm-siddaramaiah-has-called-meeting-to-take-stock-of-internal-security-karnataka-minister-parameshwara20250510154818/"
+                        ]
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 12:53 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921103897617461317",
+                        "tweet_content": "#WATCH | Bengaluru | Karnataka Home Minister G Parameshwara says, \"The CM has called a meeting to take stock of internal security. We will evaluate the advisories issued by the Indian government. The CM will evaluate what steps we have to take and our preparedness for the"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Assam CM Himanta Biswa Sarma announced measures due to the current situation, including reducing expenditure on seminars/events and prohibiting foreign travel for Ministers/officers at government expense.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 03:49 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921147975503376399",
+                        "tweet_content": "Guwahati: Assam CM Himanta Biswa Sarma says, \"In view of the current situation, we have decided to reduce the expenditure for organising seminars, events, etc, until the situation ends. No Ministers or officers will travel abroad at the government's expense. During this period,"
+                    }
+                ]
+            },
+            {
+                "point_summary": "PGIMER in Chandigarh is appealing for voluntary blood donations to create emergency reserves for Indian jawans serving in Jammu and Kashmir amidst current tensions.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 03:13 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921139004608512479",
+                        "tweet_content": "#WATCH | PGIMER, Chandigarh urges voluntary blood donation to build emergency reserves in support of jawans posted on duty in Jammu and Kashmir."
+                    }
+                ]
+            },
+            {
+                "point_summary": "Rajasthan Minister Jogaram Patel, LoP Tikaram Jully, and Deputy CM Prem Chand Bairwa confirmed that the CM convened an all-party meeting to discuss the state's preparedness, given its sensitive 1,070 km border with Pakistan. Rajasthan CM Bhajanlal Sharma was later seen chairing this meeting.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 03:07 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921137616294212059",
+                        "tweet_content": "#WATCH | Jaipur | Rajasthan minister Jogaram Patel says, \"... Rajasthan shares a sensitive border of about 1,070 Km with Pakistan covering regions like Jaisalmer, Barmer, Pokhran, Ganganagar and Hanumangarh. Therefore an all-party meeting was convened... I am thankful to all"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 03:01 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921136000773873976",
+                        "tweet_content": "#WATCH | Jaipur | Rajasthan LoP Tikaram Jully says, \"CM called an all-party meeting. Briefing was done for the work done by the state government and the present situation. Suggestions were taken from everyone. The Indian Army is fighting the terrorists and it is important that"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 02:50 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921133198869684237",
+                        "tweet_content": "#WATCH | Jaipur | Rajasthan Dy CM Prem Chand Bairwa says, \"The CM called an all-party meeting today, in which he briefed everyone about the preparations to face the current situation and asked for their suggestion. They have also been urged to take information from the public"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 12:45 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921101854856900611",
+                        "tweet_content": "#WATCH | Rajasthan CM Bhajanlal Sharma chairs an all-party meeting at the CMO in Jaipur, in wake of the situation in the districts at the India-Pakistan border."
+                    }
+                ]
+            },
+            {
+                "point_summary": "Himachal Pradesh CM Sukhvinder Singh Sukhu stated that the state is prepared for challenges, noting drone shell recovery in Indora and adherence to Punjab's SOPs. He also offered condolences for a fallen soldier from Himachal.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 03:01 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921135954448052540",
+                        "tweet_content": "#WATCH | Shimla: On India-Pakistan tensions, Himachal Pradesh CM Sukhvinder Singh Sukhu says, \"In the coming days, the kind of challenges that will come from the enemy country, we are ready in every way...in Indora few shells of drones have been recovered...in Punjab whatever SOP"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 03:00 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921135668966670453",
+                        "tweet_content": "#WATCH | Shimla: On India-Pakistan tensions, Himachal Pradesh CM Sukhvinder Singh Sukhu says, \" A son of Himachal has laid down his life, Himachal govt condoles his death, he will be given state honours. I spoke to his father as well, he bravely said that his son sacrificed his"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Debris of a projectile has been found in Damtal village, Kangra district, Himachal Pradesh, following a reported blast; the area has been secured.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 02:42 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921131271700251089",
+                        "tweet_content": "#WATCH | Himachal Pradesh: Hollowed ground in Damtal village of Kangra district, located near Pathankot in Punjab, where debris of a projectile has been found.  Police say, \"A while ago, a blast was heard here. Following that, we reached here. We have secured the area. Experts"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Prime Minister Narendra Modi chaired a high-level meeting at 7 Lok Kalyan Marg with Defence Minister Rajnath Singh, NSA Ajit Doval, the CDS, and Chiefs of all three Services to discuss the security situation. Attendees were later seen leaving the venue.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 02:33 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921128829000573297",
+                        "tweet_content": "#WATCH | Delhi | CDS and Chiefs of all three Services leave from the 7, LKM after attending the meeting with the PM. National Security Advisor (NSA) Ajit Doval and Defence Minister Rajnath Singh were also present in the meeting."
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 02:30 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921128095370592498",
+                        "tweet_content": "#WATCH | Delhi | National Security Advisor (NSA) Ajit Doval leaves from 7, LKM. Prime Minister Narendra Modi held a meeting with Defence Minister Rajnath Singh, NSA Ajit Doval, CDS and Chiefs of all three Services, at 7, LKM."
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 02:27 PM IST",
+                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921127458981425363",
+                        "tweet_content": "#BREAKING: Prime Minister  @narendramodi  chairs a high level meeting with Raksha Mantri Rajnath Singh, NSA Ajit Doval, CDS, Triservice Chiefs. #OperationSindoor"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 02:22 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921126090141003819",
+                        "tweet_content": "#WATCH | Defence Minister Rajnath Singh leaves from 7, LKM. Prime Minister Narendra Modi held a meeting with Defence Minister Rajnath Singh, NSA Ajit Doval, CDS and Chiefs of all three Services, at 7, LKM."
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 02:21 PM IST",
+                        "tweet_link": "https://x.com/ani_digital/status/1921125983240774117",
+                        "tweet_content": "PM Modi chairs high-level meeting with Defence Minister Rajnath Singh, CDS and armed forces chiefs Read  @ANI  Story | https://aninews.in/news/national/general-news/pm-modi-chairs-high-level-meeting-with-defence-minister-rajnath-singh-cds-and-armed-forces-chiefs20250510141350/… #PMModi #Pakistan #RajnathSingh",
+                        "associated_embedded_links": [
+                            "https://aninews.in/news/national/general-news/pm-modi-chairs-high-level-meeting-with-defence-minister-rajnath-singh-cds-and-armed-forces-chiefs20250510141350/"
+                        ]
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 01:57 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921119912409383016",
+                        "tweet_content": "#WATCH | Delhi: Prime Minister Narendra Modi holds a meeting with Defence Minister Rajnath Singh, NSA Ajit Doval, CDS and Chiefs of all three Services, at 7, LKM."
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 01:55 PM IST",
+                        "tweet_link": "https://x.com/ShivAroor/status/1921119428369924598",
+                        "tweet_content": "PM Modi chairs top meet with 3 armed forces Chiefs, Defence Minister, CDS, NSA etc."
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 01:55 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921119286015226279",
+                        "tweet_content": "Just in: PM Modi chairs a high level meeting in Delhi"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Punjab CM Bhagwant Mann stated that the state was prepared for Pakistani attacks, including those in Ferozepur, and will lead from the front. He also noted Pakistan firing long-range missiles, one falling in Sirsa, Haryana, and nightly drone/missile attacks, and urged public caution regarding explosions.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 02:31 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921128382882083104",
+                        "tweet_content": "#WATCH | Mohali: On attack by Pakistan in different parts of the state, Punjab CM Bhagwant Mann says, \"...We were prepared beforehand...Punjab has fought at the front earlier too, and this time too, Punjab will lead from the front. Those who got injured in Ferozepur incident"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 02:16 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921124649015857378",
+                        "tweet_content": "#WATCH | Mohali: Punjab CM Bhagwant Mann says, \"They (Pakistan) are firing and even launching long-range missiles, one of which fell in Sirsa (Haryana). They are launching drones and missiles every night...On one hand, they are firing and sending drones and on the other hand,"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 01:22 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921111151145800029",
+                        "tweet_content": "#WATCH | Mohali: Punjab CM Bhagwant Mann says, \"There is an advisory by the military that if there is an explosion, inform the Police or Army immediately. Do not rush to the location on your own because there might be some live parts (of the object) too...So, I urge everyone to"
+                    }
+                ]
+            },
+            {
+                "point_summary": "India's National Disaster Management Authority (NDMA) has issued an advisory for citizens, outlining measures for national security situations, including effective communication.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 02:25 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921127060921004229",
+                        "tweet_content": "India's National Disaster Management Authority issues advisory for the citizens.  \"Measures that must be adopted in all situations hostile to our national security\" released including effective communication:"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Jodhpur Collector Gaurav Agarwal announced a red alert due to the India-Pakistan situation, with air raid sirens sounded, and appealed to citizens to stay in safe places.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 02:16 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921124594758434994",
+                        "tweet_content": "#WATCH | Jodhpur, Rajasthan | Collector Gaurav Agarwal says, \"In view of the situation between India and Pakistan, we received red alert guidelines this morning, due to which air raid sirens were sounded. I appeal to all the people to stay in their safe places... avoid going to"
+                    }
+                ]
+            },
+            {
+                "point_summary": "The Bureau of Civil Aviation Security (BCAS) has temporarily extended the role of CISF to include direct security and screening of cargo operations and In-line Hold Baggage Screening Systems (ILHBSS) at Indian civil airports. CISF has resumed oversight and will perform random checks.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 02:09 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921122809364766801",
+                        "tweet_content": "All the airports under cover of CISF, have already implemented the new strengthened system. Prior to this directive, CISF's deployment as the primary aviation security force did not explicitly extend to the direct security and screening of cargo operations and the In-line Hold"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 02:08 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921122711557861740",
+                        "tweet_content": "#UPDATE | CISF has responded immediately and resumed oversight over cargo and baggage operations. CISF will oversee operations and the Security staff of airport operators for ILHBSS. The directives also authorise CISF personnel to perform random checks and oversee access control"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 02:07 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921122452807254488",
+                        "tweet_content": "In a significant decision to boost security across Indian civil airports, the Director General of the Bureau of Civil Aviation Security (BCAS) has issued an Official Memorandum (OM) dated May 9, 2025, temporarily extending the role of the Central Industrial Security Force (CISF)"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Mohali DC Komal Mittal appealed to people to stay home, especially after sunset unless necessary, and confirmed coordination with Army and Air Force for updates.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 01:56 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921119518471905402",
+                        "tweet_content": "#WATCH | Mohali, Punjab | DC Komal Mittal says, \"...I appeal to the people to be in their homes, especially after sunset, unless necessary... All our teams are ready, and all the arrangements are in place. We have good coordination with the Army and the Air Force; we receive all"
+                    }
+                ]
+            },
+            {
+                "point_summary": "District administration in Barmer, Rajasthan, has been put on alert following the recovery of an unidentified missile.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 01:01 PM IST",
+                        "tweet_link": "https://x.com/ani_digital/status/1921105811238977546",
+                        "tweet_content": "District administration put on alert in Barmer following recovery of unidentified missile Read  @ANI  Story | https://aninews.in/news/national/general-news/district-administration-put-on-alert-in-barmer-following-recovery-of-unidentified-missile20250510124518/… #Barmer #Rajasthan #India #Pakistan",
+                        "associated_embedded_links": [
+                            "https://aninews.in/news/national/general-news/district-administration-put-on-alert-in-barmer-following-recovery-of-unidentified-missile20250510124518/"
+                        ]
+                    }
+                ]
+            },
+            {
+                "point_summary": "Announcements are being made in Jaisalmer, Rajasthan, appealing for people to stay home, with closures and restrictions on vehicular movement due to the current situation.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 12:58 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921104991168717123",
+                        "tweet_content": "#WATCH | Announcements are being made in Rajasthan's Jaisalmer, appealing people to remain in their houses. \"...Everything will remain closed. Seeing the current situation, all are expected to stay home, and vehicular movements are also stopped...\""
+                    }
+                ]
+            },
+            {
+                "point_summary": "A voluntary training and enrollment camp for Civil Defence Volunteers is being conducted in Chandigarh, with over 1000 people enrolled in response to the current tensions. Many citizens expressed readiness to support the nation.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 12:55 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921104187598713287",
+                        "tweet_content": "#WATCH | Chandigarh DC Nishant Yadav says, \"We are conducting a voluntary training and enrollment camp for Civil Defence Volunteers at Tagore Theatre. People's response is really good. We have enrolled over 1000 people. They are being trained at Tagore Theatre. A large number of"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 12:45 PM IST",
+                        "tweet_link": "https://x.com/ani_digital/status/1921101774481432671",
+                        "tweet_content": "\"Ready to give my life for India\": Massive crowd in Chandigarh respond to civil defence call amid tensions with Pakistan Read  @ANI  Story | https://aninews.in/news/national/general-news/ready-to-give-my-life-for-india-massive-crowd-in-chandigarh-respond-to-civil-defence-call-amid-tensions-with-pakistan20250510123626/… #Chandigarh #Pakistan #defencevolunteers",
+                        "associated_embedded_links": [
+                            "https://aninews.in/news/national/general-news/ready-to-give-my-life-for-india-massive-crowd-in-chandigarh-respond-to-civil-defence-call-amid-tensions-with-pakistan20250510123626/"
+                        ]
+                    }
+                ]
+            },
+            {
+                "point_summary": "A suspicious metal object has been found in Una, Himachal Pradesh. The Deputy Commissioner confirmed the finding, informed higher officials and the Army, and urged public calm.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 12:49 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921102869971038421",
+                        "tweet_content": "#WATCH | Una, Himachal Pradesh | Deputy Commissioner Jatin Lal says, \"...A suspicious metal object has been found and we have informed the higher officials and the Army. I want to convey to all that there is no need to panic, the administration is vigilant, and if anyone has any"
+                    },
+                    {
+                        "posted_ist": "May 10, 2025, 12:49 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921102715750318375",
+                        "tweet_content": "#WATCH | A suspicious metal object found in Himachal Pradesh's Una (Video source - SDM Amb)"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Uttarakhand CM Pushkar Singh Dhami chaired a meeting with top officials to discuss the current situation in view of India-Pakistan tension.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 01:24 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921111562506363113",
+                        "tweet_content": "#WATCH | Dehradun | Uttarakhand CM Pushkar Singh Dhami chaired a meeting on the current situation in view of India-Pakistan tension. The Chief Secretary, Home Secretary, DGP, and other senior officials attended this meeting. District Magistrates and SPs of all the districts of"
+                    }
+                ]
+            },
+            {
+                "point_summary": "Bihar Chief Minister Nitish Kumar held a meeting with top officials of districts adjoining the Bangladesh and Nepal border in Purnia to discuss security arrangements amid India-Pakistan tensions.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 10, 2025, 01:25 PM IST",
+                        "tweet_link": "https://x.com/ANI/status/1921111758061650031",
+                        "tweet_content": "#WATCH | Bihar Chief Minister Nitish Kumar holds a meeting with top officials of districts adjoining the Bangladesh and Nepal border at the Collectorate in Purnia, to discuss security arrangements in view of the escalating India-Pakistan tensions."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "theme_name": "Political Statements & General Commentary",
         "specific_points": [
             {
@@ -858,775 +1647,6 @@
                         "posted_ist": "May 10, 2025, 12:42 PM IST",
                         "tweet_link": "https://x.com/ANI/status/1921101103296606451",
                         "tweet_content": "#WATCH | Pune | On India-Pakistan tension, Maharashtra CM Devendra Fadnavis says, \"Pakistan is a terrorist country; it has always supported terrorism. However, India will not stop now. Under the leadership of the Prime Minister, our army is giving an appropriate response. We are"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "theme_name": "Indian Domestic Response & Preparedness",
-        "specific_points": [
-            {
-                "point_summary": "Defence Minister Rajnath Singh explains his virtual attendance at the BrahMos Integration & Testing Facility Center inauguration due to the important national situation requiring his presence in Delhi.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 01:24 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921473893576913104",
-                        "tweet_content": "#WATCH | Defence Minister Rajnath Singh says, \"At the inauguration of BrahMos Integration & Testing Facility Center today, I feel delighted to speak with you. I wanted to attend in person. But you know why I couldn't come. Looking at the situation we are facing, it was important for me to be in Delhi. So, I am joining you via video conferencing...\""
-                    }
-                ]
-            },
-            {
-                "point_summary": "Defence Minister Rajnath Singh inaugurated the BrahMos Aerospace Integration and Testing Facility/missile unit in Lucknow, Uttar Pradesh, a key development for India's defence manufacturing under the UP Defence Corridor.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 01:17 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921472220301238696",
-                        "tweet_content": "#WATCH | Delhi: Defence Minister Rajnath Singh inaugurates BrahMos Aerospace Integration and Testing Facility in Lucknow, Uttar Pradesh via video conferencing."
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 01:16 PM IST",
-                        "tweet_link": "https://x.com/SpokespersonMoD/status/1921471989392326693",
-                        "tweet_content": "Watch | India is all set for a historic leap in defence manufacturing! Raksha Mantri Shri Rajnath Singh inaugurating the first BrahMos missile unit in Lucknow, part of the UP Defence Corridor. nitter.net/i/broadcasts/1BRKjmEZp…",
-                        "associated_embedded_links": [
-                            "nitter.net/i/broadcasts/1BRKjmEZp…"
-                        ]
-                    }
-                ]
-            },
-            {
-                "point_summary": "Residents of Poonch, J&K, expressed relief and happiness regarding the agreement between India and Pakistan, observing the reopening of markets and calling for sustained peace and coexistence.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 01:09 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921470324803015043",
-                        "tweet_content": "#WATCH | Poonch, J&K: On the agreement reached between Pakistan and India, a local, Dilbagh Singh says, \"People in Poonch are very happy...The decision between both Govts last night, they came to a good one. I request Pakistan to live and let live...\""
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 01:05 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921469289703285093",
-                        "tweet_content": "#WATCH | Poonch, J&K: On the agreement reached between Pakistan and India, a local, Imran Ahmad says, \"By God's grace, we saw that markets are open today. People are making purchases...Even in the situation earlier, people cooperated. I would like to urge both countries that whenever such a situation occurs, people on both sides suffer losses. I would like to urge the neighbouring country to live and let live...\""
-                    }
-                ]
-            },
-            {
-                "point_summary": "A local resident in Poonch, J&K, expressed support for the India-Pakistan ceasefire agreement, highlighting the relief from tense conditions and urging Pakistan to cease supporting terrorism.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 12:59 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921467592088182832",
-                        "tweet_content": "#WATCH | Poonch, J&K: On the agreement reached between Pakistan and India, a local man says, \"...not only in Poonch, situation was tense across the country. Nobody could sleep in peace. So, we stand with the decision of ceasefire taken by both countries. We stand with our Government and we would also like to tell Pakistan not to indulge in such activities again and again or support terrorism so that people of both our countries remain comfortable...War causes only losses...\""
-                    }
-                ]
-            },
-            {
-                "point_summary": "Prime Minister Narendra Modi chaired multiple high-level security meetings with Defence Minister Rajnath Singh, EAM S. Jaishankar, NSA Ajit Doval, the CDS, and the three service chiefs to discuss the India-Pakistan situation.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 12:47 PM IST",
-                        "tweet_link": "https://x.com/ani_digital/status/1921464729161085136",
-                        "tweet_content": "PM Modi chairs high-level meeting with Rajnath Singh, Jaishankar; CDS and tri-services chiefs present Read @ANI story | aninews.in/news/national/pol… #NarendraModi #RajnathSingh #Jaishankar #CDS",
-                        "associated_embedded_links": [
-                            "http://aninews.in/news/national/pol…"
-                        ]
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 12:15 PM IST",
-                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921456676500062296",
-                        "tweet_content": "First visuals of Prime Minister @narendramodi chairing a high-level security meeting at his residence 7LKM."
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 12:14 PM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921456430499942516",
-                        "tweet_content": "Breaking: Indian PM Modi chairs high level meeting at his residence. Defence minister Rajnath Singh, EAM Jaishankar, NSA Ajit Doval, CDS, 3 service chiefs present. First Visual:"
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 12:14 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921456430474785109",
-                        "tweet_content": "#WATCH | Delhi: Prime Minister Narendra Modi chairs a meeting at 7, LKM. Defence Minister Rajnath Singh, EAM Dr S Jaishankar, NSA Ajit Doval, CDS, Chiefs of all three services present."
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 11:17 AM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921441969890381840",
-                        "tweet_content": "1st such meeting at the leadership level (PM Modi, Defence Minister Rajnath Singh, NSA Ajit Doval, CDS, 3 service chiefs...)after the announcement on India Pak understanding yesterday"
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 11:15 AM IST",
-                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921441395828576422",
-                        "tweet_content": "#BREAKING: Prime Minister @narendramodi is meeting the Chiefs of Indian Army, Indian Air Force and Indian Navy at his residence. Third such meeting in last 48 hours."
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 11:03 AM IST",
-                        "tweet_link": "https://x.com/ShivAroor/status/1921438427540517106",
-                        "tweet_content": "⚠️ PM Modi meets armed forces Chiefs & NSA in first meet after cessation of kinetic actions yesterday against Pakistan."
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 10:55 AM IST",
-                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921436531731923283",
-                        "tweet_content": "#BREAKING: Prime Minister @narendramodi is meeting the Chiefs of Indian Army, Indian Air Force and Indian Navy at his residence. Third such meeting in last 48 hours."
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 10:49 AM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921434920687149442",
-                        "tweet_content": "India Pakistan tensions Military leadership meeting PM Modi at his residence."
-                    }
-                ]
-            },
-            {
-                "point_summary": "Defence Minister Rajnath Singh to inaugurate a new BrahMos Aerospace Production, Integration & Testing Facility in Lucknow, a day after air-launched BrahMos missiles were reportedly used.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 12:05 PM IST",
-                        "tweet_link": "https://x.com/ShivAroor/status/1921454069303902713",
-                        "tweet_content": "A day after air-launched BrahMos cruise missiles hit at least three of the 11 PAF bases targeted by Indian fighter aircraft, Defence Minister Rajnath Singh inaugurates a new BrahMos facility today in Lucknow. I report details:"
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 11:29 AM IST",
-                        "tweet_link": "https://x.com/SpokespersonMoD/status/1921445102163017753",
-                        "tweet_content": "The BrahMos Aerospace Production Unit in Lucknow is set for inauguration by Raksha Mantri Shri @rajnathsingh (virtually) and Chief Minister Yogi Adityanath today. The Rs 300 crore facility is a key part of the Uttar Pradesh Defence Industrial Corridor and represents India’s commitment to self-reliant defence manufacturing. It includes not only missile production but also testing, integration, and a materials complex for aerospace-grade components. A major leap toward #AtmanirbharBharat and a strategic boost to regional industrial growth. #BrahMos #MakeInIndia #DefenceCorridor #UPIndustrialGrowth #IndiaDefence @rajnathsingh @DefenceMinIndia @SethSanjayMP @HQ_IDS_India @adgpi @indiannavy @IAF_MCC @PIB_India @upeidaofficial @DefProdnIndia @BrahMosMissile @PIBFactCheck"
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 10:58 AM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921437209820831926",
-                        "tweet_content": "At around 11.00 AM today, 11th May, Indian Defence Minister Rajnath Singh will virtually inaugurate the BrahMos Aerospace Integration & Testing Facility in Lucknow: Statement"
-                    }
-                ]
-            },
-            {
-                "point_summary": "BJP MP Arvind Dharmapuri participated in a prayer program for the Indian army and their families at Sarangpur Hanuman Temple.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 12:03 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921453706492739765",
-                        "tweet_content": "#WATCH | Nizamabad, Telangana | BJP MP Arvind Dharmapuri says, \"BJP workers and politicians are here for the BJP's 'manaṁ saitaṁ dēśaṁ kōsaṁ' - 'All of us are for the country' programme at Sarangpur Hanuman Temple... We are here to pray for our Indian army, who are fighting to protect our country, and for their families to receive blessings...\""
-                    }
-                ]
-            },
-            {
-                "point_summary": "A Srinagar local welcomed the ceasefire, stating that peace and brotherhood would benefit tourism and local businesses.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 11:47 AM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921449564109738051",
-                        "tweet_content": "#WATCH | Srinagar, J&K: On understanding reached between India and Pakistan, Abdul Rashid, a local, says, \"We welcome the ceasefire. India has always spoken about peace and has always sided with peace...The situation in J&K for the past one month, the incident with tourists here...Tourists would come here if there is ceasefire. All our transporters and houseboat owners are stressed right now. If peace and brotherhood prevail, it will be the biggest success for our country...We stand with peace...\""
-                    }
-                ]
-            },
-            {
-                "point_summary": "Aditya Raj Kaul shares an image of 'Drone Pakoras', a new snack reportedly in Air Defence Regiments.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 11:47 AM IST",
-                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921449443049546067",
-                        "tweet_content": "Drone Pakoras A new snack in Air Defence Regiments Jai Hind 🇮🇳 PC : www"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Mortal remains of Rifleman Sunil Kumar, who lost his life during shelling by Pakistan in RS Pura sector, were brought to his residence in Trewa village, Jammu.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 11:37 AM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921446954849972357",
-                        "tweet_content": "#WATCH | J&K: Mortal remains of Rifleman Sunil Kumar brought to his residence in Trewa village of Jammu. He lost his life in the line of duty, during the shelling by Pakistan, in RS Pura sector."
-                    }
-                ]
-            },
-            {
-                "point_summary": "DC Amritsar reported that the situation in Amritsar is normal, with markets open and daily life proceeding as usual.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 11:29 AM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921445017215803432",
-                        "tweet_content": "The situation in Amritsar is normal. People are doing their daily work. On Sundays, offices are not open, but the markets are open, and life is normal. Thanks to the people's cooperation: DC Amritsar"
-                    }
-                ]
-            },
-            {
-                "point_summary": "BSF Sub Inspector Mohammed Imtiaz from Chapra, Bihar, lost his life in the line of duty during shelling by Pakistan in RS Pura sector, J&K. His family and villagers mourn his loss.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 10:03 AM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921423292184826052",
-                        "tweet_content": "#WATCH | Arjun Rai, a resident of the village, says, \"We last spoke on Friday. He told us that the situation is very serious...It must have been 14-15 days since he left from here...He was a really good man...\""
-                    },
-                    {
-                        "posted_ist": "May 11, 2025, 09:59 AM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921422335107596478",
-                        "tweet_content": "#WATCH | Bihar: BSF Sub Inspector Mohammed Imtiaz, hailing from Chapra, lost his life in the line of duty during shelling by Pakistan in RS Pura sector of J&K. His nephew, Mohd Aftab says, \"He last spoke to me two days ago. We inquired about each other's health. We came to know about (his demise) at night, around 8.30-8.45 pm. We were told that he is no more. He was really good, he was my maternal uncle.\""
-                    }
-                ]
-            },
-            {
-                "point_summary": "District officials in Barmer lifted the ban on public activities, reporting no drone attacks and a normal situation.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 10:18 AM IST",
-                        "tweet_link": "https://x.com/ani_digital/status/1921427120565223452",
-                        "tweet_content": "Barmer: No drone attacks reported, situation normal as district officials lifts ban on public activities Read @ANI story | aninews.in/news/national/gen…. #Barmer #Rajasthan #IndiaPakistanWar2025",
-                        "associated_embedded_links": [
-                            "http://aninews.in/news/national/gen…."
-                        ]
-                    }
-                ]
-            },
-            {
-                "point_summary": "The situation in Jammu & Kashmir and Punjab is reported to be normal with no new shelling incidents.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 09:42 AM IST",
-                        "tweet_link": "https://x.com/ani_digital/status/1921418091499581456",
-                        "tweet_content": "Situation remains normal as no shelling reported in J-K, Punjab Read @ANI story | aninews.in/news/national/gen… #JammuKashmir #Punjab #normalcy",
-                        "associated_embedded_links": [
-                            "http://aninews.in/news/national/gen…"
-                        ]
-                    }
-                ]
-            },
-            {
-                "point_summary": "Union Home Secretary Govind Mohan held a video conference with the chief secretaries of Indian states bordering Pakistan to review the security situation.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 01:28 AM IST",
-                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921263488959176834",
-                        "tweet_content": "Union Home Secretary Govind Mohan is holding video conference with chief secretaries of states having border with Pakistan."
-                    }
-                ]
-            },
-            {
-                "point_summary": "A call was made for India to remain vigilant amidst the ongoing developments with Pakistan.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 12:21 AM IST",
-                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921276982412636305",
-                        "tweet_content": "Stay Vigilant, India!"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Gujarat Home Minister Harsh Sanghavi held a meeting at the State Emergency Operation Centre in Gandhinagar to assess the situation.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 11, 2025, 12:05 AM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921272898183962908",
-                        "tweet_content": "#WATCH | Gandhinagar: Gujarat Home Minister Harsh Sanghavi holds a meeting at the State Emergency Operation Centre"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Complete blackouts were enforced in several Indian cities and areas including Ambala, Patiala, Bhuj (Kachchh), Fazilka, and Srinagar as a precautionary measure amidst heightened India-Pakistan tensions.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 10:26 PM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921248088166908197",
-                        "tweet_content": "India Pakistan tensions Blackout in Ambala"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 10:20 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921246444058509725",
-                        "tweet_content": "#WATCH | Haryana: A complete blackout has been enforced in Ambala (Visuals deferred by an unspecified time)"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 10:16 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921245452873109744",
-                        "tweet_content": "#WATCH | Punjab: A complete blackout has been enforced in Patiala (Visuals deferred by an unspecified time)"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 10:14 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921244890790273518",
-                        "tweet_content": "#WATCH | Gujarat | A complete blackout has been enforced in Bhuj in Kachchh (Visuals deferred by an unspecified time)"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 10:12 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921244457061499060",
-                        "tweet_content": "#WATCH | Punjab: Blackout has been enforced in Fazilka (Visuals deferred by an unspecified time)"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 10:06 PM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921242952594034867",
-                        "tweet_content": "India Pakistan tensions Total blackout in Srinagar"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Complete blackouts have been enforced in Patiala and Fazilka in Punjab, Bhuj in Kachchh (Gujarat), and Ambala (Haryana). Gujarat Home Minister Harsh Sanghavi tweeted about several drones spotted in Kutch district, leading to the blackout, and urged people to stay safe and not panic. Total blackouts were also reported in Srinagar, Jaisalmer, Pathankot, Moga (Punjab), Kathua, and Jammu. Aditya Raj Kaul also mentioned Udhampur in this context.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 10:20 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921246444058509725",
-                        "tweet_content": "#WATCH | Haryana: A complete blackout has been enforced in Ambala (Visuals deferred by an unspecified time)"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 10:16 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921245452873109744",
-                        "tweet_content": "#WATCH | Punjab: A complete blackout has been enforced in Patiala (Visuals deferred by an unspecified time)"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 10:14 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921244890790273518",
-                        "tweet_content": "#WATCH | Gujarat | A complete blackout has been enforced in Bhuj in Kachchh   (Visuals deferred by an unspecified time)"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 10:12 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921244457061499060",
-                        "tweet_content": "#WATCH | Punjab: Blackout has been enforced in Fazilka (Visuals deferred by an unspecified time)"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 10:26 PM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921248088166908197",
-                        "tweet_content": "India Pakistan tensions  Blackout in Ambala"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 10:06 PM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921242952594034867",
-                        "tweet_content": "India Pakistan tensions  Total blackout in Srinagar"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 09:46 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921237823656497255",
-                        "tweet_content": "Gujarat Home Minister Harsh Sanghavi tweets, \"Several drones have been spotted in the Kutch district. A complete blackout will be implemented now. Please stay safe, don’t panic.\""
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 09:44 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921237496345624666",
-                        "tweet_content": "#WATCH | Jammu & Kashmir | A complete blackout has been enforced in Kathua. Sirens can be heard.   (Visuals deferred by an unspecified time)"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 09:44 PM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921237377214799926",
-                        "tweet_content": "India Pakistan tensions  Blackout in Kutch; Drones from Pakistan seen"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 09:40 PM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921236436830818461",
-                        "tweet_content": "India Pakistan tensions  Blackout in Srinagar, Jaisalmer, Pathankot"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 09:38 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921235912987410862",
-                        "tweet_content": "#WATCH | A complete blackout has been enforced in Moga, Punjab  (Visuals deferred by an unspecified time)"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 09:32 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921234273459200045",
-                        "tweet_content": "#WATCH | A complete blackout has been enforced in Jammu (Visuals deferred by an unspecified time)"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 09:28 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921233465711702114",
-                        "tweet_content": "#WATCH | Punjab: A complete blackout has been enforced in Pathankot  (Visuals deferred by an unspecified time)"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 09:18 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921230990388629589",
-                        "tweet_content": "#WATCH | Rajasthan: A complete blackout has been enforced in Jaisalmer  (Visuals deferred by an unspecified time)"
-                    }
-                ]
-            },
-            {
-                "point_summary": "NSA Ajit Doval is reportedly meeting with PM Modi. Earlier, PM Modi chaired a meeting at 7 LKM with EAM Dr S Jaishankar, Defence Minister Rajnath Singh, NSA Ajit Doval, CDS, Chiefs of all three Services, and FS Vikram Misri to discuss the understanding reached with Pakistan on ceasing military hostilities.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 07:57 PM IST",
-                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921210880143810702",
-                        "tweet_content": "#BREAKING: Top Indian Government Sources tell me: India has decided that any future act of terror will be considered an Act of War against India and will be responded accordingly. PM  @narendramodi  chairs a meeting at his residence."
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 07:57 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921210578724393151",
-                        "tweet_content": "Delhi | Prime Minister Narendra Modi holds a meeting with EAM Dr S Jaishankar, Defence Minister Rajnath Singh, NSA Ajit Doval, CDS and Chiefs of all three Services, at 7, LKM."
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 07:57 PM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921210418212581873",
-                        "tweet_content": "India, Pakistan Achieve Understanding on ceasing military hostilities  PM Modi chairs a meeting at his residence; EAM Jaishankar, Defence Minister Rajnath Singh, NSA Ajit Doval, 3 service chiefs, FS Vikram Misri present along with other top officials"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 06:22 PM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921186642896769309",
-                        "tweet_content": "NSA Ajit Doval is meeting the PM Modi"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Punjab Governor Gulab Chand Kataria and Chief Minister Bhagwant Singh Mann held a meeting with religious leaders of various communities at the Punjab Raj Bhawan.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 05:29 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921173137799930109",
-                        "tweet_content": "#WATCH | Chandigarh: Punjab Governor Gulab Chand Kataria and Punjab Chief Minister Bhagwant Singh Mann held a meeting with religious leaders of various communities at the Punjab Raj Bhawan.   (Source: PRO Governor)"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Tamil Nadu CM MK Stalin led a peace march in Chennai in support of the Indian armed forces amidst the current India-Pakistan tensions.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 05:27 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921172797763551359",
-                        "tweet_content": "#WATCH | Chennai: Tamil Nadu CM MK Stalin leads peace march in support of the Indian armed forces in view of the current India-Pakistan tensions"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Mumbai Police DCP operations issued preventive orders under the Maharashtra Police Act, banning the use of firecrackers from May 11 to June 9, 2025.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 05:19 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921170753103294659",
-                        "tweet_content": "Mumbai Police DCP operations issued preventive orders under the Maharashtra Police Act. The police have banned the use of firecrackers from 11 May to 9 June 2025. \"No person shall let off or throw any fire crackers/fireworks or send up any rocket, including a chidi, in or upon"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Gujarat Police have tightened security in South Gujarat to secure the state's seafront. IG Surat Range, Prem Vir Singh, confirmed strong arrangements, police patrolling in sensitive areas, and readiness to tackle any challenge.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 05:05 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921167238955946220",
-                        "tweet_content": "#WATCH | Valsad, Gujarat | IG Surat Range, Prem Vir Singh, says, \"Strong arrangements have been made throughout South Gujarat to secure the seafront. The Police are patrolling sensitive areas. We are entirely ready to tackle any challenge.\""
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 05:00 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921166059689611413",
-                        "tweet_content": "#WATCH | Valsad | Gujarat Police tighten security in South Gujarat to secure the seafront of the state amid escalating India-Pakistan tensions."
-                    }
-                ]
-            },
-            {
-                "point_summary": "Sanjay Kumar, ADG Law & Order in Odisha, stated that the state is ready on the eastern side in response to developments on India's western borders, with all stakeholders alerted.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 04:39 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921160601532838060",
-                        "tweet_content": "#WATCH | Bhubaneswar, Odisha: On security preparedness in the state amid India-Pakistan tensions, Sanjay Kumar, ADG, Law & Order, says, \" Development is going on in the western borders of India, so on the eastern side also, we are very much ready. All the stakeholders are called,"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Delhi Minister Manjinder Singh Sirsa assured that there is no shortage of essential commodities and urged people not to panic buy, stating PM Modi and Delhi CM Rekha Gupta are overseeing the situation.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 04:34 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921159491065966626",
-                        "tweet_content": "#WATCH | Delhi Minister Manjinder Singh Sirsa says, \"... There is no shortage of essential commodities here, so no one needs to indulge in panic buying. No one needs to worry. PM Narendra Modi and Delhi CM Rekha Gupta are looking after you day and night... We are ready for any"
-                    }
-                ]
-            },
-            {
-                "point_summary": "The Railway Board announced that trains are being operated in border areas in coordination with local administration, and special trains have been started, including six from Jammu the previous day.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 04:32 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921158825362547111",
-                        "tweet_content": "#WATCH | Delhi: Dilip Kumar, Executive Director, Information and Publicity Department, Railway Board says, \"Trains are being operated in border areas in coordination with the local administration. We have started operating special trains. Yesterday, we ran six trains from Jammu,"
-                    }
-                ]
-            },
-            {
-                "point_summary": "The Airport Director of Kushok Bakula Rimpochee Airport in Leh confirmed that around 32 airports nationwide, including Ambala, will remain closed until 5:30 AM on May 15 for safety reasons, as per government announcements. Security was tightened near Ambala Domestic Airport.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 04:30 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921158475369115876",
-                        "tweet_content": "#WATCH | Ladakh | Airport Director and General Manager of Kushok Bakula Rimpochee Airport in Leh, Umasankar, says, \"The government of India has announced that around 32 airports will remain closed till 5:30 AM on 15 May for safety reasons... This is as per the latest news from"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 02:42 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921131119551951295",
-                        "tweet_content": "#WATCH | Haryana | Security tightened near Ambala Domestic Airport in Ambala Cantonement.  The Ministry of Civil Aviation has extended the closure of 32 airports nationwide, including Ambala Airport, from May 10 to May 15."
-                    }
-                ]
-            },
-            {
-                "point_summary": "Odisha Minister Prithviraj Harichandan confirmed that the state government cancelled leaves of senior officials, including collectors and IPS officers, in view of the current situation.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 04:26 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921157336296493267",
-                        "tweet_content": "#WATCH | Bhubaneswar: On the state government cancelling leaves of senior officials, including collectors and IPS officers, Odisha Minister Prithviraj Harichandan says, \"...In the current situation, keeping all things in mind, the state government has made this announcement and"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Karnataka Minister Parameshwara announced that CM Siddaramaiah has called a meeting to take stock of internal security and evaluate government advisories.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 04:06 PM IST",
-                        "tweet_link": "https://x.com/ani_digital/status/1921152256767877148",
-                        "tweet_content": "\"CM Siddaramaiah has called meeting to take stock of internal security\": Karnataka Minister Parameshwara Read  @ANI  Story | https://aninews.in/news/national/general-news/cm-siddaramaiah-has-called-meeting-to-take-stock-of-internal-security-karnataka-minister-parameshwara20250510154818/… #KarnatakaCM #CMSiddaramaiah #KarnatakaMinister #India #Pakistan",
-                        "associated_embedded_links": [
-                            "https://aninews.in/news/national/general-news/cm-siddaramaiah-has-called-meeting-to-take-stock-of-internal-security-karnataka-minister-parameshwara20250510154818/"
-                        ]
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 12:53 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921103897617461317",
-                        "tweet_content": "#WATCH | Bengaluru | Karnataka Home Minister G Parameshwara says, \"The CM has called a meeting to take stock of internal security. We will evaluate the advisories issued by the Indian government. The CM will evaluate what steps we have to take and our preparedness for the"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Assam CM Himanta Biswa Sarma announced measures due to the current situation, including reducing expenditure on seminars/events and prohibiting foreign travel for Ministers/officers at government expense.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 03:49 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921147975503376399",
-                        "tweet_content": "Guwahati: Assam CM Himanta Biswa Sarma says, \"In view of the current situation, we have decided to reduce the expenditure for organising seminars, events, etc, until the situation ends. No Ministers or officers will travel abroad at the government's expense. During this period,"
-                    }
-                ]
-            },
-            {
-                "point_summary": "PGIMER in Chandigarh is appealing for voluntary blood donations to create emergency reserves for Indian jawans serving in Jammu and Kashmir amidst current tensions.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 03:13 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921139004608512479",
-                        "tweet_content": "#WATCH | PGIMER, Chandigarh urges voluntary blood donation to build emergency reserves in support of jawans posted on duty in Jammu and Kashmir."
-                    }
-                ]
-            },
-            {
-                "point_summary": "Rajasthan Minister Jogaram Patel, LoP Tikaram Jully, and Deputy CM Prem Chand Bairwa confirmed that the CM convened an all-party meeting to discuss the state's preparedness, given its sensitive 1,070 km border with Pakistan. Rajasthan CM Bhajanlal Sharma was later seen chairing this meeting.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 03:07 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921137616294212059",
-                        "tweet_content": "#WATCH | Jaipur | Rajasthan minister Jogaram Patel says, \"... Rajasthan shares a sensitive border of about 1,070 Km with Pakistan covering regions like Jaisalmer, Barmer, Pokhran, Ganganagar and Hanumangarh. Therefore an all-party meeting was convened... I am thankful to all"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 03:01 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921136000773873976",
-                        "tweet_content": "#WATCH | Jaipur | Rajasthan LoP Tikaram Jully says, \"CM called an all-party meeting. Briefing was done for the work done by the state government and the present situation. Suggestions were taken from everyone. The Indian Army is fighting the terrorists and it is important that"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 02:50 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921133198869684237",
-                        "tweet_content": "#WATCH | Jaipur | Rajasthan Dy CM Prem Chand Bairwa says, \"The CM called an all-party meeting today, in which he briefed everyone about the preparations to face the current situation and asked for their suggestion. They have also been urged to take information from the public"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 12:45 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921101854856900611",
-                        "tweet_content": "#WATCH | Rajasthan CM Bhajanlal Sharma chairs an all-party meeting at the CMO in Jaipur, in wake of the situation in the districts at the India-Pakistan border."
-                    }
-                ]
-            },
-            {
-                "point_summary": "Himachal Pradesh CM Sukhvinder Singh Sukhu stated that the state is prepared for challenges, noting drone shell recovery in Indora and adherence to Punjab's SOPs. He also offered condolences for a fallen soldier from Himachal.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 03:01 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921135954448052540",
-                        "tweet_content": "#WATCH | Shimla: On India-Pakistan tensions, Himachal Pradesh CM Sukhvinder Singh Sukhu says, \"In the coming days, the kind of challenges that will come from the enemy country, we are ready in every way...in Indora few shells of drones have been recovered...in Punjab whatever SOP"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 03:00 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921135668966670453",
-                        "tweet_content": "#WATCH | Shimla: On India-Pakistan tensions, Himachal Pradesh CM Sukhvinder Singh Sukhu says, \" A son of Himachal has laid down his life, Himachal govt condoles his death, he will be given state honours. I spoke to his father as well, he bravely said that his son sacrificed his"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Debris of a projectile has been found in Damtal village, Kangra district, Himachal Pradesh, following a reported blast; the area has been secured.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 02:42 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921131271700251089",
-                        "tweet_content": "#WATCH | Himachal Pradesh: Hollowed ground in Damtal village of Kangra district, located near Pathankot in Punjab, where debris of a projectile has been found.  Police say, \"A while ago, a blast was heard here. Following that, we reached here. We have secured the area. Experts"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Prime Minister Narendra Modi chaired a high-level meeting at 7 Lok Kalyan Marg with Defence Minister Rajnath Singh, NSA Ajit Doval, the CDS, and Chiefs of all three Services to discuss the security situation. Attendees were later seen leaving the venue.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 02:33 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921128829000573297",
-                        "tweet_content": "#WATCH | Delhi | CDS and Chiefs of all three Services leave from the 7, LKM after attending the meeting with the PM. National Security Advisor (NSA) Ajit Doval and Defence Minister Rajnath Singh were also present in the meeting."
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 02:30 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921128095370592498",
-                        "tweet_content": "#WATCH | Delhi | National Security Advisor (NSA) Ajit Doval leaves from 7, LKM. Prime Minister Narendra Modi held a meeting with Defence Minister Rajnath Singh, NSA Ajit Doval, CDS and Chiefs of all three Services, at 7, LKM."
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 02:27 PM IST",
-                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921127458981425363",
-                        "tweet_content": "#BREAKING: Prime Minister  @narendramodi  chairs a high level meeting with Raksha Mantri Rajnath Singh, NSA Ajit Doval, CDS, Triservice Chiefs. #OperationSindoor"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 02:22 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921126090141003819",
-                        "tweet_content": "#WATCH | Defence Minister Rajnath Singh leaves from 7, LKM. Prime Minister Narendra Modi held a meeting with Defence Minister Rajnath Singh, NSA Ajit Doval, CDS and Chiefs of all three Services, at 7, LKM."
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 02:21 PM IST",
-                        "tweet_link": "https://x.com/ani_digital/status/1921125983240774117",
-                        "tweet_content": "PM Modi chairs high-level meeting with Defence Minister Rajnath Singh, CDS and armed forces chiefs Read  @ANI  Story | https://aninews.in/news/national/general-news/pm-modi-chairs-high-level-meeting-with-defence-minister-rajnath-singh-cds-and-armed-forces-chiefs20250510141350/… #PMModi #Pakistan #RajnathSingh",
-                        "associated_embedded_links": [
-                            "https://aninews.in/news/national/general-news/pm-modi-chairs-high-level-meeting-with-defence-minister-rajnath-singh-cds-and-armed-forces-chiefs20250510141350/"
-                        ]
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 01:57 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921119912409383016",
-                        "tweet_content": "#WATCH | Delhi: Prime Minister Narendra Modi holds a meeting with Defence Minister Rajnath Singh, NSA Ajit Doval, CDS and Chiefs of all three Services, at 7, LKM."
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 01:55 PM IST",
-                        "tweet_link": "https://x.com/ShivAroor/status/1921119428369924598",
-                        "tweet_content": "PM Modi chairs top meet with 3 armed forces Chiefs, Defence Minister, CDS, NSA etc."
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 01:55 PM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921119286015226279",
-                        "tweet_content": "Just in: PM Modi chairs a high level meeting in Delhi"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Punjab CM Bhagwant Mann stated that the state was prepared for Pakistani attacks, including those in Ferozepur, and will lead from the front. He also noted Pakistan firing long-range missiles, one falling in Sirsa, Haryana, and nightly drone/missile attacks, and urged public caution regarding explosions.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 02:31 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921128382882083104",
-                        "tweet_content": "#WATCH | Mohali: On attack by Pakistan in different parts of the state, Punjab CM Bhagwant Mann says, \"...We were prepared beforehand...Punjab has fought at the front earlier too, and this time too, Punjab will lead from the front. Those who got injured in Ferozepur incident"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 02:16 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921124649015857378",
-                        "tweet_content": "#WATCH | Mohali: Punjab CM Bhagwant Mann says, \"They (Pakistan) are firing and even launching long-range missiles, one of which fell in Sirsa (Haryana). They are launching drones and missiles every night...On one hand, they are firing and sending drones and on the other hand,"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 01:22 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921111151145800029",
-                        "tweet_content": "#WATCH | Mohali: Punjab CM Bhagwant Mann says, \"There is an advisory by the military that if there is an explosion, inform the Police or Army immediately. Do not rush to the location on your own because there might be some live parts (of the object) too...So, I urge everyone to"
-                    }
-                ]
-            },
-            {
-                "point_summary": "India's National Disaster Management Authority (NDMA) has issued an advisory for citizens, outlining measures for national security situations, including effective communication.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 02:25 PM IST",
-                        "tweet_link": "https://x.com/sidhant/status/1921127060921004229",
-                        "tweet_content": "India's National Disaster Management Authority issues advisory for the citizens.  \"Measures that must be adopted in all situations hostile to our national security\" released including effective communication:"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Jodhpur Collector Gaurav Agarwal announced a red alert due to the India-Pakistan situation, with air raid sirens sounded, and appealed to citizens to stay in safe places.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 02:16 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921124594758434994",
-                        "tweet_content": "#WATCH | Jodhpur, Rajasthan | Collector Gaurav Agarwal says, \"In view of the situation between India and Pakistan, we received red alert guidelines this morning, due to which air raid sirens were sounded. I appeal to all the people to stay in their safe places... avoid going to"
-                    }
-                ]
-            },
-            {
-                "point_summary": "The Bureau of Civil Aviation Security (BCAS) has temporarily extended the role of CISF to include direct security and screening of cargo operations and In-line Hold Baggage Screening Systems (ILHBSS) at Indian civil airports. CISF has resumed oversight and will perform random checks.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 02:09 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921122809364766801",
-                        "tweet_content": "All the airports under cover of CISF, have already implemented the new strengthened system. Prior to this directive, CISF's deployment as the primary aviation security force did not explicitly extend to the direct security and screening of cargo operations and the In-line Hold"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 02:08 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921122711557861740",
-                        "tweet_content": "#UPDATE | CISF has responded immediately and resumed oversight over cargo and baggage operations. CISF will oversee operations and the Security staff of airport operators for ILHBSS. The directives also authorise CISF personnel to perform random checks and oversee access control"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 02:07 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921122452807254488",
-                        "tweet_content": "In a significant decision to boost security across Indian civil airports, the Director General of the Bureau of Civil Aviation Security (BCAS) has issued an Official Memorandum (OM) dated May 9, 2025, temporarily extending the role of the Central Industrial Security Force (CISF)"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Mohali DC Komal Mittal appealed to people to stay home, especially after sunset unless necessary, and confirmed coordination with Army and Air Force for updates.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 01:56 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921119518471905402",
-                        "tweet_content": "#WATCH | Mohali, Punjab | DC Komal Mittal says, \"...I appeal to the people to be in their homes, especially after sunset, unless necessary... All our teams are ready, and all the arrangements are in place. We have good coordination with the Army and the Air Force; we receive all"
-                    }
-                ]
-            },
-            {
-                "point_summary": "District administration in Barmer, Rajasthan, has been put on alert following the recovery of an unidentified missile.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 01:01 PM IST",
-                        "tweet_link": "https://x.com/ani_digital/status/1921105811238977546",
-                        "tweet_content": "District administration put on alert in Barmer following recovery of unidentified missile Read  @ANI  Story | https://aninews.in/news/national/general-news/district-administration-put-on-alert-in-barmer-following-recovery-of-unidentified-missile20250510124518/… #Barmer #Rajasthan #India #Pakistan",
-                        "associated_embedded_links": [
-                            "https://aninews.in/news/national/general-news/district-administration-put-on-alert-in-barmer-following-recovery-of-unidentified-missile20250510124518/"
-                        ]
-                    }
-                ]
-            },
-            {
-                "point_summary": "Announcements are being made in Jaisalmer, Rajasthan, appealing for people to stay home, with closures and restrictions on vehicular movement due to the current situation.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 12:58 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921104991168717123",
-                        "tweet_content": "#WATCH | Announcements are being made in Rajasthan's Jaisalmer, appealing people to remain in their houses. \"...Everything will remain closed. Seeing the current situation, all are expected to stay home, and vehicular movements are also stopped...\""
-                    }
-                ]
-            },
-            {
-                "point_summary": "A voluntary training and enrollment camp for Civil Defence Volunteers is being conducted in Chandigarh, with over 1000 people enrolled in response to the current tensions. Many citizens expressed readiness to support the nation.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 12:55 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921104187598713287",
-                        "tweet_content": "#WATCH | Chandigarh DC Nishant Yadav says, \"We are conducting a voluntary training and enrollment camp for Civil Defence Volunteers at Tagore Theatre. People's response is really good. We have enrolled over 1000 people. They are being trained at Tagore Theatre. A large number of"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 12:45 PM IST",
-                        "tweet_link": "https://x.com/ani_digital/status/1921101774481432671",
-                        "tweet_content": "\"Ready to give my life for India\": Massive crowd in Chandigarh respond to civil defence call amid tensions with Pakistan Read  @ANI  Story | https://aninews.in/news/national/general-news/ready-to-give-my-life-for-india-massive-crowd-in-chandigarh-respond-to-civil-defence-call-amid-tensions-with-pakistan20250510123626/… #Chandigarh #Pakistan #defencevolunteers",
-                        "associated_embedded_links": [
-                            "https://aninews.in/news/national/general-news/ready-to-give-my-life-for-india-massive-crowd-in-chandigarh-respond-to-civil-defence-call-amid-tensions-with-pakistan20250510123626/"
-                        ]
-                    }
-                ]
-            },
-            {
-                "point_summary": "A suspicious metal object has been found in Una, Himachal Pradesh. The Deputy Commissioner confirmed the finding, informed higher officials and the Army, and urged public calm.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 12:49 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921102869971038421",
-                        "tweet_content": "#WATCH | Una, Himachal Pradesh | Deputy Commissioner Jatin Lal says, \"...A suspicious metal object has been found and we have informed the higher officials and the Army. I want to convey to all that there is no need to panic, the administration is vigilant, and if anyone has any"
-                    },
-                    {
-                        "posted_ist": "May 10, 2025, 12:49 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921102715750318375",
-                        "tweet_content": "#WATCH | A suspicious metal object found in Himachal Pradesh's Una (Video source - SDM Amb)"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Uttarakhand CM Pushkar Singh Dhami chaired a meeting with top officials to discuss the current situation in view of India-Pakistan tension.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 01:24 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921111562506363113",
-                        "tweet_content": "#WATCH | Dehradun | Uttarakhand CM Pushkar Singh Dhami chaired a meeting on the current situation in view of India-Pakistan tension. The Chief Secretary, Home Secretary, DGP, and other senior officials attended this meeting. District Magistrates and SPs of all the districts of"
-                    }
-                ]
-            },
-            {
-                "point_summary": "Bihar Chief Minister Nitish Kumar held a meeting with top officials of districts adjoining the Bangladesh and Nepal border in Purnia to discuss security arrangements amid India-Pakistan tensions.",
-                "contributing_tweets": [
-                    {
-                        "posted_ist": "May 10, 2025, 01:25 PM IST",
-                        "tweet_link": "https://x.com/ANI/status/1921111758061650031",
-                        "tweet_content": "#WATCH | Bihar Chief Minister Nitish Kumar holds a meeting with top officials of districts adjoining the Bangladesh and Nepal border at the Collectorate in Purnia, to discuss security arrangements in view of the escalating India-Pakistan tensions."
                     }
                 ]
             }

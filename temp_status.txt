@@ -1,2 +1,2 @@
  M news_data.json
-?? temp_status.txt
+ M temp_status.txt
