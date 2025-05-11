@@ -1,2 +1,1 @@
- M news_data.json
  M temp_status.txt
