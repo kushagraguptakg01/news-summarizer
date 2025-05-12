@@ -53,6 +53,31 @@
                 ]
             },
             {
+                "point_summary": "The Indian Army stated that no enemy drones are currently reported near the Pakistan border in North India, asserting the situation is calm and under full control.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 12, 2025, 11:42 PM IST",
+                        "tweet_link": "https://x.com/aravind/status/1921991875080208475",
+                        "tweet_content": "Army: No enemy drones are being reported at present. The situation is calm and under full control."
+                    },
+                    {
+                        "posted_ist": "May 12, 2025, 11:41 PM IST",
+                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921991587455758500",
+                        "tweet_content": "#BREAKING: Indian Army says No enemy drones are being reported at present. The situation is calm and under full control."
+                    },
+                    {
+                        "posted_ist": "May 12, 2025, 11:40 PM IST",
+                        "tweet_link": "https://x.com/sidhant/status/1921991407385932125",
+                        "tweet_content": "No enemy drones are being reported at present. The situation is calm and under full control: Indian Army on drones being spotted in north India, bordering Pakistan"
+                    },
+                    {
+                        "posted_ist": "May 12, 2025, 11:36 PM IST",
+                        "tweet_link": "https://x.com/ShivAroor/status/1921990351054569972",
+                        "tweet_content": "Army: No enemy drones are being reported at present. The situation is calm and under full control."
+                    }
+                ]
+            },
+            {
                 "point_summary": "Reports of Pakistani drone activity in Barmer, Rajasthan, being neutralized by Indian Air Defence.",
                 "contributing_tweets": [
                     {
@@ -3327,6 +3352,16 @@
     {
         "theme_name": "Indian Domestic Response & Preparedness",
         "specific_points": [
+            {
+                "point_summary": "Barmer District Administration announced that pre-scheduled blackouts are cancelled from May 12, 2025, based on National Security Agency input, though emergency blackouts can still be implemented if necessary.",
+                "contributing_tweets": [
+                    {
+                        "posted_ist": "May 12, 2025, 11:33 PM IST",
+                        "tweet_link": "https://x.com/AdityaRajKaul/status/1921989655752282470",
+                        "tweet_content": "Barmer DC As per the instructions received, input has been given by the National Security Agencies that *there is no need for pre-scheduled blackout from today i.e. 12th May, 2025.* *However, in case of emergency, immediate blackouts can be implemented.* - District Administration, Barmer"
+                    }
+                ]
+            },
             {
                 "point_summary": "Barmer District Administration announced that pre-scheduled blackouts are cancelled from May 12, 2025, based on National Security Agency input, though emergency blackouts can still be implemented if necessary.",
                 "contributing_tweets": [
